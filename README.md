@@ -7,6 +7,14 @@ A simple list with rough categorizatio.
 - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) About the hacking scene, the tools, approach and more.
 - [Stacksmashing](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 
+
+
+## F1
+
+- [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
+
+
+
 ## Geography
 
 - [Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w) Explore the macro and micro of the continents and the environment.
