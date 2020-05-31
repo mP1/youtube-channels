@@ -12,7 +12,14 @@ A simple list with rough categorizatio.
 ## F1
 
 - [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
+- [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q) Pro driver discussing F1 driving, tracks, tactics
+- [WTF](https://www.youtube.com/channel/UCDxm-FbK9nmZKqHI19j-DOw) Trivia about F1
 
+
+
+# Gaming
+
+- [New Frame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw) A professional animator analyzing animation within many computer games
 
 
 ## Geography
