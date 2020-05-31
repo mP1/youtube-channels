@@ -61,6 +61,7 @@ A simple list with rough categorizatio.
 
 - [8-Bit Show and Tell](https://www.youtube.com/channel/UC3gRBswFkuteshdwMZAQafQ) Mostly focusing on 80s computers like the C64.
 - [Daniel Ibberson](https://www.youtube.com/channel/UC455p7ts9lh8IWi5zuf_8tQ) Anthology of games and arcade machines.
+- [ETA Prime](https://www.youtube.com/user/Mretaprime) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Sega Lord X](https://www.youtube.com/channel/UCZ5JH5f8ODllQjrzgqdT5Dg) Retro sega consoles and arcade games.
 
