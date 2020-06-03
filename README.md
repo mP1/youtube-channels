@@ -1,4 +1,4 @@
-A simple list with rough categorizatio.
+A simple list with rough categorizations.
 
 ## Computing
 
@@ -37,6 +37,8 @@ A simple list with rough categorizatio.
 - [History with Hilbert](https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg) A bit too much history about the dutch but a lot of great short content.
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
 - [Jazby](https://www.youtube.com/channel/UCoUkea_dZioNSJbi1vWDZkA) Our friend visit the world connecting the past and different places with today.
+- [Kings and Generals](https://www.youtube.com/channel/UCMmaBzfCCwZ2KqaBJjkj0fw) Travel mostly the Roman World and surrounding locations
+- [Ruairidh MacVeigh](https://www.youtube.com/channel/UCC8R7kmt-W14zWUcr8mymEQ) Interesting sample, is the series: Places lost in Time
 
 
 
@@ -53,7 +55,10 @@ A simple list with rough categorizatio.
 
 
 ## RC
+- [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw) Reviews and learn about flying little machines FPV
+- [Joshua Bardwell](https://www.youtube.com/user/loraan) Professional reviews, tips and more about racing not camera drones.
 - [Ramy RC](https://www.youtube.com/user/ramyfrah) Watch this artist build all sorts of wonderful scaled planes that fly.
+- [RC Model Reviews](https://www.youtube.com/channel/UCahqHsTaADV8MMmj2D5i1Vw) Everybody in RC knows Bruce, lots too see and learn.
 
 
 
