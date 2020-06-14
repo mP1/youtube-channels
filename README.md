@@ -5,12 +5,14 @@ A simple list with rough categorizations.
 - [Ange Albertini](https://www.youtube.com/channel/UCwQvHQ2JdGomedDJFJ9r7DA) Incredible stories about hacking the impossible including the encrypted CPS (Capcom arcade boards).
 - [ChaosComputingClub](https://www.youtube.com/user/mediacccde) Mixture of German and English yearly conferences talking about all sorts of technology, hacking and more.
 - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) About the hacking scene, the tools, approach and more.
+- [NDC Conference](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q) General computing but mostly Microsoft dotnet conference
 - [Stacksmashing](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 
 
 
 ## F1
 
+- [Autosport](https://www.youtube.com/channel/UCxuksozHJD_f1w9nVa6UhAw) Everything about F1 past and present
 - [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
 - [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q) Pro driver discussing F1 driving, tracks, tactics
 - [WTF](https://www.youtube.com/channel/UCDxm-FbK9nmZKqHI19j-DOw) Trivia about F1
@@ -26,6 +28,7 @@ A simple list with rough categorizations.
 
 - [Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w) Explore the macro and micro of the continents and the environment.
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) Mostly American focus but a lot of content to learn about the world. 
+- [Johnny Harris](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw) Explore the world
 - [Tim the traveller](https://www.youtube.com/channel/UC2LVhJH_9cT2XKp0VAfsKOQ) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
 
@@ -68,6 +71,7 @@ A simple list with rough categorizations.
 - [Daniel Ibberson](https://www.youtube.com/channel/UC455p7ts9lh8IWi5zuf_8tQ) Anthology of games and arcade machines.
 - [ETA Prime](https://www.youtube.com/user/Mretaprime) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
+- [Smoke Monster](https://www.youtube.com/channel/UCskJUZ8X__mwcoU9HvGKCMg) The source for MiSTER FPGA emulation, flash carts and more.
 - [Sega Lord X](https://www.youtube.com/channel/UCZ5JH5f8ODllQjrzgqdT5Dg) Retro sega consoles and arcade games.
 
 
