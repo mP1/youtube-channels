@@ -37,7 +37,6 @@ A simple list with rough categorizations.
 ## History
 
 - [Historia Civilis](https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A) Another channel about the Roman World and how it was the same yet different to our own.
-- [History Buffs](https://www.youtube.com/channel/UCggHoXaj8BQHIiPmOxezeWA) Reviews of so called historical movies about what they got right and wrong.
 - [History with Hilbert](https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg) A bit too much history about the dutch but a lot of great short content.
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
 - [Jazby](https://www.youtube.com/channel/UCoUkea_dZioNSJbi1vWDZkA) Our friend visit the world connecting the past and different places with today.
@@ -49,6 +48,11 @@ A simple list with rough categorizations.
 ## Languages
 
 - [LangFocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) Learn a lot about the world via the languages we and others use.
+
+
+
+## Movies
+- [History Buffs](https://www.youtube.com/channel/UCggHoXaj8BQHIiPmOxezeWA) Reviews of so called historical movies about what they got right and wrong.
 
 
 
