@@ -41,6 +41,7 @@ A simple list with rough categorizations.
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
 - [Jazby](https://www.youtube.com/channel/UCoUkea_dZioNSJbi1vWDZkA) Our friend visit the world connecting the past and different places with today.
 - [Kings and Generals](https://www.youtube.com/channel/UCMmaBzfCCwZ2KqaBJjkj0fw) Travel mostly the Roman World and surrounding locations
+- [Mark Felton Productions](https://www.youtube.com/channel/UCfCKvREB11-fxyotS1ONgww) High quality analysis and history of past wars, often with unseen footage.
 - [Ruairidh MacVeigh](https://www.youtube.com/channel/UCC8R7kmt-W14zWUcr8mymEQ) Interesting sample, is the series: Places lost in Time
 
 
