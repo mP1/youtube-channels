@@ -10,8 +10,9 @@ A simple list with rough categorizations.
 
 
 
-## F1
+## F1 / Motorspot
 
+- [Aidan Millward] (https://www.youtube.com/channel/UC6RKpfiMMylubgI6cAj2kNg) Stories and more about motorsport
 - [Autosport](https://www.youtube.com/channel/UCxuksozHJD_f1w9nVa6UhAw) Everything about F1 past and present
 - [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
 - [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q) Pro driver discussing F1 driving, tracks, tactics
@@ -26,6 +27,7 @@ A simple list with rough categorizations.
 
 ## Geography
 
+- [Abroad in Japan](https://www.youtube.com/channel/UCHL9bfHTxCMi-7vfxQ-AYtg) What do you really know about life in Japan ?
 - [Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w) Explore the macro and micro of the continents and the environment.
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) Mostly American focus but a lot of content to learn about the world. 
 - [Johnny Harris](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw) Explore the world
@@ -98,6 +100,8 @@ A simple list with rough categorizations.
 
 - [Techmoan](https://www.youtube.com/channel/UC5I2hjZYiW9gZPVkvzM8_Cw) Reviews of current and machines and consumer technology past and present.
 - [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q) In depth disection of common technology we use but never really understood how or why it worked.
+- [Xiaomify](https://www.youtube.com/channel/UCkTuQn6fQ_cmnWoXfjQ6thw) Reviews about all things Xiaomi, a large company that makes everything.
+
 
 
 ## Video
