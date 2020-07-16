@@ -23,7 +23,7 @@ A simple list with rough categorizations.
 # Gaming
 
 - [New Frame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw) A professional animator analyzing animation within many computer games
-
+- [Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 
 ## Geography
 
@@ -76,9 +76,11 @@ A simple list with rough categorizations.
 ## Retro
 
 - [8-Bit Show and Tell](https://www.youtube.com/channel/UC3gRBswFkuteshdwMZAQafQ) Mostly focusing on 80s computers like the C64.
+- [Coding secrets](https://www.youtube.com/channel/UCkY047vYjF92-8HcoVTXAOg) More videos from GameHut.
 - [Daniel Ibberson](https://www.youtube.com/channel/UC455p7ts9lh8IWi5zuf_8tQ) Anthology of games and arcade machines.
 - [ETA Prime](https://www.youtube.com/user/Mretaprime) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
+- [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) In depth analysis of old retro games.
 - [Smoke Monster](https://www.youtube.com/channel/UCskJUZ8X__mwcoU9HvGKCMg) The source for MiSTER FPGA emulation, flash carts and more.
 - [Sega Lord X](https://www.youtube.com/channel/UCZ5JH5f8ODllQjrzgqdT5Dg) Retro sega consoles and arcade games.
 
