@@ -6,8 +6,9 @@ A simple list with rough categorizations.
 - [ChaosComputingClub](https://www.youtube.com/user/mediacccde) Mixture of German and English yearly conferences talking about all sorts of technology, hacking and more.
 - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) About the hacking scene, the tools, approach and more.
 - [NDC Conference](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q) General computing but mostly Microsoft dotnet conference
+- [Sebastian Lague])https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) Explore maths, code in 3D
 - [Stacksmashing](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
-
+- [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 
 
 ## F1 / Motorspot
