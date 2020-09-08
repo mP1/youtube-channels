@@ -39,6 +39,7 @@ A simple list with rough categorizations.
 
 ## History
 
+- [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
 - [Historia Civilis](https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A) Another channel about the Roman World and how it was the same yet different to our own.
 - [History with Hilbert](https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg) A bit too much history about the dutch but a lot of great short content.
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
@@ -79,6 +80,7 @@ A simple list with rough categorizations.
 - [8-Bit Show and Tell](https://www.youtube.com/channel/UC3gRBswFkuteshdwMZAQafQ) Mostly focusing on 80s computers like the C64.
 - [Coding secrets](https://www.youtube.com/channel/UCkY047vYjF92-8HcoVTXAOg) More videos from GameHut.
 - [Daniel Ibberson](https://www.youtube.com/channel/UC455p7ts9lh8IWi5zuf_8tQ) Anthology of games and arcade machines.
+- [Displaced Games](https://www.youtube.com/channel/UCWoSKWs8h6lFdiEDAjuIfpA) Tech talk about all sorts of past consoles and games.
 - [ETA Prime](https://www.youtube.com/user/Mretaprime) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) In depth analysis of old retro games.
@@ -103,6 +105,7 @@ A simple list with rough categorizations.
 
 - [Techmoan](https://www.youtube.com/channel/UC5I2hjZYiW9gZPVkvzM8_Cw) Reviews of current and machines and consumer technology past and present.
 - [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q) In depth disection of common technology we use but never really understood how or why it worked.
+- [Tom Stanton](https://www.youtube.com/channel/UC67gfx2Fg7K2NSHqoENVgwA) Builds a lot of models that explore different and basically lost engineering ideas.
 - [Xiaomify](https://www.youtube.com/channel/UCkTuQn6fQ_cmnWoXfjQ6thw) Reviews about all things Xiaomi, a large company that makes everything.
 
 
