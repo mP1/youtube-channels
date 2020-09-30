@@ -46,6 +46,7 @@ A simple list with rough categorizations.
 - [Jazby](https://www.youtube.com/channel/UCoUkea_dZioNSJbi1vWDZkA) Our friend visit the world connecting the past and different places with today.
 - [Kings and Generals](https://www.youtube.com/channel/UCMmaBzfCCwZ2KqaBJjkj0fw) Travel mostly the Roman World and surrounding locations
 - [Mark Felton Productions](https://www.youtube.com/channel/UCfCKvREB11-fxyotS1ONgww) High quality analysis and history of past wars, often with unseen footage.
+- [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
 - [Ruairidh MacVeigh](https://www.youtube.com/channel/UCC8R7kmt-W14zWUcr8mymEQ) Interesting sample, is the series: Places lost in Time
 
 
@@ -53,6 +54,13 @@ A simple list with rough categorizations.
 ## Languages
 
 - [LangFocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) Learn a lot about the world via the languages we and others use.
+
+
+
+## Maths
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) Fascinating maths.
+
 
 
 
@@ -70,6 +78,7 @@ A simple list with rough categorizations.
 ## RC
 - [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw) Reviews and learn about flying little machines FPV
 - [Joshua Bardwell](https://www.youtube.com/user/loraan) Professional reviews, tips and more about racing not camera drones.
+- [Project Air](https://www.youtube.com/c/ProjectAirAviation) Lots of cool building projects that really work.
 - [Ramy RC](https://www.youtube.com/user/ramyfrah) Watch this artist build all sorts of wonderful scaled planes that fly.
 - [RC Model Reviews](https://www.youtube.com/channel/UCahqHsTaADV8MMmj2D5i1Vw) Everybody in RC knows Bruce, lots too see and learn.
 
@@ -86,6 +95,7 @@ A simple list with rough categorizations.
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) In depth analysis of old retro games.
 - [Smoke Monster](https://www.youtube.com/channel/UCskJUZ8X__mwcoU9HvGKCMg) The source for MiSTER FPGA emulation, flash carts and more.
 - [Sega Lord X](https://www.youtube.com/channel/UCZ5JH5f8ODllQjrzgqdT5Dg) Retro sega consoles and arcade games.
+- [Strafefox](https://www.youtube.com/channel/UCtt_NEKZ4MoH4O7BT3SbXTA) Beauiful history of old arcade and console games. 
 
 
 
