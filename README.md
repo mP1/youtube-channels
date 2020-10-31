@@ -4,6 +4,7 @@ A simple list with rough categorizations.
 
 - [Ange Albertini](https://www.youtube.com/channel/UCwQvHQ2JdGomedDJFJ9r7DA) Incredible stories about hacking the impossible including the encrypted CPS (Capcom arcade boards).
 - [ChaosComputingClub](https://www.youtube.com/user/mediacccde) Mixture of German and English yearly conferences talking about all sorts of technology, hacking and more.
+- [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) About the hacking scene, the tools, approach and more.
 - [NDC Conference](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q) General computing but mostly Microsoft dotnet conference
 - [Sebastian Lague])https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) Explore maths, code in 3D
@@ -70,6 +71,8 @@ A simple list with rough categorizations.
 
 
 ## Planes
+- [Dark Skies](https://www.youtube.com/channel/UCwx8xyh6ZlDI5ZQpbIWKnUg) More about plane developments, history and tech.
+- [Found and Explained](https://www.youtube.com/channel/UCpM4zrZ9c_apiEj6CApj2yw) Planes that never flew from Boeing, Lockhead, Airbus and other aviation.
 - [Mustard](https://www.youtube.com/channel/UC1ZBQ-F-yktYD4m5AzM6pww) A history of many planes and flying machines you have and havent heard of.
 - [Skyship](https://www.youtube.com/channel/UCt-xRCZqNAOCxPUh_kXymNQ) Amazing presentations about current and past birds from the west and Russia.
 
