@@ -7,14 +7,14 @@ A simple list with rough categorizations.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) About the hacking scene, the tools, approach and more.
 - [NDC Conference](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q) General computing but mostly Microsoft dotnet conference
-- [Sebastian Lague])https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) Explore maths, code in 3D
+- [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) Explore maths, code in 3D
 - [Stacksmashing](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 
 
 ## F1 / Motorspot
 
-- [Aidan Millward] (https://www.youtube.com/channel/UC6RKpfiMMylubgI6cAj2kNg) Stories and more about motorsport
+- [Aidan Millward](https://www.youtube.com/channel/UC6RKpfiMMylubgI6cAj2kNg) Stories and more about motorsport
 - [Autosport](https://www.youtube.com/channel/UCxuksozHJD_f1w9nVa6UhAw) Everything about F1 past and present
 - [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
 - [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q) Pro driver discussing F1 driving, tracks, tactics
