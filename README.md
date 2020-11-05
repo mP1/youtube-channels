@@ -27,12 +27,15 @@ A simple list with rough categorizations.
 - [New Frame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw) A professional animator analyzing animation within many computer games
 - [Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 
+
+
 ## Geography
 
 - [Abroad in Japan](https://www.youtube.com/channel/UCHL9bfHTxCMi-7vfxQ-AYtg) What do you really know about life in Japan ?
 - [Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w) Explore the macro and micro of the continents and the environment.
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) Mostly American focus but a lot of content to learn about the world. 
 - [Johnny Harris](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw) Explore the world
+- [Kento Bento](https://www.youtube.com/channel/UCLOwKVD0bYHxaDZxXkK4piw) Mostly concentrating on the far east, Japan & Korea.
 - [Name Explain](https://www.youtube.com/channel/UCy_QZ1EEY4S5YT6cmBTwMwg) Names of everything around the world.
 - [Tim the traveller](https://www.youtube.com/channel/UC2LVhJH_9cT2XKp0VAfsKOQ) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
