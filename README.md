@@ -30,6 +30,7 @@ A simple list with rough categorizations.
 
 
 # Gardening
+- [Easy do](https://www.youtube.com/channel/UC5aMO145apupAMhKtpD0ujQ) Gardening and kitchen tips
 - [L' Arca delle idee - Stefano Gullotta](https://www.youtube.com/channel/UCcYyhWGKQL0aYSK8M6kTIVw) All italian instructions with subtitles for interesting garden projects
 
 
