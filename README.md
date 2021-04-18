@@ -41,6 +41,7 @@ A simple list with rough categorizations.
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) Mostly American focus but a lot of content to learn about the world. 
 - [Johnny Harris](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw) Explore the world
 - [Kento Bento](https://www.youtube.com/channel/UCLOwKVD0bYHxaDZxXkK4piw) Mostly concentrating on the far east, Japan & Korea.
+- [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Name Explain](https://www.youtube.com/channel/UCy_QZ1EEY4S5YT6cmBTwMwg) Names of everything around the world.
 - [Tim the traveller](https://www.youtube.com/channel/UC2LVhJH_9cT2XKp0VAfsKOQ) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
