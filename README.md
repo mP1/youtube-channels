@@ -43,6 +43,7 @@ A simple list with rough categorizations.
 - [Kento Bento](https://www.youtube.com/channel/UCLOwKVD0bYHxaDZxXkK4piw) Mostly concentrating on the far east, Japan & Korea.
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Name Explain](https://www.youtube.com/channel/UCy_QZ1EEY4S5YT6cmBTwMwg) Names of everything around the world.
+- [Railways of the World](https://www.youtube.com/channel/UC2IW5YxobFz2cgqClr9MMQQ) Ride Public Transport around the worlds great cities and towns.
 - [Tim the traveller](https://www.youtube.com/channel/UC2LVhJH_9cT2XKp0VAfsKOQ) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
