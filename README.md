@@ -112,8 +112,10 @@ A simple list with rough categorizations.
 
 ## Science
 
+- [Kyle Hill](https://www.youtube.com/channel/UCFbtcTaMFnOAP0pFO1L8hVw) Science, physics, how and why
 - [Thoisol](https://www.youtube.com/user/TheThoisoi2) Chemistry, experiments, chemical compounds, explosions, scientists and more.
 - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) Always something to learn or think about.
+
 
 
 ## Space
