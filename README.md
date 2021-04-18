@@ -44,6 +44,8 @@ A simple list with rough categorizations.
 - [Name Explain](https://www.youtube.com/channel/UCy_QZ1EEY4S5YT6cmBTwMwg) Names of everything around the world.
 - [Tim the traveller](https://www.youtube.com/channel/UC2LVhJH_9cT2XKp0VAfsKOQ) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
+- [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
+
 
 
 ## History
