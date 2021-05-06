@@ -25,6 +25,7 @@ A simple list with rough categorizations.
 # Gaming
 
 - [New Frame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw) A professional animator analyzing animation within many computer games
+- [Stratefox](https://www.youtube.com/user/strafefox) History of modern games and other media
 - [Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 
 
