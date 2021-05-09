@@ -12,6 +12,13 @@ A simple list with rough categorizations.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 
 
+
+## Current Affairs
+
+- [Deutsch World Documentary](https://www.youtube.com/channel/UCW39zufHfsuGgpLviKh297Q) Current Affairs
+
+
+
 ## F1 / Motorspot
 
 - [Aidan Millward](https://www.youtube.com/channel/UC6RKpfiMMylubgI6cAj2kNg) Stories and more about motorsport
