@@ -126,6 +126,7 @@ A simple list with rough categorizations.
 
 ## Space
 
+- [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q) Bringing Space down to Earth for Everyday People
 - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A) Learn everything about rockets, space, the missions, the equipment and more.
 
 
