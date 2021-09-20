@@ -10,6 +10,7 @@ A simple list with rough categorizations.
 - [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) Explore maths, code in 3D
 - [Stacksmashing](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
+- [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
 
 
 
