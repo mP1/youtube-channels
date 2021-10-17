@@ -72,6 +72,7 @@ A simple list with rough categorizations.
 - [Kings and Generals](https://www.youtube.com/channel/UCMmaBzfCCwZ2KqaBJjkj0fw) Travel mostly the Roman World and surrounding locations
 - [Mark Felton Productions](https://www.youtube.com/channel/UCfCKvREB11-fxyotS1ONgww) High quality analysis and history of past wars, often with unseen footage.
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
+- [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) Documentaries about ancient animals and more.
 - [Ruairidh MacVeigh](https://www.youtube.com/channel/UCC8R7kmt-W14zWUcr8mymEQ) Interesting sample, is the series: Places lost in Time
 
 
