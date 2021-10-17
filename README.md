@@ -14,6 +14,12 @@ A simple list with rough categorizations.
 
 
 
+## Craft
+
+- [Studson studio](https://www.youtube.com/c/StudsonStudio) Crafting Miniatures & Models based on Movies & Games
+
+
+
 ## Current Affairs
 
 - [Deutsch World Documentary](https://www.youtube.com/channel/UCW39zufHfsuGgpLviKh297Q) Current Affairs
