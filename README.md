@@ -34,6 +34,7 @@ A simple list with rough categorizations.
 - [New Frame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw) A professional animator analyzing animation within many computer games
 - [Stratefox](https://www.youtube.com/user/strafefox) History of modern games and other media
 - [Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
+- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) Game Developers Conference
 
 
 
@@ -50,6 +51,7 @@ A simple list with rough categorizations.
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) Mostly American focus but a lot of content to learn about the world. 
 - [Johnny Harris](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw) Explore the world
 - [Kento Bento](https://www.youtube.com/channel/UCLOwKVD0bYHxaDZxXkK4piw) Mostly concentrating on the far east, Japan & Korea.
+- [Where im From](https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA) Life in Japan
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Name Explain](https://www.youtube.com/channel/UCy_QZ1EEY4S5YT6cmBTwMwg) Names of everything around the world.
 - [Railways of the World](https://www.youtube.com/channel/UC2IW5YxobFz2cgqClr9MMQQ) Ride Public Transport around the worlds great cities and towns.
