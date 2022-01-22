@@ -16,6 +16,7 @@ A simple list with rough categorizations.
 
 ## Craft
 
+- [3JWings](https://www.youtube.com/channel/UClFbYkwEVAul703EM4RDacg) Build a variety of flying machines including Ornithopters
 - [Studson studio](https://www.youtube.com/c/StudsonStudio) Crafting Miniatures & Models based on Movies & Games
 
 
