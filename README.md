@@ -27,6 +27,12 @@ A simple list with rough categorizations.
 
 
 
+## Electronics
+
+- [Ben Eater](https://www.youtube.com/c/BenEater/) Breadboards, low level hardware.
+
+
+
 ## F1 / Motorsport
 
 - [Aidan Millward](https://www.youtube.com/channel/UC6RKpfiMMylubgI6cAj2kNg) Stories and more about motorsport
