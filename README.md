@@ -26,7 +26,7 @@ A simple list with rough categorizations.
 
 
 
-## F1 / Motorspot
+## F1 / Motorsport
 
 - [Aidan Millward](https://www.youtube.com/channel/UC6RKpfiMMylubgI6cAj2kNg) Stories and more about motorsport
 - [Autosport](https://www.youtube.com/channel/UCxuksozHJD_f1w9nVa6UhAw) Everything about F1 past and present
