@@ -78,6 +78,7 @@ A simple list with rough categorizations.
 
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
 - [Historia Civilis](https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A) Another channel about the Roman World and how it was the same yet different to our own.
+- [History in 3D](https://www.youtube.com/channel/UCyyxeul6iQfXJl3Avct1wMQ) Visit ancient Rome in 3D
 - [History with Hilbert](https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg) A bit too much history about the dutch but a lot of great short content.
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
 - [Jazby](https://www.youtube.com/channel/UCoUkea_dZioNSJbi1vWDZkA) Our friend visit the world connecting the past and different places with today.
