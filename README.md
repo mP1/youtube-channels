@@ -28,6 +28,12 @@ A simple list with rough categorizations.
 
 
 
+## Boats, Shipping, Navigation
+
+- [Casual Navigation](https://www.youtube.com/channel/UC5_HIscbiDZM0dMX-nCksuA) Lots of info about ships and the oceans.
+
+
+
 ## Electronics
 
 - [Ben Eater](https://www.youtube.com/c/BenEater/) Breadboards, low level hardware.
