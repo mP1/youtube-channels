@@ -130,7 +130,7 @@ A simple list with rough categorizations.
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) In depth analysis of old retro games.
 - [Smoke Monster](https://www.youtube.com/channel/UCskJUZ8X__mwcoU9HvGKCMg) The source for MiSTER FPGA emulation, flash carts and more.
 - [Sega Lord X](https://www.youtube.com/channel/UCZ5JH5f8ODllQjrzgqdT5Dg) Retro sega consoles and arcade games.
-- [Strafefox](https://www.youtube.com/channel/UCtt_NEKZ4MoH4O7BT3SbXTA) Beauiful history of old arcade and console games. 
+- [Strafefox](https://www.youtube.com/channel/UCtt_NEKZ4MoH4O7BT3SbXTA) Beautiful history of old arcade and console games. 
 
 
 
@@ -152,7 +152,7 @@ A simple list with rough categorizations.
 ## Technology
 
 - [Techmoan](https://www.youtube.com/channel/UC5I2hjZYiW9gZPVkvzM8_Cw) Reviews of current and machines and consumer technology past and present.
-- [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q) In depth disection of common technology we use but never really understood how or why it worked.
+- [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q) In depth dissection of common technology we use but never really understood how or why it worked.
 - [Tom Stanton](https://www.youtube.com/channel/UC67gfx2Fg7K2NSHqoENVgwA) Builds a lot of models that explore different and basically lost engineering ideas.
 - [Xiaomify](https://www.youtube.com/channel/UCkTuQn6fQ_cmnWoXfjQ6thw) Reviews about all things Xiaomi, a large company that makes everything.
 
