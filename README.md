@@ -69,6 +69,11 @@ A simple list with rough categorizations.
 
 
 
+## Graphics
+- [Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg) Pixel art, design, principles, drawing, analysis and more
+
+
+
 ## History
 
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
