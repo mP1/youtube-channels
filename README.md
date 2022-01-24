@@ -85,6 +85,7 @@ A simple list with rough categorizations.
 
 
 ## Graphics
+- [AdamCYounis](https://www.youtube.com/channel/UC08QfQDLAd9D7aYPFgBUIng) Pixel art, indie game development and more.
 - [Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg) Pixel art, design, principles, drawing, analysis and more
 - [MortMort](https://www.youtube.com/channel/UCsn9MzwyPKeCE6MEGtMU4gg) Creative videos and streams.
 - [Normal Neighbor](https://www.youtube.com/c/NormalNeighbor/videos) Pixel art
