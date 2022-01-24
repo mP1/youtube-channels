@@ -87,6 +87,7 @@ A simple list with rough categorizations.
 ## Graphics
 - [Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg) Pixel art, design, principles, drawing, analysis and more
 - [MortMort](https://www.youtube.com/channel/UCsn9MzwyPKeCE6MEGtMU4gg) Creative videos and streams.
+- [Pixel Pete](https://www.youtube.com/channel/UC7OO80qJzGTLOj_6-0dmOiA) I'm an Indie game dev here to help!
 
 
 
