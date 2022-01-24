@@ -85,6 +85,7 @@ A simple list with rough categorizations.
 
 ## Graphics
 - [Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg) Pixel art, design, principles, drawing, analysis and more
+- [MortMort](https://www.youtube.com/channel/UCsn9MzwyPKeCE6MEGtMU4gg) Creative videos and streams.
 
 
 
