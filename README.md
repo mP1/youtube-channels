@@ -24,6 +24,7 @@ A simple list with rough categorizations.
 
 ## Current Affairs
 
+- [BBC Reel](https://www.youtube.com/channel/UCfYW5GXBXueSO5p9bxD45qg) A different view of the world, past, present & future.
 - [Deutsch World Documentary](https://www.youtube.com/channel/UCW39zufHfsuGgpLviKh297Q) Current Affairs
 
 
