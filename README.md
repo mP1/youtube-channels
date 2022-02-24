@@ -47,6 +47,7 @@ A simple list with rough categorizations.
 - [Autosport](https://www.youtube.com/channel/UCxuksozHJD_f1w9nVa6UhAw) Everything about F1 past and present
 - [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
 - [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q) Pro driver discussing F1 driving, tracks, tactics
+- [Goodwood Road & Racing](https://www.youtube.com/channel/UC8rador8CU-pTJ6p7WNiv6w) Mostly racing but a lot of good content.
 - [WTF](https://www.youtube.com/channel/UCDxm-FbK9nmZKqHI19j-DOw) Trivia about F1
 
 
