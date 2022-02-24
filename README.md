@@ -154,6 +154,7 @@ A simple list with rough categorizations.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) In depth analysis of old retro games.
 - [Smoke Monster](https://www.youtube.com/channel/UCskJUZ8X__mwcoU9HvGKCMg) The source for MiSTER FPGA emulation, flash carts and more.
+- [SNES Drunk](https://www.youtube.com/channel/UCfBLXTwLoUpDAkHcHizW3Jg) Mostly SNES, but lots of extra goodness like ROM Hacks, etc
 - [Sega Lord X](https://www.youtube.com/channel/UCZ5JH5f8ODllQjrzgqdT5Dg) Retro sega consoles and arcade games.
 - [Strafefox](https://www.youtube.com/channel/UCtt_NEKZ4MoH4O7BT3SbXTA) Beautiful history of old arcade and console games. 
 
