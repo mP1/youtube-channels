@@ -126,6 +126,7 @@ A simple list with rough categorizations.
 
 ## Movies
 - [History Buffs](https://www.youtube.com/channel/UCggHoXaj8BQHIiPmOxezeWA) Reviews of so called historical movies about what they got right and wrong.
+- [RedEye Reviews](https://www.youtube.com/c/RedEyeReviews) Reviews, Trivia, Supercuts, Comedy
 - [Wolfcrow](https://www.youtube.com/c/Wolfcrow) Film making theory
 
 
