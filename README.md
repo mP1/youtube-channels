@@ -108,7 +108,7 @@ A simple list with rough categorizations.
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
 - [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) Documentaries about ancient animals and more.
 - [Ruairidh MacVeigh](https://www.youtube.com/channel/UCC8R7kmt-W14zWUcr8mymEQ) Interesting sample, is the series: Places lost in Time
-
+- [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
 
 
 ## Languages
