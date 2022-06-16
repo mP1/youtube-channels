@@ -157,6 +157,7 @@ A simple list with rough categorizations.
 - [ETA Prime](https://www.youtube.com/user/Mretaprime) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) In depth analysis of old retro games.
+- [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
 - [Smoke Monster](https://www.youtube.com/channel/UCskJUZ8X__mwcoU9HvGKCMg) The source for MiSTER FPGA emulation, flash carts and more.
 - [SNES Drunk](https://www.youtube.com/channel/UCfBLXTwLoUpDAkHcHizW3Jg) Mostly SNES, but lots of extra goodness like ROM Hacks, etc
 - [Sega Lord X](https://www.youtube.com/channel/UCZ5JH5f8ODllQjrzgqdT5Dg) Retro sega consoles and arcade games.
