@@ -161,6 +161,7 @@ A simple list with rough categorizations.
 - [Jeremy Parish](https://www.youtube.com/c/JeremyParish) In depth analysis of old retro games.
 - [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
+- [ShmupJunkie](https://www.youtube.com/c/ShmupJunkie) Shoot em ups
 - [Smoke Monster](https://www.youtube.com/c/SmokeMonster) The source for MiSTER FPGA emulation, flash carts and more.
 - [SNES Drunk](https://www.youtube.com/c/SNESdrunk) Mostly SNES, but lots of extra goodness like ROM Hacks, etc
 - [Sega Lord X](https://www.youtube.com/c/SegaLordX) Retro sega consoles and arcade games.
