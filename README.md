@@ -137,6 +137,7 @@ A simple list with rough categorizations.
 - [Dark Skies](https://www.youtube.com/channel/UCwx8xyh6ZlDI5ZQpbIWKnUg) More about plane developments, history and tech.
 - [Found and Explained](https://www.youtube.com/c/FoundAndExplained) Planes that never flew from Boeing, Lockhead, Airbus and other aviation.
 - [Mustard](https://www.youtube.com/c/MustardChannel) A history of many planes and flying machines you have and havent heard of.
+- [paper Skies](https://www.youtube.com/c/PaperSkiesAviation) Soviet planes and other funny stories.
 - [Skyship](https://www.youtube.com/c/SkyshipsEng) Amazing presentations about current and past birds from the west and Russia.
 
 
