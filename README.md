@@ -129,6 +129,10 @@ A simple list with rough categorizations.
 
 
 
+## Nature
+
+- [AnimaLogic](https://www.youtube.com/c/animalogic) Animalogic, your field guide to the animal kingdom.
+
 ## Planes
 - [Dark Skies](https://www.youtube.com/channel/UCwx8xyh6ZlDI5ZQpbIWKnUg) More about plane developments, history and tech.
 - [Found and Explained](https://www.youtube.com/c/FoundAndExplained) Planes that never flew from Boeing, Lockhead, Airbus and other aviation.
