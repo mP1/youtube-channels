@@ -177,6 +177,7 @@ A simple list with rough categorizations.
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience) Science, physics, how and why
 - [Thoisol](https://www.youtube.com/user/TheThoisoi2) Chemistry, experiments, chemical compounds, explosions, scientists and more.
 - [The Royal Institute](https://www.youtube.com/c/TheRoyalInstitution) The Royal Society, no need to say more!
+- [Up and Atom](https://www.youtube.com/c/UpandAtom) Making hard stuff less hard. Math, physics and computer science.
 - [Veritasium](https://www.youtube.com/c/veritasium) Always something to learn or think about.
 
 
