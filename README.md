@@ -104,6 +104,7 @@ A simple list with rough categorizations.
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
 - [Jazby](https://www.youtube.com/c/JabzyJoe) Our friend visit the world connecting the past and different places with today.
 - [Kings and Generals](https://www.youtube.com/c/KingsandGenerals) Travel mostly the Roman World and surrounding locations
+- [Kings and Things](https://www.youtube.com/channel/UCWE7rlT-oO5DbnJOtxhX_KA) Kings and things
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions) High quality analysis and history of past wars, often with unseen footage.
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
 - [Odyssey](https://www.youtube.com/c/odyssey) Odyssey - Ancient History Documentaries
