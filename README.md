@@ -10,6 +10,7 @@ A simple list with rough categorizations.
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
+- [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
