@@ -63,9 +63,9 @@ A simple list with rough categorizations.
 
 # Gardening
 - [Easy do](https://www.youtube.com/c/EasyDoChannel) Gardening and kitchen tips
+- [Insteading](https://www.youtube.com/c/Insteading) Gardening, Outdoors etc
 - [L' Arca delle idee - Stefano Gullotta](https://www.youtube.com/c/StefanoGullotta) All italian instructions with subtitles for interesting garden projects
 - [Serpa Design](https://www.youtube.com/c/SerpaDesign) Everything terrariums
-
 
 
 ## Geography
