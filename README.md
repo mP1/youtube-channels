@@ -8,6 +8,7 @@ A simple list with rough categorizations.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
+- [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
@@ -57,7 +58,6 @@ A simple list with rough categorizations.
 
 - [GDC](https://www.youtube.com/c/Gdconf) Game Developers Conference
 - [New Frame Plus](https://www.youtube.com/c/NewFramePlus) A professional animator analyzing animation within many computer games
-
 
 
 # Gardening
