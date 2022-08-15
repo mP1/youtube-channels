@@ -35,7 +35,7 @@ A simple list with rough categorizations.
 ## Boats, Shipping, Navigation
 
 - [Casual Navigation](https://www.youtube.com/c/CasualNavigation) Lots of info about ships and the oceans.
-
+- [Oceanliner Designs](https://www.youtube.com/c/OceanlinerDesigns) Titanic, Queen Mary and more grand lady's.
 
 
 ## Electronics
