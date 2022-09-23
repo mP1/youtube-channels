@@ -7,6 +7,7 @@ A simple list with rough categorizations.
 - [Christiaan008](https://www.youtube.com/c/ChRiStIaAn008) Many technology talks, including the wonderful Ultimate talks (C64, Amiga, Gameboy, Apollo guidance computer etc)
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
+- [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
