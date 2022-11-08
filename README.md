@@ -98,6 +98,7 @@ A simple list with rough categorizations.
 ## History
 
 - [British Museums](https://www.youtube.com/c/BritishMuseumEvents) Museums and the Construction of Memory
+- [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
 - [Historia Civilis](https://www.youtube.com/c/HistoriaCivilis) Another channel about the Roman World and how it was the same yet different to our own.
 - [History in 3D](https://www.youtube.com/c/DanikLoginov) Visit ancient Rome in 3D
