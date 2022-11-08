@@ -19,9 +19,10 @@ A simple list with rough categorizations.
 
 
 
-## Craft
+## Culture & Craft
 
 - [3JWings](https://www.youtube.com/channel/UClFbYkwEVAul703EM4RDacg) Build a variety of flying machines including Ornithopters
+- [Adam Ragusea](https://www.youtube.com/user/aragusea/) Stories about food
 - [Studson studio](https://www.youtube.com/c/StudsonStudio) Crafting Miniatures & Models based on Movies & Games
 
 
