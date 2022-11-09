@@ -133,6 +133,7 @@ A simple list with rough categorizations.
 ## Movies
 - [History Buffs](https://www.youtube.com/c/HistoryBuffsLondon) Reviews of so called historical movies about what they got right and wrong.
 - [RedEye Reviews](https://www.youtube.com/c/RedEyeReviews) Reviews, Trivia, Supercuts, Comedy
+- [Weird Explorer](https://www.youtube.com/c/WeirdExplorer) Cashew apple fruit...
 - [Wolfcrow](https://www.youtube.com/c/Wolfcrow) Film making theory
 
 
