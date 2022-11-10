@@ -14,6 +14,7 @@ A simple list with rough categorizations.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
+- [StrangeLoop Conferences](https://www.youtube.com/c/StrangeLoopConf) Talks and presentations about many software technologies and platforms.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
 
