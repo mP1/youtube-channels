@@ -1,6 +1,11 @@
 A simple list with rough categorizations.
 
 
+## Art
+
+- [Kristy Partridge](https://www.youtube.com/@KirstyPartridgeArt) Pencil art, create and techniques
+
+
 
 ## Boats, Shipping, Navigation
 
