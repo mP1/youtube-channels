@@ -83,6 +83,7 @@ A simple list with rough categorizations.
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Name Explain](https://www.youtube.com/c/NameExplain) Names of everything around the world.
 - [Railways of the World](https://www.youtube.com/c/RailwaysoftheWorld1) Ride Public Transport around the worlds great cities and towns.
+- [Rew Boss](https://www.youtube.com/@rewboss) A Brit's eyeview of Germany
 - [Tim the traveller](https://www.youtube.com/c/TheTimTraveller) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
