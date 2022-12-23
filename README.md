@@ -15,19 +15,13 @@ A simple list with rough categorizations.
 - [ChaosComputingClub](https://www.youtube.com/user/mediacccde) Mixture of German and English yearly conferences talking about all sorts of technology, hacking and more.
 - [Christiaan008](https://www.youtube.com/c/ChRiStIaAn008) Many technology talks, including the wonderful Ultimate talks (C64, Amiga, Gameboy, Apollo guidance computer etc)
 - [CyberGizmo](https://www.youtube.com/@CyberGizmo/) Mostly technology reports about Linux
-- [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT) Mostly about game design and development.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
-- [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
-- [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
-- [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [StrangeLoop Conferences](https://www.youtube.com/c/StrangeLoopConf) Talks and presentations about many software technologies and platforms.
-- [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
-
 
 
 ## Culture & Craft
@@ -61,6 +55,15 @@ A simple list with rough categorizations.
 - [Goodwood Road & Racing](https://www.youtube.com/GoodwoodRRC) Mostly racing but a lot of good content.
 - [WTF1](https://www.youtube.com/c/WTF1official) Trivia about F1
 
+
+
+# Game dev
+
+- [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT) Mostly about game design and development.
+- [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
+- [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
+- [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
+- [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 
 
 # Gaming
