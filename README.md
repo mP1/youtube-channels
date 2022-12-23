@@ -1,5 +1,14 @@
 A simple list with rough categorizations.
 
+
+
+## Boats, Shipping, Navigation
+
+- [Casual Navigation](https://www.youtube.com/c/CasualNavigation) Lots of info about ships and the oceans.
+- [Oceanliner Designs](https://www.youtube.com/c/OceanlinerDesigns) Titanic, Queen Mary and more grand lady's.
+
+
+
 ## Computing
 
 - [Ange Albertini](https://www.youtube.com/user/simplelogin) Incredible stories about hacking the impossible including the encrypted CPS (Capcom arcade boards).
@@ -37,12 +46,6 @@ A simple list with rough categorizations.
 
 
 
-## Boats, Shipping, Navigation
-
-- [Casual Navigation](https://www.youtube.com/c/CasualNavigation) Lots of info about ships and the oceans.
-- [Oceanliner Designs](https://www.youtube.com/c/OceanlinerDesigns) Titanic, Queen Mary and more grand lady's.
-
-
 ## Electronics
 
 - [Ben Eater](https://www.youtube.com/c/BenEater/) Breadboards, low level hardware.
@@ -64,6 +67,7 @@ A simple list with rough categorizations.
 
 - [GDC](https://www.youtube.com/c/Gdconf) Game Developers Conference
 - [New Frame Plus](https://www.youtube.com/c/NewFramePlus) A professional animator analyzing animation within many computer games
+
 
 
 # Gardening
@@ -121,6 +125,7 @@ A simple list with rough categorizations.
 - [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
 
 
+
 ## Languages
 
 - [LangFocus](https://www.youtube.com/c/Langfocus) Learn a lot about the world via the languages we and others use.
@@ -130,7 +135,6 @@ A simple list with rough categorizations.
 ## Maths
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) Fascinating maths.
-
 
 
 
@@ -145,6 +149,8 @@ A simple list with rough categorizations.
 ## Nature
 
 - [AnimaLogic](https://www.youtube.com/c/animalogic) Animalogic, your field guide to the animal kingdom.
+
+
 
 ## Planes
 - [Dark Skies](https://www.youtube.com/channel/UCwx8xyh6ZlDI5ZQpbIWKnUg) More about plane developments, history and tech.
