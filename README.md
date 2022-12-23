@@ -193,6 +193,7 @@ A simple list with rough categorizations.
 ## Science
 
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience) Science, physics, how and why
+- [Steve Mould](https://www.youtube.com/@SteveMould) Learn science with simply experiments and demonstrations
 - [Thoisol](https://www.youtube.com/user/TheThoisoi2) Chemistry, experiments, chemical compounds, explosions, scientists and more.
 - [The Royal Institute](https://www.youtube.com/c/TheRoyalInstitution) The Royal Society, no need to say more!
 - [Up and Atom](https://www.youtube.com/c/UpandAtom) Making hard stuff less hard. Math, physics and computer science.
