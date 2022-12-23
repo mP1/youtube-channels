@@ -5,6 +5,7 @@ A simple list with rough categorizations.
 - [Ange Albertini](https://www.youtube.com/user/simplelogin) Incredible stories about hacking the impossible including the encrypted CPS (Capcom arcade boards).
 - [ChaosComputingClub](https://www.youtube.com/user/mediacccde) Mixture of German and English yearly conferences talking about all sorts of technology, hacking and more.
 - [Christiaan008](https://www.youtube.com/c/ChRiStIaAn008) Many technology talks, including the wonderful Ultimate talks (C64, Amiga, Gameboy, Apollo guidance computer etc)
+- [CyberGizmo](https://www.youtube.com/@CyberGizmo/) Mostly technology reports about Linux
 - [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT) Mostly about game design and development.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
