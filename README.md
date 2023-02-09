@@ -83,6 +83,7 @@ A simple list with rough categorizations.
 
 
 # Gardening
+- [Dr obi's graden](https://www.youtube.com/@dr_obisgarden) Grow many common fruit, vegetables, herbs etc from our friend in Ghana.
 - [Easy do](https://www.youtube.com/c/EasyDoChannel) Gardening and kitchen tips
 - [Insteading](https://www.youtube.com/c/Insteading) Gardening, Outdoors etc
 - [L' Arca delle idee - Stefano Gullotta](https://www.youtube.com/c/StefanoGullotta) All italian instructions with subtitles for interesting garden projects
