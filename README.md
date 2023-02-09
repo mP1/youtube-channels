@@ -17,6 +17,7 @@ A simple list with rough categorizations.
 ## Computing
 
 - [Ange Albertini](https://www.youtube.com/user/simplelogin) Incredible stories about hacking the impossible including the encrypted CPS (Capcom arcade boards).
+- [Another Boring Topic](https://www.youtube.com/@AnotherBoringTopic) Stories about the early days of computing, Visicalc, NEXT, Windows and other stuff
 - [ChaosComputingClub](https://www.youtube.com/user/mediacccde) Mixture of German and English yearly conferences talking about all sorts of technology, hacking and more.
 - [Christiaan008](https://www.youtube.com/c/ChRiStIaAn008) Many technology talks, including the wonderful Ultimate talks (C64, Amiga, Gameboy, Apollo guidance computer etc)
 - [CyberGizmo](https://www.youtube.com/@CyberGizmo/) Mostly technology reports about Linux
