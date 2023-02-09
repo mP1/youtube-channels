@@ -208,6 +208,7 @@ A simple list with rough categorizations.
 ## Science
 
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience) Science, physics, how and why
+- [Sci Show](https://www.youtube.com/@SciShow) A show about many topics of science.
 - [Steve Mould](https://www.youtube.com/@SteveMould) Learn science with simply experiments and demonstrations
 - [Thoisol](https://www.youtube.com/user/TheThoisoi2) Chemistry, experiments, chemical compounds, explosions, scientists and more.
 - [The Royal Institute](https://www.youtube.com/c/TheRoyalInstitution) The Royal Society, no need to say more!
