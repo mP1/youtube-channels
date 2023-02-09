@@ -134,6 +134,7 @@ A simple list with rough categorizations.
 - [Odyssey](https://www.youtube.com/c/odyssey) Odyssey - Ancient History Documentaries
 - [PBS Eons](https://www.youtube.com/c/eons) Documentaries about ancient animals and more.
 - [Real Life Lore](https://www.youtube.com/c/RealLifeLore) Mostly current affairs and modern history.
+- [Real Royalty](https://www.youtube.com/@RealRoyalty) Stories about recent royal figures.
 - [Ruairidh MacVeigh](https://www.youtube.com/user/rorymacve) Interesting sample, is the series: Places lost in Time
 - [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
 
