@@ -195,6 +195,7 @@ A simple list with rough categorizations.
 - [ETA Prime](https://www.youtube.com/c/ETAPRIME) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Jeremy Parish](https://www.youtube.com/c/JeremyParish) In depth analysis of old retro games.
+- [Jordan HJ](https://www.youtube.com/@JordanHJ) History of many of the past great games and more
 - [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
 - [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
