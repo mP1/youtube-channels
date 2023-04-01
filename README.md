@@ -125,6 +125,7 @@ A simple list with rough categorizations.
 - [British Museums](https://www.youtube.com/c/BritishMuseumEvents) Museums and the Construction of Memory
 - [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
+- [Histocrat](https://www.youtube.com/@TheHistocrat/) Stories about places and people from the mostly ancient European/Mediterranean world.
 - [Historia Civilis](https://www.youtube.com/c/HistoriaCivilis) Another channel about the Roman World and how it was the same yet different to our own.
 - [History in 3D](https://www.youtube.com/c/DanikLoginov) Visit ancient Rome in 3D
 - [History with Hilbert](https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg) A bit too much history about the dutch but a lot of great short content.
