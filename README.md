@@ -25,6 +25,7 @@ A simple list with rough categorizations.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
+- [SimonDev](https://www.youtube.com/@simondev758) about game related effects and more.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [StrangeLoop Conferences](https://www.youtube.com/c/StrangeLoopConf) Talks and presentations about many software technologies and platforms.
 - [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
