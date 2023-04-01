@@ -143,6 +143,7 @@ A simple list with rough categorizations.
 - [Real Royalty](https://www.youtube.com/@RealRoyalty) Stories about recent royal figures.
 - [Ruairidh MacVeigh](https://www.youtube.com/user/rorymacve) Interesting sample, is the series: Places lost in Time
 - [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
+- [Simon Mayfair](https://www.youtube.com/@SamMayfair) Visit a lot of grand ancient places, like Egypt.
 
 
 
