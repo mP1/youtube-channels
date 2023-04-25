@@ -155,6 +155,12 @@ A simple list with rough categorizations.
 
 
 
+## Magic
+
+- [Mario Lopez Magic](https://www.youtube.com/@Mariolopezmagia) Entertaining magic
+
+
+
 ## Maths
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) Fascinating maths.
