@@ -98,7 +98,8 @@ A simple list with rough categorizations.
 - [Abandoned Oz](https://www.youtube.com/@AbandonedOZ) Lots of unknown places, mostly a way to see an older time around Sydney.
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan) What do you really know about life in Japan ?
 - [Atlas Pro](https://www.youtube.com/c/AtlasPro1) Explore the macro and micro of the continents and the environment.
-- [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world. 
+- [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
+- [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world.
 - [Johnny Harris](https://www.youtube.com/c/johnnyharris) Explore the world
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
