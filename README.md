@@ -213,6 +213,7 @@ A simple list with rough categorizations.
 - [Jordan HJ](https://www.youtube.com/@JordanHJ) History of many of the past great games and more
 - [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
 - [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
+- [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 - [ShmupJunkie](https://www.youtube.com/c/ShmupJunkie) Shoot em ups
 - [Smoke Monster](https://www.youtube.com/c/SmokeMonster) The source for MiSTER FPGA emulation, flash carts and more.
