@@ -101,6 +101,7 @@ A simple list with rough categorizations.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
 - [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world.
 - [Insider Business](https://www.youtube.com/@InsiderBusiness) Visit a lot of small traditional artisan craftsmanship.
+- [Insider Food](https://www.youtube.com/@InsiderFood) Visit a lot of traditional food prepartions, means and enjoyment.
 - [Johnny Harris](https://www.youtube.com/c/johnnyharris) Explore the world
 - [Josh Kwan](https://www.youtube.com/@joshkwan) Bicycle rides around Sydney
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
