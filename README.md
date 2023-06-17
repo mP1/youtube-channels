@@ -188,6 +188,7 @@ A simple list with rough categorizations.
 - [GreenDot Aviation](https://www.youtube.com/@GreenDotAviation) Air crash investigation type show
 - [Mustard](https://www.youtube.com/c/MustardChannel) A history of many planes and flying machines you have and havent heard of.
 - [paper Skies](https://www.youtube.com/c/PaperSkiesAviation) Soviet planes and other funny stories.
+- [Paul Stewart Aviation](https://www.youtube.com/@PaulStewartAviation) Visit up-close many famous planes and space vehicles in many of the worlds museums.
 - [Skyship](https://www.youtube.com/c/SkyshipsEng) Amazing presentations about current and past birds from the west and Russia.
 
 
