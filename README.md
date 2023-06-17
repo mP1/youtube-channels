@@ -101,6 +101,7 @@ A simple list with rough categorizations.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
 - [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world.
 - [Johnny Harris](https://www.youtube.com/c/johnnyharris) Explore the world
+- [Josh Kwan](https://www.youtube.com/@joshkwan) Bicycle rides around Sydney
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
