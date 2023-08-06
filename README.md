@@ -118,6 +118,7 @@ A simple list with rough categorizations.
 - [Rew Boss](https://www.youtube.com/@rewboss) A Brit's eyeview of Germany
 - [Tim the traveller](https://www.youtube.com/c/TheTimTraveller) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
+- [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
 
 
