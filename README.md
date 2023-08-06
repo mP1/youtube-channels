@@ -107,6 +107,7 @@ A simple list with rough categorizations.
 - [Johnny Harris](https://www.youtube.com/c/johnnyharris) Explore the world
 - [Josh Kwan](https://www.youtube.com/@joshkwan) Bicycle rides around Sydney
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
+- [KiunB](https://www.youtube.com/@KiunB) Life in Yakutia the coldest place on earth.
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Name Explain](https://www.youtube.com/c/NameExplain) Names of everything around the world.
