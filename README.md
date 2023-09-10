@@ -138,6 +138,7 @@ A simple list with rough categorizations.
 - [Archeology Now](https://www.youtube.com/@ArchaeologyNow) Focus on especially ancient empires and what has been found.
 - [British Museums](https://www.youtube.com/c/BritishMuseumEvents) Museums and the Construction of Memory
 - [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
+- [Darius Arya](https://www.youtube.com/@DariusArya) Join archaeologist Darius Arya for adventure, travel, and discovery in Rome and its Empire.
 - [Fall of Civilisations](https://www.youtube.com/@FallofCivilizations) A podcast about the collapse of civilizations throughout history.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
 - [Histocrat](https://www.youtube.com/@TheHistocrat/) Stories about places and people from the mostly ancient European/Mediterranean world.
