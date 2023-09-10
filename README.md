@@ -150,6 +150,7 @@ A simple list with rough categorizations.
 - [Kings and Generals](https://www.youtube.com/c/KingsandGenerals) Travel mostly the Roman World and surrounding locations
 - [Kings and Things](https://www.youtube.com/channel/UCWE7rlT-oO5DbnJOtxhX_KA) Kings and things
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions) High quality analysis and history of past wars, often with unseen footage.
+- [Manuel Bravo](https://www.youtube.com/@ManuelBravo/videos) Visit many ancient archeological sites in 3D and more
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
 - [Odyssey](https://www.youtube.com/c/odyssey) Odyssey - Ancient History Documentaries
 - [PBS Eons](https://www.youtube.com/c/eons) Documentaries about ancient animals and more.
