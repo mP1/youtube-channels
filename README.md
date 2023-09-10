@@ -146,6 +146,7 @@ A simple list with rough categorizations.
 - [Historia Civilis](https://www.youtube.com/c/HistoriaCivilis) Another channel about the Roman World and how it was the same yet different to our own.
 - [History in 3D](https://www.youtube.com/c/DanikLoginov) Visit ancient Rome in 3D
 - [History with Hilbert](https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg) A bit too much history about the dutch but a lot of great short content.
+- [Imperial](https://www.youtube.com/@IMPERIALYT/) Disecting history and politics
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
 - [Jazby](https://www.youtube.com/c/JabzyJoe) Our friend visit the world connecting the past and different places with today.
 - [Kings and Generals](https://www.youtube.com/c/KingsandGenerals) Travel mostly the Roman World and surrounding locations
