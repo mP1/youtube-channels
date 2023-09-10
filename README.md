@@ -100,6 +100,7 @@ A simple list with rough categorizations.
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan) What do you really know about life in Japan ?
 - [Atlas Pro](https://www.youtube.com/c/AtlasPro1) Explore the macro and micro of the continents and the environment.
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
+- [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
 - [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world.
 - [Insider Business](https://www.youtube.com/@InsiderBusiness) Visit a lot of small traditional artisan craftsmanship.
