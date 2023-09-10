@@ -120,6 +120,7 @@ A simple list with rough categorizations.
 - [Paolo from Tokyo](https://www.youtube.com/@PaolofromTOKYO) Learn about life in Japan
 - [Railways of the World](https://www.youtube.com/c/RailwaysoftheWorld1) Ride Public Transport around the worlds great cities and towns.
 - [Rew Boss](https://www.youtube.com/@rewboss) A Brit's eyeview of Germany
+- [Terramatter](https://www.youtube.com/@terramater) Nature is wild and wonderful! Take a look at the best what our planet has to offer - from weird to breathtaking.
 - [Tim the traveller](https://www.youtube.com/c/TheTimTraveller) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
 - [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
