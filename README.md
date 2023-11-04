@@ -168,6 +168,7 @@ A simple list with rough categorizations.
 - [Scarey Interesting](https://www.youtube.com/@ScaryInteresting) Scarey and interesting stories from around the world.
 - [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
 - [Simon Mayfair](https://www.youtube.com/@SamMayfair) Visit a lot of grand ancient places, like Egypt.
+- [TheSPQRHistorian](https://www.youtube.com/@TheSPQRHistorian) Stories about ancient Rome.
 - [Ushanka Show](https://www.youtube.com/@UshankaShow) Stories about life in Soviet Union
 
 
