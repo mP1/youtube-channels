@@ -60,6 +60,7 @@ A simple list with rough categorizations.
 - [Aidan Millward](https://www.youtube.com/c/AidanMillward) Stories and more about motorsport
 - [Autosport](https://www.youtube.com/c/AUTOSPORTdotcom) Everything about F1 past and present
 - [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
+- [DailyFuelUp](https://www.youtube.com/@DailyFuelUp/videos) More F1 stories
 - [Driver61](https://www.youtube.com/c/Driver61) Pro driver discussing F1 driving, tracks, tactics
 - [Goodwood Road & Racing](https://www.youtube.com/GoodwoodRRC) Mostly racing but a lot of good content.
 - [WTF1](https://www.youtube.com/c/WTF1official) Trivia about F1
