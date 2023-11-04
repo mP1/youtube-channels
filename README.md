@@ -124,6 +124,7 @@ A simple list with rough categorizations.
 - [Terramatter](https://www.youtube.com/@terramater) Nature is wild and wonderful! Take a look at the best what our planet has to offer - from weird to breathtaking.
 - [Tim the traveller](https://www.youtube.com/c/TheTimTraveller) Visit Europe with Tim, short and fun.
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
+- [Tracks Travel Docs](https://www.youtube.com/@TRACKSTravelDocs) Beautiful sweeping scenery, never-before-seen holiday destinations and insider sneak-peeks into countries you’ll be dying to visit
 - [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
 
