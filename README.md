@@ -250,6 +250,7 @@ A simple list with rough categorizations.
 
 ## Science
 
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt) Animation videos explaining things with optimistic nihilism since 12,013.
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience) Science, physics, how and why
 - [Sci Show](https://www.youtube.com/@SciShow) A show about many topics of science.
 - [Steve Mould](https://www.youtube.com/@SteveMould) Learn science with simply experiments and demonstrations
