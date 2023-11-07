@@ -145,6 +145,7 @@ A simple list with rough categorizations.
 - [British Museums](https://www.youtube.com/c/BritishMuseumEvents) Museums and the Construction of Memory
 - [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
 - [Darius Arya](https://www.youtube.com/@DariusArya) Join archaeologist Darius Arya for adventure, travel, and discovery in Rome and its Empire.
+- [East Germany Investigated](https://www.youtube.com/@eastgermanyinvestigated) Visit and learn about the old East Germany
 - [Fall of Civilisations](https://www.youtube.com/@FallofCivilizations) A podcast about the collapse of civilizations throughout history.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
 - [Heroes and Legends](https://www.youtube.com/@heroesandlegends) Heroes and Legends is a channel dedicated to exploring the lives and stories of great individuals that have made an impact on history, culture or our way of life
