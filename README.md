@@ -207,6 +207,7 @@ A simple list with rough categorizations.
 ## Nature
 
 - [AnimaLogic](https://www.youtube.com/c/animalogic) Animalogic, your field guide to the animal kingdom.
+- [Bioark](https://www.youtube.com/@bioark1910) A new project from RealLifeLore. The same kinds of videos, just all about animals, animal facts and biology
 
 
 
