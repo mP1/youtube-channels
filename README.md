@@ -161,6 +161,7 @@ A simple list with rough categorizations.
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions) High quality analysis and history of past wars, often with unseen footage.
 - [Manuel Bravo](https://www.youtube.com/@ManuelBravo/videos) Visit many ancient archeological sites in 3D and more
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
+- [Night Scarab](https://www.youtube.com/@nightscarab5802/videos) Ideas about how the Egyptian pyramids were built
 - [Odyssey](https://www.youtube.com/c/odyssey) Odyssey - Ancient History Documentaries
 - [PBS Eons](https://www.youtube.com/c/eons) Documentaries about ancient animals and more.
 - [PeopleProfiles](https://www.youtube.com/@PeopleProfiles) Biographies about many of the famous and infamous names of history.
