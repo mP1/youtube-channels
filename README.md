@@ -102,6 +102,7 @@ A simple list with rough categorizations.
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan) What do you really know about life in Japan ?
 - [Andrew Lam](https://www.youtube.com/@Lam) Helping you appreciate the world by revealing the amazing and hidden engineering that make our everyday life possible
 - [Atlas Pro](https://www.youtube.com/c/AtlasPro1) Explore the macro and micro of the continents and the environment.
+- [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
 - [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
