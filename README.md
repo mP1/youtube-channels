@@ -24,6 +24,7 @@ A simple list with rough categorizations.
 - [Dave's Garage](https://www.youtube.com/@DavesGarage) Windows history, Windows vs Linux from the guy who wrote quite a few famous Windows bits like TaskMan & Format
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [KevinLubick](https://www.youtube.com/@KevinLubick) Interesting breakdown of various computing problems and algorithms.
+- [LinuxConfAu](https://www.youtube.com/@linuxconfau) linux.conf.au is an annual conference in Australia or New Zealand, with a focus on Linux, the community that has built up around it and the values that it represents.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
