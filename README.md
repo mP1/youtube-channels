@@ -179,6 +179,7 @@ A simple list with rough categorizations.
 - [Simon Mayfair](https://www.youtube.com/@SamMayfair) Visit a lot of grand ancient places, like Egypt.
 - [Sydney History](https://www.youtube.com/@SydneyHistory) Lots of old black and white videos of Old Sydney
 - [Tasting History](https://www.youtube.com/@TastingHistory) Love Food? Can't get enough of History? Then you've come to the right place.
+- [The Cold War TV](https://www.youtube.com/@TheColdWarTV) The cold war after WWII and the fall of Communism
 - [TheSPQRHistorian](https://www.youtube.com/@TheSPQRHistorian) Stories about ancient Rome.
 - [Ushanka Show](https://www.youtube.com/@UshankaShow) Stories about life in Soviet Union
 
