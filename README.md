@@ -108,6 +108,7 @@ A simple list with rough categorizations.
 - [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
 - [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
+- [Geography Geek](https://www.youtube.com/c/GeographyGeek) Interesting Geography videos mostly about old maps
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
 - [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world.
 - [Insider Business](https://www.youtube.com/@InsiderBusiness) Visit a lot of small traditional artisan craftsmanship.
