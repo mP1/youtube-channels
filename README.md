@@ -119,6 +119,7 @@ A simple list with rough categorizations.
 - [Josh Kwan](https://www.youtube.com/@joshkwan) Bicycle rides around Sydney
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
 - [KiunB](https://www.youtube.com/@KiunB) Life in Yakutia the coldest place on earth.
+- [KMLTraveler](https://www.youtube.com/@kmltraveler) Mostly travels around German speaking Europe
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Curiosity Mine](https://www.youtube.com/@CuriosityMine) Mostly about little rocks from mines
