@@ -32,6 +32,7 @@ A simple list with rough categorizations.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [StrangeLoop Conferences](https://www.youtube.com/c/StrangeLoopConf) Talks and presentations about many software technologies and platforms.
 - [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
+- [Vision basic](https://www.youtube.com/@visionbasic) Building a Basic compiler package for C64.
 
 
 ## Culture & Craft
