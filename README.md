@@ -49,6 +49,7 @@ A simple list with rough categorizations.
 - [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
+- [Great Big Story](https://www.youtube.com/@GreatBigStory) News thats mostly fun not violence, sad or depressing.
 - [Professor James Ker Lindsay](https://www.youtube.com/@JamesKerLindsay) International conflicts, disputes, relations and origins
 
 
