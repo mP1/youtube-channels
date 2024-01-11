@@ -51,6 +51,8 @@ A simple list with rough categorizations.
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
 - [Great Big Story](https://www.youtube.com/@GreatBigStory) News thats mostly fun not violence, sad or depressing.
 - [Professor James Ker Lindsay](https://www.youtube.com/@JamesKerLindsay) International conflicts, disputes, relations and origins
+- [WELT](https://www.youtube.com/@WELTDocumentary/) Documentaries about various contemporary news items from Germany
+
 
 
 ## Electronics
