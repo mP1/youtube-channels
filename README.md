@@ -36,6 +36,13 @@ A simple list with rough categorizations.
 - [Vision basic](https://www.youtube.com/@visionbasic) Building a Basic compiler package for C64.
 
 
+
+## Cricket
+
+- [Robelinda](https://www.youtube.com/@robelinda) The one place for cricket videos
+
+
+
 ## Culture & Craft
 
 - [3JWings](https://www.youtube.com/channel/UClFbYkwEVAul703EM4RDacg) Build a variety of flying machines including Ornithopters
