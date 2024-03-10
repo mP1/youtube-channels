@@ -16,6 +16,7 @@ A simple list with rough categorizations.
 
 ## Computing
 
+- [AndyHu](https://www.youtube.com/@andyhu9542) Nerd out on old CPUs
 - [Ange Albertini](https://www.youtube.com/user/simplelogin) Incredible stories about hacking the impossible including the encrypted CPS (Capcom arcade boards).
 - [Another Boring Topic](https://www.youtube.com/@AnotherBoringTopic) Stories about the early days of computing, Visicalc, NEXT, Windows and other stuff
 - [CamielVanderhoeven](https://www.youtube.com/@CamielVanderhoeven) Vintage Computer videos, mostly related to our computer collection (www.vaxbarn.com), and presentations about the OpenVMS operating system, of which I'm one of the kernel engineers.
