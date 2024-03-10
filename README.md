@@ -61,6 +61,7 @@ A simple list with rough categorizations.
 - [DW Euromaxx](https://www.youtube.com/@dweuromaxx) Europe Explained: Everything you've ever wanted to know about Europe - from traditions and habits to culture shocks and record breakers.
 - [Great Big Story](https://www.youtube.com/@GreatBigStory) News thats mostly fun not violence, sad or depressing.
 - [Professor James Ker Lindsay](https://www.youtube.com/@JamesKerLindsay) International conflicts, disputes, relations and origins
+- [Tomas Pueyo](https://www.youtube.com/@tomas_pueyo) Unravel how the world works today to navigate the world of tomorrow
 - [WELT](https://www.youtube.com/@WELTDocumentary/) Documentaries about various contemporary news items from Germany
 
 
