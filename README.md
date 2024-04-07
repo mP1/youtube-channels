@@ -177,6 +177,7 @@ A simple list with rough categorizations.
 - [East Germany Investigated](https://www.youtube.com/@eastgermanyinvestigated) Visit and learn about the old East Germany
 - [Fall of Civilisations](https://www.youtube.com/@FallofCivilizations) A podcast about the collapse of civilizations throughout history.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
+- [Henry Stewart](https://www.youtube.com/@HenryStewart) Short films mostly about historical events from the past 200 years.
 - [Heroes and Legends](https://www.youtube.com/@heroesandlegends) Heroes and Legends is a channel dedicated to exploring the lives and stories of great individuals that have made an impact on history, culture or our way of life
 - [Histocrat](https://www.youtube.com/@TheHistocrat/) Stories about places and people from the mostly ancient European/Mediterranean world.
 - [Historia Civilis](https://www.youtube.com/c/HistoriaCivilis) Another channel about the Roman World and how it was the same yet different to our own.
