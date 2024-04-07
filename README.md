@@ -92,6 +92,7 @@ A simple list with rough categorizations.
 - [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT) Mostly about game design and development.
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
+- [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
