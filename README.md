@@ -87,6 +87,7 @@ A simple list with rough categorizations.
 # Game dev
 
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
+- [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT) Mostly about game design and development.
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
