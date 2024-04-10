@@ -86,6 +86,7 @@ A simple list with rough categorizations.
 
 # Game dev
 
+- [BiteMeGames](https://www.youtube.com/@bitemegames) Game developer startup journal and more...
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
 - [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
