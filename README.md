@@ -141,6 +141,7 @@ A simple list with rough categorizations.
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
 - [KiunB](https://www.youtube.com/@KiunB) Life in Yakutia the coldest place on earth.
 - [KMLTraveler](https://www.youtube.com/@kmltraveler) Mostly travels around German speaking Europe
+- [KowabanaJapan](https://www.youtube.com/@KowabanaJapan/) Weird stories from Japan
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Curiosity Mine](https://www.youtube.com/@CuriosityMine) Mostly about little rocks from mines
