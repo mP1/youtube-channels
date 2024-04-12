@@ -94,6 +94,7 @@ A simple list with rough categorizations.
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
 - [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
+- [Raeleus](https://www.youtube.com/@raeleus)Lots of tutorials and resources about LibGFX.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
