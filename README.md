@@ -23,6 +23,7 @@ A simple list with rough categorizations.
 - [ChaosComputingClub](https://www.youtube.com/user/mediacccde) Mixture of German and English yearly conferences talking about all sorts of technology, hacking and more.
 - [Christiaan008](https://www.youtube.com/c/ChRiStIaAn008) Many technology talks, including the wonderful Ultimate talks (C64, Amiga, Gameboy, Apollo guidance computer etc)
 - [CocoTownRetro](https://www.youtube.com/@CocoTownRetro) Lots of technical videos about the Coco.
+- [CppCon](https://www.youtube.com/@CppCon) Visit cppcon.org for details on next year's conference. CppCon sponsors have made it possible to record and freely distribute over 1000 sessions from the first CppCon in 2014 to the present. We hope you enjoy them!
 - [CyberGizmo](https://www.youtube.com/@CyberGizmo/) Mostly technology reports about Linux
 - [Dave's Garage](https://www.youtube.com/@DavesGarage) Windows history, Windows vs Linux from the guy who wrote quite a few famous Windows bits like TaskMan & Format
 - [Dotnet](https://www.youtube.com/@dotnet) This is the official YouTube channel for the .NET team at Microsoft.
