@@ -25,6 +25,7 @@ A simple list with rough categorizations.
 - [CocoTownRetro](https://www.youtube.com/@CocoTownRetro) Lots of technical videos about the Coco.
 - [CyberGizmo](https://www.youtube.com/@CyberGizmo/) Mostly technology reports about Linux
 - [Dave's Garage](https://www.youtube.com/@DavesGarage) Windows history, Windows vs Linux from the guy who wrote quite a few famous Windows bits like TaskMan & Format
+- [Dotnet](https://www.youtube.com/@dotnet) This is the official YouTube channel for the .NET team at Microsoft.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [KevinLubick](https://www.youtube.com/@KevinLubick) Interesting breakdown of various computing problems and algorithms.
 - [LinuxConfAu](https://www.youtube.com/@linuxconfau) linux.conf.au is an annual conference in Australia or New Zealand, with a focus on Linux, the community that has built up around it and the values that it represents.
