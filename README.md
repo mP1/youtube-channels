@@ -31,6 +31,7 @@ A simple list with rough categorizations.
 - [LinuxConfAu](https://www.youtube.com/@linuxconfau) linux.conf.au is an annual conference in Australia or New Zealand, with a focus on Linux, the community that has built up around it and the values that it represents.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
+- [MeetingCPP](https://www.youtube.com/@MeetingCPP) Meeting C++ is an independent platform for C++, supporting the C++ community by sharing news, blogs and events for C++. Details on the yearly Meeting C++ Conference can be found on the website https://meetingcpp.com
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
 - [SimonDev](https://www.youtube.com/@simondev758) about game related effects and more.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
