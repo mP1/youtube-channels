@@ -209,6 +209,7 @@ A simple list with rough categorizations.
 - [Real Royalty](https://www.youtube.com/@RealRoyalty) Stories about recent royal figures.
 - [Ruairidh MacVeigh](https://www.youtube.com/user/rorymacve) Interesting sample, is the series: Places lost in Time
 - [Scarey Interesting](https://www.youtube.com/@ScaryInteresting) Scarey and interesting stories from around the world.
+- [Sean Munger](https://www.youtube.com/@SeanMunger/) Sean Munger is a historian, consultant, author, teacher and podcaster. Website: https://www.seanmunger.com
 - [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
 - [Simon Mayfair](https://www.youtube.com/@SamMayfair) Visit a lot of grand ancient places, like Egypt.
 - [StPeters Cooks River](https://www.youtube.com/@stpeterscooksriver1873) Postcards of many of sydney's suburbs / communities.
