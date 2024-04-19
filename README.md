@@ -293,6 +293,7 @@ A simple list with rough categorizations.
 - [Smoke Monster](https://www.youtube.com/c/SmokeMonster) The source for MiSTER FPGA emulation, flash carts and more.
 - [SNES Drunk](https://www.youtube.com/c/SNESdrunk) Mostly SNES, but lots of extra goodness like ROM Hacks, etc
 - [Sega Lord X](https://www.youtube.com/c/SegaLordX) Retro sega consoles and arcade games.
+- [ShoryuGame](https://www.youtube.com/@ShoryuGame) Telling the stories of fighting games ... and more
 - [Strafefox](https://www.youtube.com/c/strafefox) Beautiful history of old arcade and console games. 
 
 
