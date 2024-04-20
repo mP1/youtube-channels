@@ -288,6 +288,7 @@ A simple list with rough categorizations.
 - [Matt Greer](https://www.youtube.com/@MattGreer) Thoughs about Neo Geo development
 - [NathanBaggs](https://www.youtube.com/@nathanbaggs) Curios about old games
 - [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
+- [OtaKing Animation](https://www.youtube.com/@OtaKing77077) Anime of retro games such as R-Type and more.
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 - [ShmupJunkie](https://www.youtube.com/c/ShmupJunkie) Shoot em ups
