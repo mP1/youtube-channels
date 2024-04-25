@@ -89,16 +89,21 @@ A simple list with rough categorizations.
 
 # Game dev
 
+- [AdamCYounis](https://www.youtube.com/c/AdamCYounis) Pixel art, indie game development and more.
 - [BiteMeGames](https://www.youtube.com/@bitemegames) Game developer startup journal and more...
+- [Brandon James Greer](https://www.youtube.com/c/BJGpixel) Pixel art, design, principles, drawing, analysis and more
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
 - [DigitalFoundry](https://www.youtube.com/@DigitalFoundry) Digital Foundry specialises in game technology and hardware reviews, using bespoke capture and analysis tools to provide a unique look at the way games play.
 - [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
+- [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
+- [Normal Neighbor](https://www.youtube.com/c/NormalNeighbor/videos) Pixel art
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
 - [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
 - [PixelArchitect](https://www.youtube.com/@PixelArchitect) I'm Noah, an architectural designer and new indie game dev. This Channel is dedicated to game design Devlogs and Pixel Art. I apply my architectural design experience to game design, in order to create an open world pixel art game.
+- [Pixel Pete](https://www.youtube.com/c/PeterMilko) I'm an Indie game dev here to help!
 - [Raeleus](https://www.youtube.com/@raeleus)Lots of tutorials and resources about LibGFX.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
@@ -167,17 +172,6 @@ A simple list with rough categorizations.
 - [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
 - [Weird Explorer](https://www.youtube.com/c/WeirdExplorer) Cashew apple fruit...
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
-
-
-
-## Graphics
-- [AdamCYounis](https://www.youtube.com/c/AdamCYounis) Pixel art, indie game development and more.
-- [Brandon James Greer](https://www.youtube.com/c/BJGpixel) Pixel art, design, principles, drawing, analysis and more
-- [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
-- [Normal Neighbor](https://www.youtube.com/c/NormalNeighbor/videos) Pixel art
-- [Pixel Pete](https://www.youtube.com/c/PeterMilko) I'm an Indie game dev here to help!
-
-
 
 ## History
 
