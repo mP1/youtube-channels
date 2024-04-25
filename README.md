@@ -97,11 +97,11 @@ A simple list with rough categorizations.
 - [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
+- [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
+- [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
 - [Normal Neighbor](https://www.youtube.com/c/NormalNeighbor/videos) Pixel art
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
-- [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
-- [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
 - [PixelArchitect](https://www.youtube.com/@PixelArchitect) I'm Noah, an architectural designer and new indie game dev. This Channel is dedicated to game design Devlogs and Pixel Art. I apply my architectural design experience to game design, in order to create an open world pixel art game.
 - [Pixel Pete](https://www.youtube.com/c/PeterMilko) I'm an Indie game dev here to help!
 - [Raeleus](https://www.youtube.com/@raeleus)Lots of tutorials and resources about LibGFX.
