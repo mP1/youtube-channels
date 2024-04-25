@@ -91,6 +91,7 @@ A simple list with rough categorizations.
 
 - [BiteMeGames](https://www.youtube.com/@bitemegames) Game developer startup journal and more...
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
+- [DigitalFoundry](https://www.youtube.com/@DigitalFoundry) Digital Foundry specialises in game technology and hardware reviews, using bespoke capture and analysis tools to provide a unique look at the way games play.
 - [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
