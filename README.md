@@ -98,6 +98,7 @@ A simple list with rough categorizations.
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
 - [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
+- [PixelArchitect](https://www.youtube.com/@PixelArchitect) I'm Noah, an architectural designer and new indie game dev. This Channel is dedicated to game design Devlogs and Pixel Art. I apply my architectural design experience to game design, in order to create an open world pixel art game.
 - [Raeleus](https://www.youtube.com/@raeleus)Lots of tutorials and resources about LibGFX.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
