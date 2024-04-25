@@ -291,11 +291,11 @@ A simple list with rough categorizations.
 - [OtaKing Animation](https://www.youtube.com/@OtaKing77077) Anime of retro games such as R-Type and more.
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
-- [ShmupJunkie](https://www.youtube.com/c/ShmupJunkie) Shoot em ups
+- [Sega Lord X](https://www.youtube.com/c/SegaLordX) Retro sega consoles and arcade games.
+- [ShmupJunkie](https://www.youtube.com/c/ShmupJunkie) The King of Shoot em ups
+- [ShoryuGame](https://www.youtube.com/@ShoryuGame) Telling the stories of fighting games ... and more
 - [Smoke Monster](https://www.youtube.com/c/SmokeMonster) The source for MiSTER FPGA emulation, flash carts and more.
 - [SNES Drunk](https://www.youtube.com/c/SNESdrunk) Mostly SNES, but lots of extra goodness like ROM Hacks, etc
-- [Sega Lord X](https://www.youtube.com/c/SegaLordX) Retro sega consoles and arcade games.
-- [ShoryuGame](https://www.youtube.com/@ShoryuGame) Telling the stories of fighting games ... and more
 - [Strafefox](https://www.youtube.com/c/strafefox) Beautiful history of old arcade and console games. 
 
 
