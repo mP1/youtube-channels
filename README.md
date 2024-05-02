@@ -34,6 +34,7 @@ A simple list with rough categorizations.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
 - [MeetingCPP](https://www.youtube.com/@MeetingCPP) Meeting C++ is an independent platform for C++, supporting the C++ community by sharing news, blogs and events for C++. Details on the yearly Meeting C++ Conference can be found on the website https://meetingcpp.com
 - [MicroarchClub](https://www.youtube.com/@MicroarchClub) The art, science, and history of processor design.
+- [The National Museum of Computing](https://www.youtube.com/@tnmoc) The National Museum of Computing (TNMOC) is home to the world's largest collection of working historic computers.
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
 - [SimonDev](https://www.youtube.com/@simondev758) about game related effects and more.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
