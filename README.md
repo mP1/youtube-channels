@@ -143,6 +143,7 @@ A simple list with rough categorizations.
 - [Atlas Pro](https://www.youtube.com/c/AtlasPro1) Explore the macro and micro of the continents and the environment.
 - [BrightTripTavel](https://www.youtube.com/@BrightTripTravel) Informed details about the worlds cities.
 - [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
+- [Flags in Focus](https://www.youtube.com/@FlagsinFocus)If you have a mild interest in flags or you’re a full on vexillologist, then this channel is for you. It’s informative, entertaining and has flags!
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
 - [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
 - [Geography Geek](https://www.youtube.com/c/GeographyGeek) Interesting Geography videos mostly about old maps
