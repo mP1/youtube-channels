@@ -179,6 +179,7 @@ A simple list with rough categorizations.
 ## History
 
 - [Archeology Now](https://www.youtube.com/@ArchaeologyNow) Focus on especially ancient empires and what has been found.
+- [Brew](https://www.youtube.com/@Brew) Solving mysteries, one cup at a time ☕️
 - [British Museums](https://www.youtube.com/c/BritishMuseumEvents) Museums and the Construction of Memory
 - [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
 - [Darius Arya](https://www.youtube.com/@DariusArya) Join archaeologist Darius Arya for adventure, travel, and discovery in Rome and its Empire.
