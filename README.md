@@ -101,6 +101,7 @@ A simple list with rough categorizations.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
+- [MrWhatCookie](https://www.youtube.com/@MrWhatcookie) Deep tech investigation into game programming and more
 - [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
 - [Normal Neighbor](https://www.youtube.com/c/NormalNeighbor/videos) Pixel art
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
@@ -112,7 +113,6 @@ A simple list with rough categorizations.
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [ThomasBrush](https://www.youtube.com/@thomasbrush) Indie game dev
-
 
 
 # Gaming
