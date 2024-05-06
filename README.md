@@ -201,6 +201,7 @@ A simple list with rough categorizations.
 - [Lemmino](https://www.youtube.com/@LEMMiNO) Long-form videos about space and mysteries and whatnot.
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions) High quality analysis and history of past wars, often with unseen footage.
 - [Manuel Bravo](https://www.youtube.com/@ManuelBravo/videos) Visit many ancient archeological sites in 3D and more
+- [Megaprojects](https://www.youtube.com/@megaprojects9649) Megaprojects is a program all about humanity's greatest achievements.
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
 - [Night Scarab](https://www.youtube.com/@nightscarab5802/videos) Ideas about how the Egyptian pyramids were built
 - [Odyssey](https://www.youtube.com/c/odyssey) Odyssey - Ancient History Documentaries
