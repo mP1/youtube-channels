@@ -186,6 +186,7 @@ A simple list with rough categorizations.
 - [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
 - [Darius Arya](https://www.youtube.com/@DariusArya) Join archaeologist Darius Arya for adventure, travel, and discovery in Rome and its Empire.
 - [East Germany Investigated](https://www.youtube.com/@eastgermanyinvestigated) Visit and learn about the old East Germany
+- [Factinate](https://www.youtube.com/@Factinate) Facts about everything.
 - [Fall of Civilisations](https://www.youtube.com/@FallofCivilizations) A podcast about the collapse of civilizations throughout history.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
 - [Henry Stewart](https://www.youtube.com/@HenryStewart) Short films mostly about historical events from the past 200 years.
