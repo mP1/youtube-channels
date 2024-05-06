@@ -198,6 +198,7 @@ A simple list with rough categorizations.
 - [Jazby](https://www.youtube.com/c/JabzyJoe) Our friend visit the world connecting the past and different places with today.
 - [Kings and Generals](https://www.youtube.com/c/KingsandGenerals) Travel mostly the Roman World and surrounding locations
 - [Kings and Things](https://www.youtube.com/channel/UCWE7rlT-oO5DbnJOtxhX_KA) Kings and things
+- [Lemmino](https://www.youtube.com/@LEMMiNO) Long-form videos about space and mysteries and whatnot.
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions) High quality analysis and history of past wars, often with unseen footage.
 - [Manuel Bravo](https://www.youtube.com/@ManuelBravo/videos) Visit many ancient archeological sites in 3D and more
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
