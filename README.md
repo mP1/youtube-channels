@@ -133,6 +133,7 @@ A simple list with rough categorizations.
 - [Self Sufficient Me](https://www.youtube.com/@Selfsufficientme) Aussie home gardener
 - [Serpa Design](https://www.youtube.com/c/SerpaDesign) Everything terrariums
 - [The Backyard Nauralist](https://www.youtube.com/@the-Backyard-Naturalist) I'm an Australian naturalist interested in all things flora and fauna in this amazing country.
+- [TheKiwiGrower](https://www.youtube.com/@TheKiwiGrower) As a keen gardener I'll give anything a go and I especially love growing exotic fruiting plants and unusual edible plants. I often experiment with growing, so I'll share with you my successes and failures so hopefully you'll learn from them and have a go yourself!
 
 
 
