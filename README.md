@@ -89,6 +89,12 @@ A simple list with rough categorizations.
 
 
 
+## Football
+
+- [Tifo](https://www.youtube.com/@Tifo) In-depth tactical, historical and geopolitical breakdowns of the beautiful game.
+
+
+
 # Game dev
 
 - [AdamCYounis](https://www.youtube.com/c/AdamCYounis) Pixel art, indie game development and more.
