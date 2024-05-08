@@ -231,6 +231,7 @@ A simple list with rough categorizations.
 - [Tasting History](https://www.youtube.com/@TastingHistory) Love Food? Can't get enough of History? Then you've come to the right place.
 - [The Cold War TV](https://www.youtube.com/@TheColdWarTV) The cold war after WWII and the fall of Communism
 - [TheSPQRHistorian](https://www.youtube.com/@TheSPQRHistorian) Stories about ancient Rome.
+- [TodayIFoundOut](https://www.youtube.com/@TodayIFoundOut) Learning something new and interesting every day. :-)
 - [Ushanka Show](https://www.youtube.com/@UshankaShow) Stories about life in Soviet Union
 
 
