@@ -58,6 +58,7 @@ A simple list with rough categorizations.
 - [3JWings](https://www.youtube.com/channel/UClFbYkwEVAul703EM4RDacg) Build a variety of flying machines including Ornithopters
 - [Adam Ragusea](https://www.youtube.com/user/aragusea/) Stories about food
 - [Studson studio](https://www.youtube.com/c/StudsonStudio) Crafting Miniatures & Models based on Movies & Games
+- [TheSimpsonsTheory](https://www.youtube.com/@TheSimpsonsTheory) We're Lydia and James and we love diving into the world of The Simpsons - celebrating the show in all the ways we can. This is through kill-counts, theories, straightening out character-timelines and convincing you not to sleep on characters simply because they're not in the big family of five.
 
 
 
