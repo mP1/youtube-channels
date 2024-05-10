@@ -1,5 +1,8 @@
 A simple list with rough categorizations.
 
+## Architecture
+
+- [StewartHicks](https://www.youtube.com/@stewarthicks) Takes on Buildings and Cities.
 
 ## Art
 
