@@ -349,6 +349,7 @@ A simple list with rough categorizations.
 - [Techmoan](https://www.youtube.com/c/Techmoan) Reviews of current and machines and consumer technology past and present.
 - [Technology Connections](https://www.youtube.com/c/TechnologyConnections) In depth dissection of common technology we use but never really understood how or why it worked.
 - [Tom Stanton](https://www.youtube.com/c/TomStantonEngineering) Builds a lot of models that explore different and basically lost engineering ideas.
+- [TrevorMakes](https://www.youtube.com/@TrevorMakes) Making electrical and computer engineering projects.
 - [Xiaomify](https://www.youtube.com/c/xiaomify) Reviews about all things Xiaomi, a large company that makes everything.
 
 
