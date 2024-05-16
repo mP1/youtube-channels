@@ -351,6 +351,7 @@ A simple list with rough categorizations.
 - [Tom Stanton](https://www.youtube.com/c/TomStantonEngineering) Builds a lot of models that explore different and basically lost engineering ideas.
 - [TrevorMakes](https://www.youtube.com/@TrevorMakes) Making electrical and computer engineering projects.
 - [Xiaomify](https://www.youtube.com/c/xiaomify) Reviews about all things Xiaomi, a large company that makes everything.
+- [ZirothTech](https://www.youtube.com/@ZirothTech) This channel focuses on highlighting new science and engineering projects that are helping the world transition to a zero carbon future!
 
 
 
