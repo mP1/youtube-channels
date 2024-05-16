@@ -312,6 +312,7 @@ A simple list with rough categorizations.
 - [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
 - [OtaKing Animation](https://www.youtube.com/@OtaKing77077) Anime of retro games such as R-Type and more.
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
+- [Reassembler](https://www.youtube.com/@reassembler68k)Touching The Metal ..... Emulation, Decompilation, Hacking, Old Skool Gaming
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 - [Sega Lord X](https://www.youtube.com/c/SegaLordX) Retro sega consoles and arcade games.
 - [ShmupJunkie](https://www.youtube.com/c/ShmupJunkie) The King of Shoot em ups
