@@ -310,6 +310,7 @@ A simple list with rough categorizations.
 - [Martin Piper](https://www.youtube.com/@MartinPiper6502) Includes long Technical reviews of C64 games
 - [Matt Greer](https://www.youtube.com/@MattGreer) Thoughs about Neo Geo development
 - [NathanBaggs](https://www.youtube.com/@nathanbaggs) Curios about old games
+- [NeoGeoNow](https://www.youtube.com/@NeoGeoNow) NeogeoNow is your one stop for all things Fighting games related! Fan of KOF? Street Fighter? Samurai Shodown? Mortal Kombat? We cover it all. You will never miss an important news about your favorite fighting games
 - [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
 - [OtaKing Animation](https://www.youtube.com/@OtaKing77077) Anime of retro games such as R-Type and more.
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
