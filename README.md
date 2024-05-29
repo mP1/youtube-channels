@@ -126,7 +126,6 @@ A simple list with rough categorizations.
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [ThomasBrush](https://www.youtube.com/@thomasbrush) Indie game dev
-- [Trains Are Awesome](https://www.youtube.com/@Thom-TRA) For 9 years now, we have been making travel reports and videos of trains from all over the world. Every city we visit, we explore its public transportation system, trying to find its weirdest and most interesting features.
 - [Vercidium](https://www.youtube.com/@Vercidium) I spent 6 years creating a game engine from scratch, and I am keen to share what I learned.
 
 
@@ -190,6 +189,7 @@ A simple list with rough categorizations.
 - [Townsends](https://www.youtube.com/@townsends) A channel dedicated to exploring the 18th Century lifestyle.
 - [Tracks Travel Docs](https://www.youtube.com/@TRACKSTravelDocs) Beautiful sweeping scenery, never-before-seen holiday destinations and insider sneak-peeks into countries you’ll be dying to visit
 - [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
+- [Trains Are Awesome](https://www.youtube.com/@Thom-TRA) For 9 years now, we have been making travel reports and videos of trains from all over the world. Every city we visit, we explore its public transportation system, trying to find its weirdest and most interesting features.
 - [Weird Explorer](https://www.youtube.com/c/WeirdExplorer) Cashew apple fruit...
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
 
