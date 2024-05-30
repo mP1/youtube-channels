@@ -81,7 +81,7 @@ A simple list with rough categorizations.
 
 - [Ben Eater](https://www.youtube.com/c/BenEater/) Breadboards, low level hardware.
 
-
+˚
 
 ## F1 / Motorsport
 
@@ -91,6 +91,7 @@ A simple list with rough categorizations.
 - [DailyFuelUp](https://www.youtube.com/@DailyFuelUp/videos) More F1 stories
 - [Driver61](https://www.youtube.com/c/Driver61) Pro driver discussing F1 driving, tracks, tactics
 - [Goodwood Road & Racing](https://www.youtube.com/GoodwoodRRC) Mostly racing but a lot of good content.
+- [Matt Amys](https://www.youtube.com/@mattamys) How Formula 1 Is Created 🏁
 - [WTF1](https://www.youtube.com/c/WTF1official) Trivia about F1
 
 
