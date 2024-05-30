@@ -214,6 +214,7 @@ A simple list with rough categorizations.
 - [History with Hilbert](https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg) A bit too much history about the dutch but a lot of great short content.
 - [Imperial](https://www.youtube.com/@IMPERIALYT/) Disecting history and politics
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
+- [Jago Hazzard](https://www.youtube.com/@JagoHazzard) A channel very loosely focused on London, trains, history and combinations thereof. Videos about the London Underground, steam trains, the history of London, architecture and other things that take my fancy
 - [Jazby](https://www.youtube.com/c/JabzyJoe) Our friend visit the world connecting the past and different places with today.
 - [Kings and Generals](https://www.youtube.com/c/KingsandGenerals) Travel mostly the Roman World and surrounding locations
 - [Kings and Things](https://www.youtube.com/channel/UCWE7rlT-oO5DbnJOtxhX_KA) Kings and things
