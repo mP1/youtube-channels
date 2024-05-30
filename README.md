@@ -349,6 +349,7 @@ A simple list with rough categorizations.
 
 ## Technology
 
+- [Frame](https://www.youtube.com/@TheFrame) When business meets engineering, FRAME is your new source of information.
 = [SamBarker](https://www.youtube.com/@SamBarker/videos) Watch Sam make lots of interesting machines.
 - [Techmoan](https://www.youtube.com/c/Techmoan) Reviews of current and machines and consumer technology past and present.
 - [Technology Connections](https://www.youtube.com/c/TechnologyConnections) In depth dissection of common technology we use but never really understood how or why it worked.
