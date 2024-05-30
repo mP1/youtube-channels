@@ -325,8 +325,7 @@ A simple list with rough categorizations.
 - [Smoke Monster](https://www.youtube.com/c/SmokeMonster) The source for MiSTER FPGA emulation, flash carts and more.
 - [SNES Drunk](https://www.youtube.com/c/SNESdrunk) Mostly SNES, but lots of extra goodness like ROM Hacks, etc
 - [Strafefox](https://www.youtube.com/c/strafefox) Beautiful history of old arcade and console games. 
-
-
+- [WhitePointerGaming](https://www.youtube.com/@WhitePointerGaming) Some retro hardware analysis and other game play design.
 
 ## Science
 
