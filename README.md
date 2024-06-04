@@ -319,6 +319,7 @@ A simple list with rough categorizations.
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
 - [Reassembler](https://www.youtube.com/@reassembler68k)Touching The Metal ..... Emulation, Decompilation, Hacking, Old Skool Gaming
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
+- [ShannonBirt](https://www.youtube.com/@shannonbirt9267) Shannon is developing a SEGA MEGADRIVE shooter.
 - [Sega Lord X](https://www.youtube.com/c/SegaLordX) Retro sega consoles and arcade games.
 - [ShmupJunkie](https://www.youtube.com/c/ShmupJunkie) The King of Shoot em ups
 - [ShoryuGame](https://www.youtube.com/@ShoryuGame) Telling the stories of fighting games ... and more
