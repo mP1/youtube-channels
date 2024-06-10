@@ -304,6 +304,7 @@ A simple list with rough categorizations.
 - [8-Bit Show and Tell](https://www.youtube.com/c/8BitShowAndTell) Mostly focusing on 80s computers like the C64.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
 - [Daniel Ibberson](https://www.youtube.com/c/djslopesroom) Anthology of games and arcade machines.
+- [Deskcombo](https://www.youtube.com/@deskcombo) This channel features videos examining and explaining fighting game system mechanics, tutorials, advanced combo videos, glitches and skill showcases
 - [Displaced Games](https://www.youtube.com/c/DisplacedGamers) Tech talk about all sorts of past consoles and games.
 - [ETA Prime](https://www.youtube.com/c/ETAPRIME) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
