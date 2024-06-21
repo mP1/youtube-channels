@@ -70,6 +70,7 @@ A simple list with rough categorizations.
 - [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
+- [DiscoveryFuture](https://www.youtube.com/@DiscoveryFuture) Discovery Future covers recent scientific and archaeological discoveries. Join us as we explore in detail these fascinating topics.
 - [DW Euromaxx](https://www.youtube.com/@dweuromaxx) Europe Explained: Everything you've ever wanted to know about Europe - from traditions and habits to culture shocks and record breakers.
 - [Geo politics](https://www.youtube.com/@ednerd4275) In this video, we'll dive into the effects of Brexit on Europe and the UK four years after the historic decision. We'll explore the economic, social, and political changes that have unfolded since the UK left the EU.
 - [Great Big Story](https://www.youtube.com/@GreatBigStory) News thats mostly fun not violence, sad or depressing.
