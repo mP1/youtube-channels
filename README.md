@@ -246,6 +246,7 @@ A simple list with rough categorizations.
 - [The Cold War TV](https://www.youtube.com/@TheColdWarTV) The cold war after WWII and the fall of Communism
 - [TheSPQRHistorian](https://www.youtube.com/@TheSPQRHistorian) Stories about ancient Rome.
 - [TodayIFoundOut](https://www.youtube.com/@TodayIFoundOut) Learning something new and interesting every day. :-)
+- [Townsends](https://www.youtube.com/@townsends) A channel dedicated to exploring the 18th Century lifestyle.
 - [Ushanka Show](https://www.youtube.com/@UshankaShow) Stories about life in Soviet Union
 
 
