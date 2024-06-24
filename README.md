@@ -221,6 +221,7 @@ A simple list with rough categorizations.
 - [Invicta](https://www.youtube.com/user/THFEProductions) Mostly the Roman world but also covers many other neighbouring civilisation.
 - [Jago Hazzard](https://www.youtube.com/@JagoHazzard) A channel very loosely focused on London, trains, history and combinations thereof. Videos about the London Underground, steam trains, the history of London, architecture and other things that take my fancy
 - [Jazby](https://www.youtube.com/c/JabzyJoe) Our friend visit the world connecting the past and different places with today.
+- [Khanubis](https://www.youtube.com/@KhAnubis) Welcome to KhAnubis, a channel to help us all understand how the world works, and ask the questions you've always wondered but never thought to ask.
 - [Kings and Generals](https://www.youtube.com/c/KingsandGenerals) Travel mostly the Roman World and surrounding locations
 - [Kings and Things](https://www.youtube.com/channel/UCWE7rlT-oO5DbnJOtxhX_KA) Kings and things
 - [Lemmino](https://www.youtube.com/@LEMMiNO) Long-form videos about space and mysteries and whatnot.
