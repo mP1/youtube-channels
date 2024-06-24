@@ -287,6 +287,7 @@ A simple list with rough categorizations.
 - [Dark Skies](https://www.youtube.com/channel/UCwx8xyh6ZlDI5ZQpbIWKnUg) More about plane developments, history and tech.
 - [Found and Explained](https://www.youtube.com/c/FoundAndExplained) Planes that never flew from Boeing, Lockhead, Airbus and other aviation.
 - [GreenDot Aviation](https://www.youtube.com/@GreenDotAviation) Air crash investigation type show
+- [Joluqa Malta Aviation](https://www.youtube.com/@joluqamalta2815) Welcome to Joluqa Malta Aviation youtube channel. My name is Joseph Caruana  and I live in the Village of Luqa  in Malta Country . Since my childhood I have been passionate about aviation, especially military aviation.
 - [Mustard](https://www.youtube.com/c/MustardChannel) A history of many planes and flying machines you have and havent heard of.
 - [paper Skies](https://www.youtube.com/c/PaperSkiesAviation) Soviet planes and other funny stories.
 - [Paul Stewart Aviation](https://www.youtube.com/@PaulStewartAviation) Visit up-close many famous planes and space vehicles in many of the worlds museums.
