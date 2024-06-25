@@ -309,6 +309,7 @@ A simple list with rough categorizations.
 ## Retro
 
 - [8-Bit Show and Tell](https://www.youtube.com/c/8BitShowAndTell) Mostly focusing on 80s computers like the C64.
+- [ArcadeAttack](https://www.youtube.com/@ArcadeAttack/videos) Lots of interviews with industry legends lately.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
 - [Daniel Ibberson](https://www.youtube.com/c/djslopesroom) Anthology of games and arcade machines.
 - [Deskcombo](https://www.youtube.com/@deskcombo) This channel features videos examining and explaining fighting game system mechanics, tutorials, advanced combo videos, glitches and skill showcases
