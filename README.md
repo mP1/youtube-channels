@@ -358,6 +358,7 @@ A simple list with rough categorizations.
 ## Space
 
 - [Everyday Astronaut](https://www.youtube.com/c/EverydayAstronaut) Bringing Space down to Earth for Everyday People
+- [PrimalSpace](https://www.youtube.com/@primalspace) Primal Space is here to answer the more obscure questions you have about space. To feed the curiosity of the younger generations and to celebrate the primal beginnings of spaceflight.
 - [Scott Manley](https://www.youtube.com/c/szyzyg) Learn everything about rockets, space, the missions, the equipment and more.
 
 
