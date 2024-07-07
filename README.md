@@ -321,6 +321,7 @@ A simple list with rough categorizations.
 - [Jeremy Parish](https://www.youtube.com/c/JeremyParish) In depth analysis of old retro games.
 - [Jordan HJ](https://www.youtube.com/@JordanHJ) History of many of the past great games and more
 - [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
+- [LunaMorley](https://www.youtube.com/@lunamorley) Here you'll find video essays about video games, film, and whatever else I feel like talking about. I like to speak from a place of experience as an independent game designer and creator myself. I have a passion for all things creative and you might even see some of my personal projects here too.
 - [Martin Piper](https://www.youtube.com/@MartinPiper6502) Includes long Technical reviews of C64 games
 - [Matt Greer](https://www.youtube.com/@MattGreer) Thoughs about Neo Geo development
 - [NathanBaggs](https://www.youtube.com/@nathanbaggs) Curios about old games
