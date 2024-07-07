@@ -163,6 +163,7 @@ A simple list with rough categorizations.
 - [Andrew Lam](https://www.youtube.com/@Lam) Helping you appreciate the world by revealing the amazing and hidden engineering that make our everyday life possible
 - [Atlas Pro](https://www.youtube.com/c/AtlasPro1) Explore the macro and micro of the continents and the environment.
 - [BrightTripTavel](https://www.youtube.com/@BrightTripTravel) Informed details about the worlds cities.
+- [Curiosity Mine](https://www.youtube.com/@CuriosityMine) Mostly about little rocks from mines
 - [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
 - [Flags in Focus](https://www.youtube.com/@FlagsinFocus)If you have a mild interest in flags or you’re a full on vexillologist, then this channel is for you. It’s informative, entertaining and has flags!
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
@@ -180,7 +181,6 @@ A simple list with rough categorizations.
 - [KowabanaJapan](https://www.youtube.com/@KowabanaJapan/) Weird stories from Japan
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
-- [Curiosity Mine](https://www.youtube.com/@CuriosityMine) Mostly about little rocks from mines
 - [Name Explain](https://www.youtube.com/c/NameExplain) Names of everything around the world.
 - [OurWorld](https://www.youtube.com/@OurWorld/) Visit the worlds biggest cave and more.
 - [OzGeographics](https://www.youtube.com/@OzGeographics) Mostly about Australia geography and other bits
