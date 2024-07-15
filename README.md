@@ -212,6 +212,7 @@ A simple list with rough categorizations.
 - [Canadiana](https://www.youtube.com/@Canadiana) On the hunt for the most incredible stories in Canadian history
 - [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
 - [Darius Arya](https://www.youtube.com/@DariusArya) Join archaeologist Darius Arya for adventure, travel, and discovery in Rome and its Empire.
+- [Disasterthon - True Horror](https://www.youtube.com/DisasterthonTrueHorror) I started this storytelling channel to discuss some lesser known disaster stories. Inspired by channels such as Fascinating Horror I thought I would give it ago myself and see what happens. I do all the research and script writing myself and aim to tell these horrific stories respectfully and straight to the point. I upload every Thursday.
 - [East Germany Investigated](https://www.youtube.com/@eastgermanyinvestigated) Visit and learn about the old East Germany
 - [Factinate](https://www.youtube.com/@Factinate) Facts about everything.
 - [Fall of Civilisations](https://www.youtube.com/@FallofCivilizations) A podcast about the collapse of civilizations throughout history.
