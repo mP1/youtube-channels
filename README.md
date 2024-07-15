@@ -167,6 +167,7 @@ A simple list with rough categorizations.
 - [Atlas Pro](https://www.youtube.com/c/AtlasPro1) Explore the macro and micro of the continents and the environment.
 - [BrightTripTavel](https://www.youtube.com/@BrightTripTravel) Informed details about the worlds cities.
 - [Curiosity Mine](https://www.youtube.com/@CuriosityMine) Mostly about little rocks from mines
+- [DavidMGreen](https://www.youtube.com/@davidthegreen/)Hi, I’m David M. Green. Comedian, writer, etc. based in Melbourne, Australia. In addition to being the "VHS Revue" guy, I was also the host of "31 Questions", writer for "Shaun Micallef's Mad As Hell" on ABC TV, various characters in "Good Afternoon Adelaide", plus some other things.
 - [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
 - [Flags in Focus](https://www.youtube.com/@FlagsinFocus)If you have a mild interest in flags or you’re a full on vexillologist, then this channel is for you. It’s informative, entertaining and has flags!
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
