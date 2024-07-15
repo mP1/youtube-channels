@@ -321,6 +321,7 @@ A simple list with rough categorizations.
 - [Displaced Games](https://www.youtube.com/c/DisplacedGamers) Tech talk about all sorts of past consoles and games.
 - [ETA Prime](https://www.youtube.com/c/ETAPRIME) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
+- [Greg Sewart](https://www.youtube.com/@sewart/videos) My goal is to chronologically play and review every game released on Sega's greatest system, as well as outline some of the history surrounding the development of the games, the hardware, and the general goings-on of the video game industry back in the nineties.
 - [Hermski](https://www.youtube.com/@Hermski) Let's go Back to 8-bit with your host Hermski. Playing through old retro games on the ZX Spectrum, CPC, C64, consoles and more, using real hardware, Emulation and the MiSTer FPGA system.
 - [Jeremy Parish](https://www.youtube.com/c/JeremyParish) In depth analysis of old retro games.
 - [Jordan HJ](https://www.youtube.com/@JordanHJ) History of many of the past great games and more
