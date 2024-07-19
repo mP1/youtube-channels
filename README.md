@@ -81,6 +81,7 @@ A simple list with rough categorizations.
 - [Geo politics](https://www.youtube.com/@ednerd4275) In this video, we'll dive into the effects of Brexit on Europe and the UK four years after the historic decision. We'll explore the economic, social, and political changes that have unfolded since the UK left the EU.
 - [Great Big Story](https://www.youtube.com/@GreatBigStory) News thats mostly fun not violence, sad or depressing.
 - [Professor James Ker Lindsay](https://www.youtube.com/@JamesKerLindsay) International conflicts, disputes, relations and origins
+- [SearchParty](https://www.youtube.com/@Search-Party) Search Party is a new independent video journalism project that will investigate and decode the most important and complicated news around geopolitics and global sports.
 - [Tomas Pueyo](https://www.youtube.com/@tomas_pueyo) Unravel how the world works today to navigate the world of tomorrow
 - [WELT](https://www.youtube.com/@WELTDocumentary/) Documentaries about various contemporary news items from Germany
 
