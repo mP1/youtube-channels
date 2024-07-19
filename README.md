@@ -177,6 +177,7 @@ A simple list with rough categorizations.
 - [Geography Geek](https://www.youtube.com/c/GeographyGeek) Interesting Geography videos mostly about old maps
 - [GeographyTour](https://www.youtube.com/@GeographyTour) Geography tour is a channel that produces interesting facts and videos about the geography of countries and also talks about important political and economic issues of the countries of the world.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
+- [GhibOjisan](https://www.youtube.com/@GhibOjisan) Visiting all the hiddem gems and eating lesser-known food at Japan's most under-rated prefecture, Miyazaki. Miyazaki is located in Kyushu and is known among the Japanese for delicious food, beautiful nature and calm surroundings.
 - [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world.
 - [Insider Business](https://www.youtube.com/@InsiderBusiness) Visit a lot of small traditional artisan craftsmanship.
 - [Insider Food](https://www.youtube.com/@InsiderFood) Visit a lot of traditional food prepartions, means and enjoyment.
