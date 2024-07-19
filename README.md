@@ -35,6 +35,7 @@ A simple list with rough categorizations.
 - [CyberGizmo](https://www.youtube.com/@CyberGizmo/) Mostly technology reports about Linux
 - [Dave's Garage](https://www.youtube.com/@DavesGarage) Windows history, Windows vs Linux from the guy who wrote quite a few famous Windows bits like TaskMan & Format
 - [Dotnet](https://www.youtube.com/@dotnet) This is the official YouTube channel for the .NET team at Microsoft.
+- [DylanBeattie](https://www.youtube.com/@DylanBeattie) Specs, bugs & rock'n'roll.
 - [Hardwareio](https://www.youtube.com/@hardweario) Hardwear.io is a platform for hardware and security community where researchers showcase and discuss their innovative research on attacking and defending hardware.
 - [IntelTechnology](https://www.youtube.com/@IntelTechnology) Here to share the latest in Intel technology innovations, security and sustainability.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
