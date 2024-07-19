@@ -192,6 +192,7 @@ A simple list with rough categorizations.
 - [OurWorld](https://www.youtube.com/@OurWorld/) Visit the worlds biggest cave and more.
 - [OzGeographics](https://www.youtube.com/@OzGeographics) Mostly about Australia geography and other bits
 - [Paolo from Tokyo](https://www.youtube.com/@PaolofromTOKYO) Learn about life in Japan
+- [PPPeterOfficial](https://www.youtube.com/@PPPeter_Official) My name is Peter (surprisingly) and I make satiric comedy sketches. I also do travel series that show the most extraordinary adventures from countries all over the world. I try to capture the unknown, the twisted and the bizarre.
 - [Railways of the World](https://www.youtube.com/c/RailwaysoftheWorld1) Ride Public Transport around the worlds great cities and towns.
 - [Rew Boss](https://www.youtube.com/@rewboss) A Brit's eyeview of Germany
 - [Simon Anderson](https://www.youtube.com/@Simon-Andersen) I take trains and transit across the world come along for the journey!
