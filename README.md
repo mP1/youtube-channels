@@ -21,6 +21,7 @@ A simple list with rough categorizations.
 
 ## Computing
 
+- [ACCUConf](https://www.youtube.com/@ACCUConf) ACCU is the conference for developers and programmers who are devoted and passionate about their profession. Bringing together some of the best minds and game changers in the industry, for over 25 years the ACCU organisation has gained a deserved reputation as a trusted source of the latest information on software development.
 - [AdventOfComputing](https://www.youtube.com/@adventofcomputing4504) Welcome to Advent of Computing, the show that talks about the shocking, intriguing, and all too often relevant history of computing. Each episode we will dive into the shocking history of what makes current day technology work. http://adventofcomputing.com/
 - [AndyHu](https://www.youtube.com/@andyhu9542) Nerd out on old CPUs
 - [Ange Albertini](https://www.youtube.com/user/simplelogin) Incredible stories about hacking the impossible including the encrypted CPS (Capcom arcade boards).
