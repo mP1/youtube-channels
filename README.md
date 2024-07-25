@@ -85,7 +85,7 @@ A simple list with rough categorizations.
 - [SearchParty](https://www.youtube.com/@Search-Party) Search Party is a new independent video journalism project that will investigate and decode the most important and complicated news around geopolitics and global sports.
 - [Tomas Pueyo](https://www.youtube.com/@tomas_pueyo) Unravel how the world works today to navigate the world of tomorrow
 - [WELT](https://www.youtube.com/@WELTDocumentary/) Documentaries about various contemporary news items from Germany
-
+- [WanderingTurnip](https://www.youtube.com/@wanderingturnip) Letting my mind and feet wander, and filming the process. Big fan of mill chimneys, cheap houses and dry stone walls. Not very good at a 9-5 career
 
 ## Electronics
 
