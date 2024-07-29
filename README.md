@@ -258,6 +258,7 @@ A simple list with rough categorizations.
 - [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
 - [Simon Mayfair](https://www.youtube.com/@SamMayfair) Visit a lot of grand ancient places, like Egypt.
 - [StPeters Cooks River](https://www.youtube.com/@stpeterscooksriver1873) Postcards of many of sydney's suburbs / communities.
+- [StreetGems](https://www.youtube.com/@Street-Gems) Street Gems is a channel about fascinating historical places.  The focus is on antiquity and the Mediterranean world, but other periods and regions will also be explored. Whether it's documentaries or travel vlogs, the focus will always be on history and world heritage.
 - [Sydney History](https://www.youtube.com/@SydneyHistory) Lots of old black and white videos of Old Sydney
 - [Tasting History](https://www.youtube.com/@TastingHistory) Love Food? Can't get enough of History? Then you've come to the right place.
 - [The Cold War TV](https://www.youtube.com/@TheColdWarTV) The cold war after WWII and the fall of Communism
