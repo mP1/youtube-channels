@@ -241,6 +241,7 @@ A simple list with rough categorizations.
 - [Kings and Generals](https://www.youtube.com/c/KingsandGenerals) Travel mostly the Roman World and surrounding locations
 - [Kings and Things](https://www.youtube.com/channel/UCWE7rlT-oO5DbnJOtxhX_KA) Kings and things
 - [Lemmino](https://www.youtube.com/@LEMMiNO) Long-form videos about space and mysteries and whatnot.
+- [Leslie Miller](https://www.youtube.com/@rangertocpt) A photographic history of the Sydney (Australia) suburbs of Alexandria, Redfern, Waterloo, Erskineville, Newtown, Mascot, Zetland and Botany.  Also included are photographs of Our Lady of Mount Carmel School, Waterloo and St. Vincent dePaul School, Redfern. The teaching orders of Patrician Brothers and Sisters of Mercy are included. In addition photographs of the trams that ran in Sydney during the 20th. century until 1961.
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions) High quality analysis and history of past wars, often with unseen footage.
 - [Manuel Bravo](https://www.youtube.com/@ManuelBravo/videos) Visit many ancient archeological sites in 3D and more
 - [Megaprojects](https://www.youtube.com/@megaprojects9649) Megaprojects is a program all about humanity's greatest achievements.
