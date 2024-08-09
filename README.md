@@ -259,6 +259,7 @@ A simple list with rough categorizations.
 - [Sean Munger](https://www.youtube.com/@SeanMunger/) Sean Munger is a historian, consultant, author, teacher and podcaster. Website: https://www.seanmunger.com
 - [Sideprojects](https://www.youtube.com/@Sideprojects)Sideprojects is the sister channel of Megaprojects. It covers things that as less mega. How about that.
 - [Sidequest](https://www.youtube.com/c/SideQuestYT) Exploring the fascinating sidequests of world history!
+- [SignoreGalilei](https://www.youtube.com/@SignoreGalilei) Short explainers and other educational content every month on overlooked history, forgotten geography, surprising mathematics, and more.
 - [Simon Mayfair](https://www.youtube.com/@SamMayfair) Visit a lot of grand ancient places, like Egypt.
 - [StPeters Cooks River](https://www.youtube.com/@stpeterscooksriver1873) Postcards of many of sydney's suburbs / communities.
 - [StreetGems](https://www.youtube.com/@Street-Gems) Street Gems is a channel about fascinating historical places.  The focus is on antiquity and the Mediterranean world, but other periods and regions will also be explored. Whether it's documentaries or travel vlogs, the focus will always be on history and world heritage.
