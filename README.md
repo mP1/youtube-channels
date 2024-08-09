@@ -227,6 +227,7 @@ A simple list with rough categorizations.
 - [Factinate](https://www.youtube.com/@Factinate) Facts about everything.
 - [Fall of Civilisations](https://www.youtube.com/@FallofCivilizations) A podcast about the collapse of civilizations throughout history.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
+- [GhostCountries](https://www.youtube.com/@GhostCountries) Okay: so, what exactly is a ghost country? Well, it's kind of a catch-all term I made for countries that no longer exist, have limited recognition, and/or may exist in the future. They're sort of here, sort of not - like a ghost.
 - [Henry Stewart](https://www.youtube.com/@HenryStewart) Short films mostly about historical events from the past 200 years.
 - [Heroes and Legends](https://www.youtube.com/@heroesandlegends) Heroes and Legends is a channel dedicated to exploring the lives and stories of great individuals that have made an impact on history, culture or our way of life
 - [Histocrat](https://www.youtube.com/@TheHistocrat/) Stories about places and people from the mostly ancient European/Mediterranean world.
