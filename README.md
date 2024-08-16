@@ -369,6 +369,7 @@ A simple list with rough categorizations.
 ## Science
 
 - [BizarreBeasts](https://www.youtube.com/@BizarreBeasts) Once a month, hosts Hank Green and Sarah Suta introduce you to a strange new animal and explore its fascinating weirdness.
+- [JaredOwen](https://www.youtube.com/@JaredOwen) I use 3D Animation to show and explain how things work.
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt) Animation videos explaining things with optimistic nihilism since 12,013.
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience) Science, physics, how and why
 - [Sci Show](https://www.youtube.com/@SciShow) A show about many topics of science.
