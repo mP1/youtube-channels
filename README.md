@@ -271,7 +271,7 @@ A simple list with rough categorizations.
 - [TodayIFoundOut](https://www.youtube.com/@TodayIFoundOut) Learning something new and interesting every day. :-)
 - [Townsends](https://www.youtube.com/@townsends) A channel dedicated to exploring the 18th Century lifestyle.
 - [Ushanka Show](https://www.youtube.com/@UshankaShow) Stories about life in Soviet Union
-
+  [VuldarYT](https://www.youtube.com/@VuldarYT) Telling Tales: The Documentary Way / One Man Team from Deutschland / Germany
 
 
 ## Languages
