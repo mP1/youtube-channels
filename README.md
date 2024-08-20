@@ -120,6 +120,7 @@ A simple list with rough categorizations.
 # Game dev
 
 - [AdamCYounis](https://www.youtube.com/c/AdamCYounis) Pixel art, indie game development and more.
+- [Artindi](https://www.youtube.com/@Artindi) I make content on video games development: Devlogs, reviews, essays, tutorials and anything else related to indie game development.
 - [BiteMeGames](https://www.youtube.com/@bitemegames) Game developer startup journal and more...
 - [Brandon James Greer](https://www.youtube.com/c/BJGpixel) Pixel art, design, principles, drawing, analysis and more
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
