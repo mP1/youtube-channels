@@ -129,6 +129,7 @@ A simple list with rough categorizations.
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
+- [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
 - [MrWhatCookie](https://www.youtube.com/@MrWhatcookie) Deep tech investigation into game programming and more
 - [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
