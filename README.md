@@ -336,6 +336,7 @@ A simple list with rough categorizations.
 ## Retro
 
 - [8-Bit Show and Tell](https://www.youtube.com/c/8BitShowAndTell) Mostly focusing on 80s computers like the C64.
+- [Ansimuz](https://www.youtube.com/@ansimuz) Get ready to step into a time machine and journey back to the golden age of gaming! As a game developer with a passion for all things retro, I'm on a mission to keep the spirit of classic games alive.
 - [ArcadeAttack](https://www.youtube.com/@ArcadeAttack/videos) Lots of interviews with industry legends lately.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
 - [Daniel Ibberson](https://www.youtube.com/c/djslopesroom) Anthology of games and arcade machines.
