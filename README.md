@@ -75,6 +75,7 @@ A simple list with rough categorizations.
 
 ## Current Affairs
 
+- [France24EN](https://www.youtube.com/@France24_en) Official FRANCE 24's YouTube channel, international news 24/7. Watch international video news from around the world !
 - [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
