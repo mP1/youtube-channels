@@ -75,13 +75,13 @@ A simple list with rough categorizations.
 
 ## Current Affairs
 
-- [France24EN](https://www.youtube.com/@France24_en) Official FRANCE 24's YouTube channel, international news 24/7. Watch international video news from around the world !
 - [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [BBCAfrica](https://www.youtube.com/@BBCAfrica/) BBC Africa draws on its extensive network of journalists to deliver the biggest stories from across the continent and its diaspora. From culture and entertainment, to politics, business and sport, these are African stories brought to you by the world's most trusted news source.
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
 - [DiscoveryFuture](https://www.youtube.com/@DiscoveryFuture) Discovery Future covers recent scientific and archaeological discoveries. Join us as we explore in detail these fascinating topics.
 - [DW Euromaxx](https://www.youtube.com/@dweuromaxx) Europe Explained: Everything you've ever wanted to know about Europe - from traditions and habits to culture shocks and record breakers.
+- [France24EN](https://www.youtube.com/@France24_en) Official FRANCE 24's YouTube channel, international news 24/7. Watch international video news from around the world !
 - [Geo politics](https://www.youtube.com/@ednerd4275) In this video, we'll dive into the effects of Brexit on Europe and the UK four years after the historic decision. We'll explore the economic, social, and political changes that have unfolded since the UK left the EU.
 - [Great Big Story](https://www.youtube.com/@GreatBigStory) News thats mostly fun not violence, sad or depressing.
 - [MeettheMonde](https://www.youtube.com/@MeettheMonde)Meet the Monde is a branch of DIAVi pro, a video production company, dedicated to sharing incredible stories from around the world. We produce short documentaries that dive into human stories, art, places, cultures, traditions, food, and more. Join us on this adventure as we explore the world together..
