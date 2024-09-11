@@ -91,6 +91,7 @@ A simple list with rough categorizations.
 - [SearchParty](https://www.youtube.com/@Search-Party) Search Party is a new independent video journalism project that will investigate and decode the most important and complicated news around geopolitics and global sports.
 - [StevenNdukwu](https://www.youtube.com/@StevenNdukwu) Steven Ndukwu is a Seasoned Filmmaker, Internet Personality, and Content Creator with over 50 Million online views about stories from around the world in his well-put-together Travel Documentaries. On this channel, you will also discover the Beauty of Africa and the world in general and get to see African-owned businesses/Innovations that are changing lives and creating impact.
 - [Tomas Pueyo](https://www.youtube.com/@tomas_pueyo) Unravel how the world works today to navigate the world of tomorrow
+- [TayoAinaFilms](https://www.youtube.com/@TayoAinaFilms) Passionate Filmmaker and Storyteller with a vision to tell stories that challenge the status quo and inspire others to do what inspires them so we can change the world together.
 - [WELT](https://www.youtube.com/@WELTDocumentary/) Documentaries about various contemporary news items from Germany
 - [WanderingTurnip](https://www.youtube.com/@wanderingturnip) Letting my mind and feet wander, and filming the process. Big fan of mill chimneys, cheap houses and dry stone walls. Not very good at a 9-5 career
 
