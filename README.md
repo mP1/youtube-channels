@@ -373,6 +373,7 @@ A simple list with rough categorizations.
 - [Smoke Monster](https://www.youtube.com/c/SmokeMonster) The source for MiSTER FPGA emulation, flash carts and more.
 - [SNES Drunk](https://www.youtube.com/c/SNESdrunk) Mostly SNES, but lots of extra goodness like ROM Hacks, etc
 - [Strafefox](https://www.youtube.com/c/strafefox) Beautiful history of old arcade and console games. 
+- [The1SunshineFeeler](https://www.youtube.com/@The1SunshineFeeler) Bringing mysteries to light… about retro games
 - [WhitePointerGaming](https://www.youtube.com/@WhitePointerGaming) Some retro hardware analysis and other game play design.
 - [Xygor](https://www.youtube.com/@Xygor) I'm a retro gaming fanatic! I review retro games, dive deeper into individual games through my storyline summaries, and revive all the nostalgia of my childhood. Basically, I bring the best games of the past to light again!
 
