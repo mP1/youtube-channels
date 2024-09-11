@@ -133,6 +133,7 @@ A simple list with rough categorizations.
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
 - [DigitalFoundry](https://www.youtube.com/@DigitalFoundry) Digital Foundry specialises in game technology and hardware reviews, using bespoke capture and analysis tools to provide a unique look at the way games play.
 - [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
+- [ExientGames](https://www.youtube.com/@ExientGames) We're Exient, and we're here to bring you great mobile games. We’re on a mission to create our own original titles and publish the best games. We aim to capture and delight our gaming community and actively include them in the experience. We shun crunch culture in favour of creative iteration to develop exciting and memorable experiences.
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
