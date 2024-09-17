@@ -203,6 +203,7 @@ A simple list with rough categorizations.
 - [KMLTraveler](https://www.youtube.com/@kmltraveler) Mostly travels around German speaking Europe
 - [KowabanaJapan](https://www.youtube.com/@KowabanaJapan/) Weird stories from Japan
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
+- [LittleChineseEverywhere](https://www.youtube.com/@littlechineseeverywhere) I am Yan, and I am a human geographer! After my first season "The Longest Way Back Home (Switzerland to China)", I am now in the midst of season 2 which is about China! The plan is to visit every province in Chinese mainland and share its uniqueness!
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Name Explain](https://www.youtube.com/c/NameExplain) Names of everything around the world.
 - [OurWorld](https://www.youtube.com/@OurWorld/) Visit the worlds biggest cave and more.
