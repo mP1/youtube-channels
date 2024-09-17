@@ -228,6 +228,7 @@ A simple list with rough categorizations.
 
 ## History
 
+- [Adrian Goldsworthy](https://www.youtube.com/@AdrianGoldsworthytheAuthor) This is the youtube channel of Adrian Goldsworthy, author of numerous non fiction histories of the Ancient World, and also of novels including the Flavius Ferox adventures and the Napoleonic Series about the exploits of Williams, Hanley, Pringle and the rest of the 106th Foot in Portugal and Spain.
 - [Archeology Now](https://www.youtube.com/@ArchaeologyNow) Focus on especially ancient empires and what has been found.
 - [Backtrack Channel](https://www.youtube.com/@backtracks.channel) If you want to know more about Australasia's transport history - specifically trams and light rail (but may be in future trains, buses, ferries and roads.) - this is the channel for you.
 - [Brew](https://www.youtube.com/@Brew) Solving mysteries, one cup at a time ☕️
