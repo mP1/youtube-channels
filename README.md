@@ -270,6 +270,7 @@ A simple list with rough categorizations.
 - [PBS Eons](https://www.youtube.com/c/eons) Documentaries about ancient animals and more.
 - [PeopleProfiles](https://www.youtube.com/@PeopleProfiles) Biographies about many of the famous and infamous names of history.
 - [PossumFilms](https://www.youtube.com/@PossumFilms) Films about Sydney's heritage and history
+- [PlainlyDifficult](https://www.youtube.com/@PlainlyDifficult) Mainly General Interest history, focusing on disasters, scientific discovery and transportation
 - [RomabooRamblings](https://www.youtube.com/@RomabooRamblings) More history about Rome & Byzantine
 - [Real Life Lore](https://www.youtube.com/c/RealLifeLore) Mostly current affairs and modern history.
 - [Real Royalty](https://www.youtube.com/@RealRoyalty) Stories about recent royal figures.
