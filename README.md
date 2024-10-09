@@ -151,6 +151,7 @@ A simple list with rough categorizations.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
+- [Skuxxed](https://www.youtube.com/@Skuxxed) Exploring character design and gameplay systems in fighting and action games!
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [ThomasBrush](https://www.youtube.com/@thomasbrush) Indie game dev
 - [Vercidium](https://www.youtube.com/@Vercidium) I spent 6 years creating a game engine from scratch, and I am keen to share what I learned.
