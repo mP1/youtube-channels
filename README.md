@@ -137,6 +137,7 @@ A simple list with rough categorizations.
 - [ExientGames](https://www.youtube.com/@ExientGames) We're Exient, and we're here to bring you great mobile games. We’re on a mission to create our own original titles and publish the best games. We aim to capture and delight our gaming community and actively include them in the experience. We shun crunch culture in favour of creative iteration to develop exciting and memorable experiences.
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
+- [GDC](https://www.youtube.com/c/Gdconf) Game Developers Conference
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
 - [jesscodes](https://www.youtube.com/@jesscodes) Hey! My name is Jess and I'm a software developer from Australia. In my spare time I love to make games!
 - [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
@@ -160,7 +161,6 @@ A simple list with rough categorizations.
 # Gaming
 
 - [ConversationsWithCurtis](https://www.youtube.com/@ConversationsWithCurtis/) Welcome to "Conversations With Curtis" -- where we unbox the archives of gaming history.
-- [GDC](https://www.youtube.com/c/Gdconf) Game Developers Conference
 - [New Frame Plus](https://www.youtube.com/c/NewFramePlus) A professional animator analyzing animation within many computer games
 - [SteB](https://www.youtube.com/@ste_b/search?query=bubble) Everything about Bubble Bobble
 
