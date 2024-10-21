@@ -215,6 +215,7 @@ A simple list with rough categorizations.
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Name Explain](https://www.youtube.com/c/NameExplain) Names of everything around the world.
 - [OurWorld](https://www.youtube.com/@OurWorld/) Visit the worlds biggest cave and more.
+- [OzGeology] [https://www.youtube.com/@OzGeologyOfficial] OzGeology is all about geology, mineralogy, volcanoes, and the many natural disasters that have shaped and continue to shape our world.
 - [OzGeographics](https://www.youtube.com/@OzGeographics) Mostly about Australia geography and other bits
 - [Paolo from Tokyo](https://www.youtube.com/@PaolofromTOKYO) Learn about life in Japan
 - [PPPeterOfficial](https://www.youtube.com/@PPPeter_Official) My name is Peter (surprisingly) and I make satiric comedy sketches. I also do travel series that show the most extraordinary adventures from countries all over the world. I try to capture the unknown, the twisted and the bizarre.
