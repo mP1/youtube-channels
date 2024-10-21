@@ -162,6 +162,7 @@ A simple list with rough categorizations.
 # Gaming
 
 - [ConversationsWithCurtis](https://www.youtube.com/@ConversationsWithCurtis/) Welcome to "Conversations With Curtis" -- where we unbox the archives of gaming history.
+- [Nerdemia](https://www.youtube.com/@Nerdemia) A celebration of video games and movies, focusing on the cool, silly, and bizarre aspects of both industries.
 - [New Frame Plus](https://www.youtube.com/c/NewFramePlus) A professional animator analyzing animation within many computer games
 - [SteB](https://www.youtube.com/@ste_b/search?query=bubble) Everything about Bubble Bobble
 
