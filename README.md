@@ -197,6 +197,7 @@ A simple list with rough categorizations.
 - [Flags in Focus](https://www.youtube.com/@FlagsinFocus)If you have a mild interest in flags or you’re a full on vexillologist, then this channel is for you. It’s informative, entertaining and has flags!
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
 - [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
+- [Redouane GUELAILIA](https://www.youtube.com/@GeograFun) Learn about the history of flags, how they have evolved over time, and what they represent in different countries. This channel highlights interesting facts about the flags, such as their design, colors, and symbols.
 - [Geography Geek](https://www.youtube.com/c/GeographyGeek) Interesting Geography videos mostly about old maps
 - [GeographyTour](https://www.youtube.com/@GeographyTour) Geography tour is a channel that produces interesting facts and videos about the geography of countries and also talks about important political and economic issues of the countries of the world.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
