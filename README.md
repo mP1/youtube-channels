@@ -117,6 +117,8 @@ A simple list with rough categorizations.
 - [Matt Amys](https://www.youtube.com/@mattamys) How Formula 1 Is Created 🏁
 - [WTF1](https://www.youtube.com/c/WTF1official) Trivia about F1
 
+## Fun
+- [kubotubemakers](https://www.youtube.com/@kubotubemakers9700) https://vt.tiktok.com/ZSJhFefDw/
 
 
 ## Football
