@@ -124,6 +124,7 @@ A simple list with rough categorizations.
 ## Football
 
 - [HITCSevents](https://www.youtube.com/HITCSevens) From the worst owners to the most prolific goal scorers, HITC Sevens takes a look at the seven best, worst, funniest, oldest or weirdest features of football's past and present.
+- [Rabona TV](https://www.youtube.com/@RabonaTV) Football content with substance and depth. Explainers, essays, player profiles, and current events.
 - [Tifo](https://www.youtube.com/@Tifo) In-depth tactical, historical and geopolitical breakdowns of the beautiful game.
 
 
