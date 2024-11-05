@@ -199,6 +199,7 @@ A simple list with rough categorizations.
 - [DownieLive](https://www.youtube.com/@DownieLive) Your friendly Canadian YouTuber, with a passion for adventure through curiosity. I don't know where I'm going next, but I know I want you there with me, every Saturday for new adventure and behind-the-scenes videos.
 - [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
 - [Flags in Focus](https://www.youtube.com/@FlagsinFocus)If you have a mild interest in flags or you’re a full on vexillologist, then this channel is for you. It’s informative, entertaining and has flags!
+- [fourth_place](https://www.youtube.com/@fourth_place) Videos about American geography
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
 - [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
 - [Redouane GUELAILIA](https://www.youtube.com/@GeograFun) Learn about the history of flags, how they have evolved over time, and what they represent in different countries. This channel highlights interesting facts about the flags, such as their design, colors, and symbols.
