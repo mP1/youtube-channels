@@ -239,6 +239,7 @@ A simple list with rough categorizations.
 - [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
 - [Trains Are Awesome](https://www.youtube.com/@Thom-TRA) For 9 years now, we have been making travel reports and videos of trains from all over the world. Every city we visit, we explore its public transportation system, trying to find its weirdest and most interesting features.
 - [Weird Explorer](https://www.youtube.com/c/WeirdExplorer) Cashew apple fruit...
+- [WesWherever](https://www.youtube.com/@WesWherever) Adventures in unexpected places...
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
 - [World Nomac](https://www.youtube.com/@worldnomac) Changing perceptions of the world 🌍
 
