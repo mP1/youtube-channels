@@ -305,6 +305,7 @@ A simple list with rough categorizations.
 - [TodayIFoundOut](https://www.youtube.com/@TodayIFoundOut) Learning something new and interesting every day. :-)
 - [Townsends](https://www.youtube.com/@townsends) A channel dedicated to exploring the 18th Century lifestyle.
 - [Ushanka Show](https://www.youtube.com/@UshankaShow) Stories about life in Soviet Union
+- [VoicesofthePast](https://www.youtube.com/@VoicesofthePast) History through the written accounts of the people who lived through i
   [VuldarYT](https://www.youtube.com/@VuldarYT) Telling Tales: The Documentary Way / One Man Team from Deutschland / Germany
 - [WorldofAntiquity](https://www.youtube.com/@WorldofAntiquity) Where on earth were the very first cities built, and when? In this video, Dr. M takes you through the evidence and counts down the five earliest known cities.
 
