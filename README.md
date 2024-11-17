@@ -303,6 +303,7 @@ A simple list with rough categorizations.
 - [StreetGems](https://www.youtube.com/@Street-Gems) Street Gems is a channel about fascinating historical places.  The focus is on antiquity and the Mediterranean world, but other periods and regions will also be explored. Whether it's documentaries or travel vlogs, the focus will always be on history and world heritage.
 - [Sydney History](https://www.youtube.com/@SydneyHistory) Lots of old black and white videos of Old Sydney
 - [Tasting History](https://www.youtube.com/@TastingHistory) Love Food? Can't get enough of History? Then you've come to the right place.
+- [TheBudgetMuseum](https://www.youtube.com/@TheBudgetMuseum) Welcome! I am an amateur paleontologist wishing to educate and entertain folks online by showing them the incredible world of paleontology and zoology! Looking through all of natural history, from Dinosaurs to Denisovans, and Mammoths to Manatees, I hope you learn and laugh a little while you look through The Budget Museum.
 - [The Cold War TV](https://www.youtube.com/@TheColdWarTV) The cold war after WWII and the fall of Communism
 - [TheSPQRHistorian](https://www.youtube.com/@TheSPQRHistorian) Stories about ancient Rome.
 - [TodayIFoundOut](https://www.youtube.com/@TodayIFoundOut) Learning something new and interesting every day. :-)
