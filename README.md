@@ -40,6 +40,7 @@ A simple list with rough categorizations.
 - [DylanBeattie](https://www.youtube.com/@DylanBeattie) Specs, bugs & rock'n'roll.
 - [Hardwareio](https://www.youtube.com/@hardweario) Hardwear.io is a platform for hardware and security community where researchers showcase and discuss their innovative research on attacking and defending hardware.
 - [IntelTechnology](https://www.youtube.com/@IntelTechnology) Here to share the latest in Intel technology innovations, security and sustainability.
+- [Java](https://www.youtube.com/@java) The official Java channel covering the Java platform, OpenJDK, and the Java ecosystem.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [KeithBBergman](https://www.youtube.com/@KeithBBergman) He's sliding into middle age writing and vlogging about retro games, collecting 80s computer flotsam, and coding his own little doo-dads on vintage machines.  The sound of programs loading from cassette tape into a TI 99/4A is his ASMR.
   [KevinLubick](https://www.youtube.com/@KevinLubick) Interesting breakdown of various computing problems and algorithms.
