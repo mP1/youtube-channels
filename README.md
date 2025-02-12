@@ -384,6 +384,7 @@ A simple list with rough categorizations.
 - [Daniel Ibberson](https://www.youtube.com/c/djslopesroom) Anthology of games and arcade machines.
 - [Deskcombo](https://www.youtube.com/@deskcombo) This channel features videos examining and explaining fighting game system mechanics, tutorials, advanced combo videos, glitches and skill showcases
 - [Displaced Games](https://www.youtube.com/c/DisplacedGamers) Tech talk about all sorts of past consoles and games.
+- [DrMattRegan](https://www.youtube.com/@DrMattRegan) Welcome to the channel.  Here I present a number of tutorial-style videos for people who want to learn how computers work using a hand's-on approach. While we mainly focus on the legendary 6502 microprocessor at the moment, the plan is for more Z80, 68000, 8086 and computer graphics content.
 - [ETA Prime](https://www.youtube.com/c/ETAPRIME) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Greg Sewart](https://www.youtube.com/@sewart/videos) My goal is to chronologically play and review every game released on Sega's greatest system, as well as outline some of the history surrounding the development of the games, the hardware, and the general goings-on of the video game industry back in the nineties.
