@@ -182,6 +182,7 @@ A simple list with rough categorizations.
 - [Easy do](https://www.youtube.com/c/EasyDoChannel) Gardening and kitchen tips
 - [Insteading](https://www.youtube.com/c/Insteading) Gardening, Outdoors etc
 - [L' Arca delle idee - Stefano Gullotta](https://www.youtube.com/c/StefanoGullotta) All italian instructions with subtitles for interesting garden projects
+- [LeaveCurious](https://www.youtube.com/@LeaveCurious) This channel explores & tells stories of Rewilding. Creating content with aim of leaving you a little more curious than you arrived.
 - [Self Sufficient Me](https://www.youtube.com/@Selfsufficientme) Aussie home gardener
 - [Serpa Design](https://www.youtube.com/c/SerpaDesign) Everything terrariums
 - [The Backyard Nauralist](https://www.youtube.com/@the-Backyard-Naturalist) I'm an Australian naturalist interested in all things flora and fauna in this amazing country.
