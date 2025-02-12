@@ -109,6 +109,7 @@ A simple list with rough categorizations.
 ## F1 / Motorsport
 
 - [Aidan Millward](https://www.youtube.com/c/AidanMillward) Stories and more about motorsport
+- [Aldas001](https://www.youtube.com/@Aldas001) Stories about F1
 - [Autosport](https://www.youtube.com/c/AUTOSPORTdotcom) Everything about F1 past and present
 - [BoxBoxNow](https://www.youtube.com/@BoxBoxNow) BoxBoxNow channel explores the unusual topics of Formula One such as F1 livery histories, sponsorship, and little known histories through hand-drawn illustration(somewhat poorly drawn) and to the point presentation
 - [Chain Bear](https://www.youtube.com/user/chainbearf1) Sophisticated information packed about F1.
