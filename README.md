@@ -258,6 +258,7 @@ A simple list with rough categorizations.
 - [British Museums](https://www.youtube.com/c/BritishMuseumEvents) Museums and the Construction of Memory
 - [Canadiana](https://www.youtube.com/@Canadiana) On the hunt for the most incredible stories in Canadian history
 - [Cogito](https://www.youtube.com/c/CogitoEdu) History with cool animations.
+- [DanDavisHistory](https://www.youtube.com/@DanDavisHistory) Welcome to my channel featuring history and prehistory documentaries. I am not a historian or an archaeologist but you will find all my historical sources in the video descriptions.
 - [Darius Arya](https://www.youtube.com/@DariusArya) Join archaeologist Darius Arya for adventure, travel, and discovery in Rome and its Empire.
 - [Disasterthon - True Horror](https://www.youtube.com/DisasterthonTrueHorror) I started this storytelling channel to discuss some lesser known disaster stories. Inspired by channels such as Fascinating Horror I thought I would give it ago myself and see what happens. I do all the research and script writing myself and aim to tell these horrific stories respectfully and straight to the point. I upload every Thursday.
 - [East Germany Investigated](https://www.youtube.com/@eastgermanyinvestigated) Visit and learn about the old East Germany
