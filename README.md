@@ -263,6 +263,7 @@ A simple list with rough categorizations.
 - [Darius Arya](https://www.youtube.com/@DariusArya) Join archaeologist Darius Arya for adventure, travel, and discovery in Rome and its Empire.
 - [Disasterthon - True Horror](https://www.youtube.com/DisasterthonTrueHorror) I started this storytelling channel to discuss some lesser known disaster stories. Inspired by channels such as Fascinating Horror I thought I would give it ago myself and see what happens. I do all the research and script writing myself and aim to tell these horrific stories respectfully and straight to the point. I upload every Thursday.
 - [East Germany Investigated](https://www.youtube.com/@eastgermanyinvestigated) Visit and learn about the old East Germany
+- [Evolve.2](https://www.youtube.com/@Evolve.2) On this channel, we delve into the incredible story of the human species, from our humble ape origins to the rise of ancient societies. We cover human evolution, anthropology, and archaeology in-depth, providing a comprehensive look at the development of humans, our minds, and our civilizations.
 - [Factinate](https://www.youtube.com/@Factinate) Facts about everything.
 - [Fall of Civilisations](https://www.youtube.com/@FallofCivilizations) A podcast about the collapse of civilizations throughout history.
 - [Fire of Learning](https://www.youtube.com/user/Fireoflearning) Many stories about the past
