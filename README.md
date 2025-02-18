@@ -137,6 +137,7 @@ A simple list with rough categorizations.
 
 - [AdamCYounis](https://www.youtube.com/c/AdamCYounis) Pixel art, indie game development and more.
 - [Artindi](https://www.youtube.com/@Artindi) I make content on video games development: Devlogs, reviews, essays, tutorials and anything else related to indie game development.
+- [Barney Codes](https://www.youtube.com/@BarneyCodes) I make games and creative coding tutorial videos. On this channel I'll share cool things I've learned and the projects I'm working on. You can expect to see videos on data structures, algorithms, graphics programming, game development and more! My videos are a mix of tutorials, that teach you how to create your own creative coding projects, and devlogs, that keep you up to date with my personal projects!
 - [BiteMeGames](https://www.youtube.com/@bitemegames) Game developer startup journal and more...
 - [Brandon James Greer](https://www.youtube.com/c/BJGpixel) Pixel art, design, principles, drawing, analysis and more
 - [Dallas Drapeau](https://www.youtube.com/@DallasDrap) I am a Principal Artist in Games and Virtual Production @ Narwhal Studios/Artcic7 with such titles as The Mandalorian Series, Book of Boba Fett, Avatar The Last Airbender and many more under my belt as well as an Educator at Gnomon Univeristy.
