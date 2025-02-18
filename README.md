@@ -150,6 +150,7 @@ A simple list with rough categorizations.
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
 - [jesscodes](https://www.youtube.com/@jesscodes) Hey! My name is Jess and I'm a software developer from Australia. In my spare time I love to make games!
 - [JonasTyroller](https://www.youtube.com/@JonasTyroller) This channel documents my full time indie dev journey, all the way from its beginning in 2018. I make a mixture of educational and entertaining game dev content.
+- [kartopod](https://www.youtube.com/@kartopod) Hi, I'm Karthik! I'm an aspiring creative from India! I love games and games and games
 - [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
 - [MrWhatCookie](https://www.youtube.com/@MrWhatcookie) Deep tech investigation into game programming and more
