@@ -141,6 +141,7 @@ A simple list with rough categorizations.
 - [BiteMeGames](https://www.youtube.com/@bitemegames) Game developer startup journal and more...
 - [Brandon James Greer](https://www.youtube.com/c/BJGpixel) Pixel art, design, principles, drawing, analysis and more
 - [Challacade](https://www.youtube.com/@Challacade) Game development videos by Kyle Schaub, spreading lots of LÖ
+- [Chubzdoomer](https://www.youtube.com/@Chubzdoomer) PC and video game footage, level editing tutorials, and more!
 - [Dallas Drapeau](https://www.youtube.com/@DallasDrap) I am a Principal Artist in Games and Virtual Production @ Narwhal Studios/Artcic7 with such titles as The Mandalorian Series, Book of Boba Fett, Avatar The Last Airbender and many more under my belt as well as an Educator at Gnomon Univeristy.
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
 - [DigitalFoundry](https://www.youtube.com/@DigitalFoundry) Digital Foundry specialises in game technology and hardware reviews, using bespoke capture and analysis tools to provide a unique look at the way games play.
