@@ -239,6 +239,7 @@ A simple list with rough categorizations.
 - [Paolo from Tokyo](https://www.youtube.com/@PaolofromTOKYO) Learn about life in Japan
 - [PPPeterOfficial](https://www.youtube.com/@PPPeter_Official) My name is Peter (surprisingly) and I make satiric comedy sketches. I also do travel series that show the most extraordinary adventures from countries all over the world. I try to capture the unknown, the twisted and the bizarre.
 - [Railways of the World](https://www.youtube.com/c/RailwaysoftheWorld1) Ride Public Transport around the worlds great cities and towns.
+- [PBS Terra](https://www.youtube.com/@pbsterra/) PBS Terra is the home of science and nature shows from PBS Digital Studios.
 - [Rew Boss](https://www.youtube.com/@rewboss) A Brit's eyeview of Germany
 - [Simon Anderson](https://www.youtube.com/@Simon-Andersen) I take trains and transit across the world come along for the journey!
 - [SpainRevealed](https://www.youtube.com/@spainrevealed) Want to experience Spain like a local? You've come to the right place! We're James and Yoly (a Kiwi and a Spaniard) and our mission is to help you experience this wonderful country deeply. Travel guides, tapas, wine, tips and insights.
