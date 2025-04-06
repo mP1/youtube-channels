@@ -118,6 +118,7 @@ A simple list with rough categorizations.
 - [Driver61](https://www.youtube.com/c/Driver61) Pro driver discussing F1 driving, tracks, tactics
 - [F1ForSuccess](https://www.youtube.com/@F1ForSuccess) Formula 1 royalty David Coulthard and Eddie Jordan share their forthright opinions on life inside and outside the paddock.
 - [Goodwood Road & Racing](https://www.youtube.com/GoodwoodRRC) Mostly racing but a lot of good content.
+- [JonnyF1](https://www.youtube.com/@jonnyf1) Seems to be a F1 channel with a good start and potential
 - [Matt Amys](https://www.youtube.com/@mattamys) How Formula 1 Is Created 🏁
 - [WTF1](https://www.youtube.com/c/WTF1official) Trivia about F1
 
