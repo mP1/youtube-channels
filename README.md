@@ -450,6 +450,7 @@ A simple list with rough categorizations.
 
 ## Space
 
+- [BPS.shorts](https://www.youtube.com/@bps.shorts) Shorts from BPS.space so I don't clog up the main channel! Main channel: https://www.youtube.com/c/BPSspace)
 - [Everyday Astronaut](https://www.youtube.com/c/EverydayAstronaut) Bringing Space down to Earth for Everyday People
 - [NZRugbyLeagueVidz](https://www.youtube.com/@nzrugbyleaguevidz) NZRugbyVidz was established in 2009 and expanded its global reach to inspire League fans worldwide in 2018
 - [PrimalSpace](https://www.youtube.com/@primalspace) Primal Space is here to answer the more obscure questions you have about space. To feed the curiosity of the younger generations and to celebrate the primal beginnings of spaceflight.
