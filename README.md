@@ -177,6 +177,7 @@ A simple list with rough categorizations.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [ThomasBrush](https://www.youtube.com/@thomasbrush) Indie game dev
 - [ThreatInteractive](https://www.youtube.com/@ThreatInteractive) Official YouTube Channel of The New Indie Game Studio: Threat Interactive
+- [Typhoon](https://www.youtube.com/@typhoonbh/) q u a l i t y  c o n t e n t
 - [Vercidium](https://www.youtube.com/@Vercidium) I spent 6 years creating a game engine from scratch, and I am keen to share what I learned.
 
 
