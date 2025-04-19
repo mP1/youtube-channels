@@ -453,6 +453,7 @@ A simple list with rough categorizations.
 - [BPS.shorts](https://www.youtube.com/@bps.shorts) Shorts from BPS.space so I don't clog up the main channel! Main channel: https://www.youtube.com/c/BPSspace)
 - [Everyday Astronaut](https://www.youtube.com/c/EverydayAstronaut) Bringing Space down to Earth for Everyday People
 - [NZRugbyLeagueVidz](https://www.youtube.com/@nzrugbyleaguevidz) NZRugbyVidz was established in 2009 and expanded its global reach to inspire League fans worldwide in 2018
+- [Ian Lauer Astro](https://www.youtube.com/@ianlauerastro) Bringing the stars back into your life. I'm Ian, an adventure astronomer and astrophotographer. It's my life's mission to reconnect as many people as possible to the night sky. Come join me on my adventures as we explore the world and the universe.
 - [PrimalSpace](https://www.youtube.com/@primalspace) Primal Space is here to answer the more obscure questions you have about space. To feed the curiosity of the younger generations and to celebrate the primal beginnings of spaceflight.
 - [Scott Manley](https://www.youtube.com/c/szyzyg) Learn everything about rockets, space, the missions, the equipment and more.
 - [Simply Space](https://www.youtube.com/@SimplySpace) Learn interesting and important spaceflight concepts through intuitive explanations and original 3D animations. Thanks to companies like SpaceX, Rocket Lab and Blue Origin, the desire to learn more about spaceflight is on the rise faster than a Saturn V to the Moon, so come along for the journey with me, it's Simply Space.
