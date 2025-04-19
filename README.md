@@ -215,6 +215,7 @@ A simple list with rough categorizations.
 - [DavidMGreen](https://www.youtube.com/@davidthegreen/)Hi, I’m David M. Green. Comedian, writer, etc. based in Melbourne, Australia. In addition to being the "VHS Revue" guy, I was also the host of "31 Questions", writer for "Shaun Micallef's Mad As Hell" on ABC TV, various characters in "Good Afternoon Adelaide", plus some other things.
 - [DownieLive](https://www.youtube.com/@DownieLive) Your friendly Canadian YouTuber, with a passion for adventure through curiosity. I don't know where I'm going next, but I know I want you there with me, every Saturday for new adventure and behind-the-scenes videos.
 - [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
+- [Eli from Russia](https://www.youtube.com/@ElifromRussia) Hi there! I come from a town in the Ural mountains and now I travel to off the beaten path places of Russia, discover the culture of small ethnic groups & visit other parts of the world. Welcome to my channel :)
 - [Flags in Focus](https://www.youtube.com/@FlagsinFocus)If you have a mild interest in flags or you’re a full on vexillologist, then this channel is for you. It’s informative, entertaining and has flags!
 - [fourth_place](https://www.youtube.com/@fourth_place) Videos about American geography
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
