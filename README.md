@@ -259,6 +259,7 @@ A simple list with rough categorizations.
 - [Tracks Travel Docs](https://www.youtube.com/@TRACKSTravelDocs) Beautiful sweeping scenery, never-before-seen holiday destinations and insider sneak-peeks into countries you’ll be dying to visit
 - [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
 - [Trains Are Awesome](https://www.youtube.com/@Thom-TRA) For 9 years now, we have been making travel reports and videos of trains from all over the world. Every city we visit, we explore its public transportation system, trying to find its weirdest and most interesting features.
+- [Vaga Vagabond](https://www.youtube.com/@ivantrainsLIVE) I'm Vaga Bond, a traveler from Russia. This channel was created to upload videos in English about my adventures all over the world. I travel by hitchhiking, freight hopping, foots but sometimes as a regular passenger. I believe the things I do is a part of my way to success because I genuinely like them.
 - [Weird Explorer](https://www.youtube.com/c/WeirdExplorer) Cashew apple fruit...
 - [WesWherever](https://www.youtube.com/@WesWherever) Adventures in unexpected places...
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
