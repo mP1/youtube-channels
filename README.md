@@ -50,6 +50,7 @@ A simple list with rough categorizations.
 - [MeetingCPP](https://www.youtube.com/@MeetingCPP) Meeting C++ is an independent platform for C++, supporting the C++ community by sharing news, blogs and events for C++. Details on the yearly Meeting C++ Conference can be found on the website https://meetingcpp.com
 - [MicroarchClub](https://www.youtube.com/@MicroarchClub) The art, science, and history of processor design.
 - [MIT OpenCourseWare](https://www.youtube.com/@mitocw) A free and open online publication of educational material from thousands of MIT courses, covering the entire MIT curriculum, ranging from introductory to the most advanced graduate courses. On the OCW website, each course includes a syllabus, instructional material like notes and reading lists, and learning activities like assignments and solutions. Some courses also have videos, online textbooks, and faculty insights on teaching.
+- [Srcerer](https://www.youtube.com/@srcerer) Low level coding sorcery.
 - [The National Museum of Computing](https://www.youtube.com/@tnmoc) The National Museum of Computing (TNMOC) is home to the world's largest collection of working historic computers.
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
 - [NorthSecio](https://www.youtube.com/@NorthSecIo) https://nsec.io NorthSec is the biggest applied security event in Canada, aimed at raising the knowledge and technical expertise of professionals and students alike
