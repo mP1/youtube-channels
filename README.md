@@ -306,6 +306,7 @@ A simple list with rough categorizations.
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
 - [Night Scarab](https://www.youtube.com/@nightscarab5802/videos) Ideas about how the Egyptian pyramids were built
 - [Odyssey](https://www.youtube.com/c/odyssey) Odyssey - Ancient History Documentaries
+- [Paul Whitewick](https://www.youtube.com/@pwhitewick) Hello and welcome. I'm Paul Whitewick, I seem to have developed a passion for making short films about the Landscape here in Britain. My passion for abandoned Railways and Canals soon spilled over into Roman Roads, ancient trackways and countless stories I can tell as I walk the Landscape. I have a degree in Environmental Science, but thats about it, other than a pair of decent walking shoes! I am a wannabee archaeologist who loves telling the stories I learn about week on week. So if thats your thing, click subscribe and I'll see you in the next video.
 - [PBS Eons](https://www.youtube.com/c/eons) Documentaries about ancient animals and more.
 - [PeopleProfiles](https://www.youtube.com/@PeopleProfiles) Biographies about many of the famous and infamous names of history.
 - [Perspective](https://www.youtube.com/@PerspectiveArts) Perspective is the ultimate arts channel. We've got music, theatre, opera, paintings and much more.
