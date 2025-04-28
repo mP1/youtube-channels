@@ -63,7 +63,7 @@ A simple list with rough categorizations.
 - [Victor Chan](https://www.youtube.com/@launchexcel) Say goodbye to repetitive Excel work with VBA automation.
 - [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
 - [Vision basic](https://www.youtube.com/@visionbasic) Building a Basic compiler package for C64.
-
+- [WalkingCatVideos](https://www.youtube.com/@WalkingCatVideos) The Cat Walking in the Night, lots of DOTNET videos
 
 
 ## Cricket
