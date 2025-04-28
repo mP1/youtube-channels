@@ -36,6 +36,7 @@ A simple list with rough categorizations.
 - [CppCon](https://www.youtube.com/@CppCon) Visit cppcon.org for details on next year's conference. CppCon sponsors have made it possible to record and freely distribute over 1000 sessions from the first CppCon in 2014 to the present. We hope you enjoy them!
 - [CyberGizmo](https://www.youtube.com/@CyberGizmo/) Mostly technology reports about Linux
 - [Dave's Garage](https://www.youtube.com/@DavesGarage) Windows history, Windows vs Linux from the guy who wrote quite a few famous Windows bits like TaskMan & Format
+- [DEFCONConference](https://www.youtube.com/@DEFCONConference/) This is the official DEF CON YouTube channel. What is DEF CON? Check out https://www.defcon.org/
 - [Dotnet](https://www.youtube.com/@dotnet) This is the official YouTube channel for the .NET team at Microsoft.
 - [DylanBeattie](https://www.youtube.com/@DylanBeattie) Specs, bugs & rock'n'roll.
 - [Hardwareio](https://www.youtube.com/@hardweario) Hardwear.io is a platform for hardware and security community where researchers showcase and discuss their innovative research on attacking and defending hardware.
