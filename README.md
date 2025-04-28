@@ -18,7 +18,7 @@ A simple list with rough categorizations.
 - [WaterlineStories](https://www.youtube.com/@waterlinestories) Stories from the Waterline
 
 ## Cars
-- [Top Gear Minis] https://www.youtube.com/@WheelyGoodChannel-ly5ki
+- [Top Gear Minis](https://www.youtube.com/@WheelyGoodChannel-ly5ki) On this channel, I will post bus videos or emergency vehicle videos.
 
 ## Computing
 
