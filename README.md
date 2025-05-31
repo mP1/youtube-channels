@@ -256,6 +256,7 @@ A simple list with rough categorizations.
 - [SpainRevealed](https://www.youtube.com/@spainrevealed) Want to experience Spain like a local? You've come to the right place! We're James and Yoly (a Kiwi and a Spaniard) and our mission is to help you experience this wonderful country deeply. Travel guides, tapas, wine, tips and insights.
 - [Terramatter](https://www.youtube.com/@terramater) Nature is wild and wonderful! Take a look at the best what our planet has to offer - from weird to breathtaking.
 - [Tim the traveller](https://www.youtube.com/c/TheTimTraveller) Visit Europe with Tim, short and fun.
+- [TimeTravels](https://www.youtube.com/@HistoryTimeTravels) Journey through time to uncover amazing, dramatic and bizarre stories from the past - but also ask the questions, what does it look like now? And what if things had happened differently? From ancient Rome and colonial Australia, to Victorian era London, early-settler New Zealand and beyond - come with us as we uncover the the pivotal turning points in history that changed the destiny of empires and transformed our world.
 - [The Casual Earth](https://www.youtube.com/@casualearth9076) Videos about geography, weather and more
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
 - [Townsends](https://www.youtube.com/@townsends) A channel dedicated to exploring the 18th Century lifestyle.
