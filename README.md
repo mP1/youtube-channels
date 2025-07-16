@@ -87,6 +87,7 @@ A simple list with rough categorizations.
 ## Current Affairs
 
 - [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
+- [ABCNewsIndepth](https://www.youtube.com/@ABCNewsIndepth) Welcome to ABC News In-depth, where you'll find our long-form journalism and explainers to help you understand what's going on in the world around you.
 - [BBCAfrica](https://www.youtube.com/@BBCAfrica/) BBC Africa draws on its extensive network of journalists to deliver the biggest stories from across the continent and its diaspora. From culture and entertainment, to politics, business and sport, these are African stories brought to you by the world's most trusted news source.
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [CaspianReport](https://www.youtube.com/@CaspianReport) We try to make sense of an increasingly complicated world by cutting through the noise and analysing geopolitical trends.
