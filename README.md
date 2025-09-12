@@ -251,6 +251,7 @@ A simple list with rough categorizations.
 - [OurWorld](https://www.youtube.com/@OurWorld/) Visit the worlds biggest cave and more.
 - [OzGeology](https://www.youtube.com/@OzGeologyOfficial) OzGeology is all about geology, mineralogy, volcanoes, and the many natural disasters that have shaped and continue to shape our world.
 - [OzGeographics](https://www.youtube.com/@OzGeographics) Mostly about Australia geography and other bits
+- [Pakspan](https://www.youtube.com/@thepakspan) After 17 years in London we packed up and moved to Spain´s Costa del Sol 🏄‍♂️. From our home in Marbella, we are going on adventures across this beautiful region and beyond!
 - [Paolo from Tokyo](https://www.youtube.com/@PaolofromTOKYO) Learn about life in Japan
 - [PPPeterOfficial](https://www.youtube.com/@PPPeter_Official) My name is Peter (surprisingly) and I make satiric comedy sketches. I also do travel series that show the most extraordinary adventures from countries all over the world. I try to capture the unknown, the twisted and the bizarre.
 - [Railways of the World](https://www.youtube.com/c/RailwaysoftheWorld1) Ride Public Transport around the worlds great cities and towns.
