@@ -175,6 +175,7 @@ A simple list with rough categorizations.
 - [PixelArchitect](https://www.youtube.com/@PixelArchitect) I'm Noah, an architectural designer and new indie game dev. This Channel is dedicated to game design Devlogs and Pixel Art. I apply my architectural design experience to game design, in order to create an open world pixel art game.
 - [Pixel Pete](https://www.youtube.com/c/PeterMilko) I'm an Indie game dev here to help!
 - [Raeleus](https://www.youtube.com/@raeleus)Lots of tutorials and resources about LibGFX.
+- [Soda Byte](https://www.youtube.com/@sodabyte) C++, Graphics Programming, and Game Engine Development.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
