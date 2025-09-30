@@ -193,6 +193,7 @@ A simple list with rough categorizations.
 - [MrSujano](https://www.youtube.com/@MrSujano) I'm a gaming and technology journalist bringing you the latest and greatest news from around the world. I do my best to create daily videos from wherever I am - even when I'm camping off-grid.
 - [Nerdemia](https://www.youtube.com/@Nerdemia) A celebration of video games and movies, focusing on the cool, silly, and bizarre aspects of both industries.
 - [New Frame Plus](https://www.youtube.com/c/NewFramePlus) A professional animator analyzing animation within many computer games
+- [Shmups On Switch](https://www.youtube.com/@ShmupsOnSwitch) Reviews of shmups on Nintendo Switch and, very occasionally, other platforms too. Now and then, features some other shmup related content - best of lists, ports I'd like to see etc.
 - [SteB](https://www.youtube.com/@ste_b/search?query=bubble) Everything about Bubble Bobble
 
 
