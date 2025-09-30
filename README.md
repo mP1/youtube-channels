@@ -232,6 +232,7 @@ A simple list with rough categorizations.
 - [GeographyTour](https://www.youtube.com/@GeographyTour) Geography tour is a channel that produces interesting facts and videos about the geography of countries and also talks about important political and economic issues of the countries of the world.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
 - [GhibOjisan](https://www.youtube.com/@GhibOjisan) Visiting all the hiddem gems and eating lesser-known food at Japan's most under-rated prefecture, Miyazaki. Miyazaki is located in Kyushu and is known among the Japanese for delicious food, beautiful nature and calm surroundings.
+- [Great Railway Journeys](https://www.youtube.com/@GreatRailwayJourneysTV) Lots of Michael Portillo Train Journeys
 - [Half as Interesting](https://www.youtube.com/c/halfasinteresting) Mostly American focus but a lot of content to learn about the world.
 - [hwtours](https://www.youtube.com/@hwtours) Come join HW on some walking tours 🗣️ (with live, in real life commentary #irl) of Sydney, Australia & The World. —ALL IN 4K—. Watch on your big screen. Videos weekly.
 - [Hyce](https://www.youtube.com/@Hyce777)I'm Hyce! Welcome to my channel, where we celebrate and demystify all things railroading, both virtual and real. We also play music along the way. Come join along!
