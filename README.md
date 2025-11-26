@@ -6,6 +6,7 @@ A simple list with rough categorizations.
 
 ## Art
 
+- [BrookeGlaser](https://www.youtube.com/@BrookeGlaser) Professional illustrator creating online classes and resources for artists.
 - [Kristy Partridge](https://www.youtube.com/@KirstyPartridgeArt) Pencil art, create and techniques
 - [Martin VDA](https://www.youtube.com/@MartinVDAIllustration) Channel dedicated to learning Inkscape and cartoon illustration.
 - [Stephen Travers Art](https://www.youtube.com/@stephentraversart)Videos and time lapses of my journey into the world of urban sketching.  It all started in Paris in 2018.....
