@@ -409,6 +409,7 @@ A simple list with rough categorizations.
 
 ## Retro
 
+- [100th Coin](https://www.youtube.com/@100thCoin) On this channel I'm going to be breaking video games.  Probably Mario 3. Mostly Mario 3. I'm breaking Mario 3.
 - [8-Bit Show and Tell](https://www.youtube.com/c/8BitShowAndTell) Mostly focusing on 80s computers like the C64.
 - [8bittimes](https://www.youtube.com/@8bittimes)This channel is all about 8-bit computers, mostly new self-built machines, replicas, and of course classic computers.
 - [Ansimuz](https://www.youtube.com/@ansimuz) Get ready to step into a time machine and journey back to the golden age of gaming! As a game developer with a passion for all things retro, I'm on a mission to keep the spirit of classic games alive.
