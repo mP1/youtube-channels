@@ -241,6 +241,7 @@ A simple list with rough categorizations.
 - [Hyce](https://www.youtube.com/@Hyce777)I'm Hyce! Welcome to my channel, where we celebrate and demystify all things railroading, both virtual and real. We also play music along the way. Come join along!
 - [Insider Business](https://www.youtube.com/@InsiderBusiness) Visit a lot of small traditional artisan craftsmanship.
 - [Insider Food](https://www.youtube.com/@InsiderFood) Visit a lot of traditional food prepartions, means and enjoyment.
+  [James Lambert](https://www.youtube.com/@james.lambert) I like coding games and retro consoles.
 - [Johnny Harris](https://www.youtube.com/c/johnnyharris) Explore the world
 - [Josh Kwan](https://www.youtube.com/@joshkwan) Bicycle rides around Sydney
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
