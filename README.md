@@ -428,6 +428,7 @@ A simple list with rough categorizations.
 - [lftkryo](https://www.youtube.com/@lftkryo) Hi! My name is Linus. I'm a musician and mad engineer with a soft spot for 8-bit computers and the sounds they make. I compose for and perform music on a variety of instruments, synthesizers, 8-bit computers, and things that I build or repurpose such as the Chipophone and the Commodordion. I'm also intrigued by procedural art and sizecoding, be it on traditional setups like the Commodore 64 or my own microcontroller-based hardware.
 - [James Lambert](https://www.youtube.com/@james.lambert) I like coding games and retro consoles.
 - [Jeremy Parish](https://www.youtube.com/c/JeremyParish) In depth analysis of old retro games.
+- [Johnny Grafx](https://www.youtube.com/@Johnnygrafx) A nerdy millennial exploring weird and underrated obscurities from the late 80s, 90s, and early 2000s... and is pretty okay at it.
 - [Jordan HJ](https://www.youtube.com/@JordanHJ) History of many of the past great games and more
 - [Jimmy Breck-McKye](https://www.youtube.com/@jbreckmckye) PSOne fanatic
 - [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
