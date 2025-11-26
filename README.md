@@ -501,4 +501,5 @@ A simple list with rough categorizations.
 - [Creative Cow](https://www.youtube.com/creativecow) Learn about creating videos with numerous Adobe products.
 
 ## Web
+- [camelCase](https://www.youtube.com/@camelCaseDev) Hey, I'm Franz, a passionate web developer and I hope I can introduce you to some exciting things about web programming here on my channel
 - [KoleJain](https://www.youtube.com/@KoleJain) Hi I'm Kole, a web designer and developer from Canada with 6 years of experience, who loves building interactive and engaging websites. My goal is to teach you about UI/UX design, web development, freelancing, animation, and just about anything else that I'm good at that could be considered a skill. :)
