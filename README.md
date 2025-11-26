@@ -426,6 +426,7 @@ A simple list with rough categorizations.
 - [Greg Sewart](https://www.youtube.com/@sewart/videos) My goal is to chronologically play and review every game released on Sega's greatest system, as well as outline some of the history surrounding the development of the games, the hardware, and the general goings-on of the video game industry back in the nineties.
 - [Hermski](https://www.youtube.com/@Hermski) Let's go Back to 8-bit with your host Hermski. Playing through old retro games on the ZX Spectrum, CPC, C64, consoles and more, using real hardware, Emulation and the MiSTer FPGA system.
 - [lftkryo](https://www.youtube.com/@lftkryo) Hi! My name is Linus. I'm a musician and mad engineer with a soft spot for 8-bit computers and the sounds they make. I compose for and perform music on a variety of instruments, synthesizers, 8-bit computers, and things that I build or repurpose such as the Chipophone and the Commodordion. I'm also intrigued by procedural art and sizecoding, be it on traditional setups like the Commodore 64 or my own microcontroller-based hardware.
+- [James Lambert](https://www.youtube.com/@james.lambert) I like coding games and retro consoles.
 - [Jeremy Parish](https://www.youtube.com/c/JeremyParish) In depth analysis of old retro games.
 - [Jordan HJ](https://www.youtube.com/@JordanHJ) History of many of the past great games and more
 - [Jimmy Breck-McKye](https://www.youtube.com/@jbreckmckye) PSOne fanatic
