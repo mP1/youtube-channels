@@ -10,6 +10,7 @@ A simple list with rough categorizations.
 - [Kristy Partridge](https://www.youtube.com/@KirstyPartridgeArt) Pencil art, create and techniques
 - [Marco Bucci](https://www.youtube.com/@marcobucci) I'm a professional artist, with more than 15 years' experience in the film, TV, game, and print industries - primarily as a concept artist and illustrator. I also happen to believe that it's the duty of experienced artists to pass on what they've learned, with no BS and for as low-cost as possible. It's for that reason that I'm a passionate teacher. I have taught at CGMA, Academy of Art University, Centennial College, and more.
 - [Martin VDA](https://www.youtube.com/@MartinVDAIllustration) Channel dedicated to learning Inkscape and cartoon illustration.
+- [Stayf Draws](https://www.youtube.com/@StayfDraws) I make video tutorials about drawing and painting on the iPad Pro in Procreate and other drawing apps. I am Stefan (Stayf) de Groot, a Dutch artist. I have been doing that professionally for over twenty years. I want to share my experience and the things I have learned with you. With the drawing tutorials you can learn to draw or improve your drawing skills. I also make product reviews of books, ebooks and products for digital drawing. Drawing is fun and practice makes perfect, doodles!
 - [Stephen Travers Art](https://www.youtube.com/@stephentraversart)Videos and time lapses of my journey into the world of urban sketching.  It all started in Paris in 2018.....
 
 
