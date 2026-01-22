@@ -72,6 +72,7 @@ A simple list with rough categorizations.
 
 ## Cricket
 
+- [Cricket Machine](https://www.youtube.com/@CricketMachineZA) Cricket. All day. Every day. Subscribe for cricket info, laws, highlights and more!
 - [Robelinda](https://www.youtube.com/@robelinda) The one place for cricket videos
 
 
