@@ -8,6 +8,7 @@ A simple list with rough categorizations.
 
 - [BrookeGlaser](https://www.youtube.com/@BrookeGlaser) Professional illustrator creating online classes and resources for artists.
 - [Kristy Partridge](https://www.youtube.com/@KirstyPartridgeArt) Pencil art, create and techniques
+- [Marco Bucci](https://www.youtube.com/@marcobucci) I'm a professional artist, with more than 15 years' experience in the film, TV, game, and print industries - primarily as a concept artist and illustrator. I also happen to believe that it's the duty of experienced artists to pass on what they've learned, with no BS and for as low-cost as possible. It's for that reason that I'm a passionate teacher. I have taught at CGMA, Academy of Art University, Centennial College, and more.
 - [Martin VDA](https://www.youtube.com/@MartinVDAIllustration) Channel dedicated to learning Inkscape and cartoon illustration.
 - [Stephen Travers Art](https://www.youtube.com/@stephentraversart)Videos and time lapses of my journey into the world of urban sketching.  It all started in Paris in 2018.....
 
