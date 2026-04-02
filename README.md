@@ -374,6 +374,7 @@ A simple list with rough categorizations.
 - [Nerdstalgic](https://www.youtube.com/@Nerdstalgic) Welcome to Nerdstalgic! Deep dives, breakdowns and in-depth video essays of all your favorite movies and TV shows from today AND yesterday!
 - [RedEye Reviews](https://www.youtube.com/c/RedEyeReviews) Reviews, Trivia, Supercuts, Comedy
 - [Scott Prop and Roll](https://www.youtube.com/@ScottPropandRoll) I'm Scott Reeder:  TV/Film Prop Master who tells dad jokes and reveals fun and informative secrets of movie-making.
+- [ToonJukka](https://www.youtube.com/@ToonJukka) Videos about He-Man and the Masters of the Universe and She-Ra Princess of Power / Pop Culture, Comics, Cartoons and more!
 - [Wolfcrow](https://www.youtube.com/c/Wolfcrow) Film making theory
 
 ## Nature
