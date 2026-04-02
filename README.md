@@ -163,6 +163,7 @@ A simple list with rough categorizations.
 - [DrKuchoGames](https://www.youtube.com/@DrKuchoGames) Dr. Kucho! games' moto is to create video games (platformers) in old retro style.
 - [ExientGames](https://www.youtube.com/@ExientGames) We're Exient, and we're here to bring you great mobile games. We’re on a mission to create our own original titles and publish the best games. We aim to capture and delight our gaming community and actively include them in the experience. We shun crunch culture in favour of creative iteration to develop exciting and memorable experiences.
 - [Design Diary](https://www.youtube.com/@game_design_diary) Analysis of game design, gaming data and the video game industry.
+- [Fat Earth Studios](https://www.youtube.com/@FatEarthStudios) Fat Earth Studios is Godot game development channel where I share what I've learned while building a large 2D action platformer. Currently documenting the development of a retro-inspired action platformer from the NES era. If you are learning Godot, making your first real project, or trying to level up beyond beginner tutorials, this is the channel for you.
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
 - [GDC](https://www.youtube.com/c/Gdconf) Game Developers Conference
