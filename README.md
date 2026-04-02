@@ -95,6 +95,7 @@ A simple list with rough categorizations.
 - [France24EN](https://www.youtube.com/@France24_en) Official FRANCE 24's YouTube channel, international news 24/7. Watch international video news from around the world !
 - [Geo politics](https://www.youtube.com/@ednerd4275) In this video, we'll dive into the effects of Brexit on Europe and the UK four years after the historic decision. We'll explore the economic, social, and political changes that have unfolded since the UK left the EU.
 - [Great Big Story](https://www.youtube.com/@GreatBigStory) News thats mostly fun not violence, sad or depressing.
+- [Japanalysis](https://www.youtube.com/@Japanalysis) bridging the gap between the Japanese and the English sides of the internet.
 - [MeettheMonde](https://www.youtube.com/@MeettheMonde)Meet the Monde is a branch of DIAVi pro, a video production company, dedicated to sharing incredible stories from around the world. We produce short documentaries that dive into human stories, art, places, cultures, traditions, food, and more. Join us on this adventure as we explore the world together..
 - [Moconomy](https://www.youtube.com/@Moconomy) Moconomy® streams documentaries and other videos on economy & finance topics.
 - [NewMind](https://www.youtube.com/@NewMind) New Mind is a celebration of that journey; the telling of slivers of that human story.  Each composition is a careful telling of a slice of our technological world, exploring not just the “how it works” but the evolution of the why – the series of historical events that made it this way.
