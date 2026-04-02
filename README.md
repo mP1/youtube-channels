@@ -13,8 +13,6 @@ A simple list with rough categorizations.
 - [Stayf Draws](https://www.youtube.com/@StayfDraws) I make video tutorials about drawing and painting on the iPad Pro in Procreate and other drawing apps. I am Stefan (Stayf) de Groot, a Dutch artist. I have been doing that professionally for over twenty years. I want to share my experience and the things I have learned with you. With the drawing tutorials you can learn to draw or improve your drawing skills. I also make product reviews of books, ebooks and products for digital drawing. Drawing is fun and practice makes perfect, doodles!
 - [Stephen Travers Art](https://www.youtube.com/@stephentraversart)Videos and time lapses of my journey into the world of urban sketching.  It all started in Paris in 2018.....
 
-
-
 ## Boats, Shipping, Navigation
 
 - [Casual Navigation](https://www.youtube.com/c/CasualNavigation) Lots of info about ships and the oceans.
@@ -71,13 +69,10 @@ A simple list with rough categorizations.
 - [Vision basic](https://www.youtube.com/@visionbasic) Building a Basic compiler package for C64.
 - [WalkingCatVideos](https://www.youtube.com/@WalkingCatVideos) The Cat Walking in the Night, lots of DOTNET videos
 
-
 ## Cricket
 
 - [Cricket Machine](https://www.youtube.com/@CricketMachineZA) Cricket. All day. Every day. Subscribe for cricket info, laws, highlights and more!
 - [Robelinda](https://www.youtube.com/@robelinda) The one place for cricket videos
-
-
 
 ## Culture & Craft
 
@@ -85,8 +80,6 @@ A simple list with rough categorizations.
 - [Adam Ragusea](https://www.youtube.com/user/aragusea/) Stories about food
 - [Studson studio](https://www.youtube.com/c/StudsonStudio) Crafting Miniatures & Models based on Movies & Games
 - [TheSimpsonsTheory](https://www.youtube.com/@TheSimpsonsTheory) We're Lydia and James and we love diving into the world of The Simpsons - celebrating the show in all the ways we can. This is through kill-counts, theories, straightening out character-timelines and convincing you not to sleep on characters simply because they're not in the big family of five.
-
-
 
 ## Current Affairs
 
@@ -107,7 +100,7 @@ A simple list with rough categorizations.
 - [Professor James Ker Lindsay](https://www.youtube.com/@JamesKerLindsay) International conflicts, disputes, relations and origins
 - [SearchParty](https://www.youtube.com/@Search-Party) Search Party is a new independent video journalism project that will investigate and decode the most important and complicated news around geopolitics and global sports.
 - [Seed_Documentary](https://www.youtube.com/@Seed_Documentary/) Seed brings you documentaries about climate change, environmental challenges, and their effects on our world. Discover the causes, impacts, and solutions to these urgent issues. From showcasing the impact on ecosystems and wildlife to highlighting actions worldwide, Seed educates and empowers viewers to create a positive change. Join us on the journey to a healthier, sustainable planet for all.
-  [Steve Rosenberg](https://www.youtube.com/@BBCSteveR) Russia Editor for BBC News
+- [Steve Rosenberg](https://www.youtube.com/@BBCSteveR) Russia Editor for BBC News
 - [StevenNdukwu](https://www.youtube.com/@StevenNdukwu) Steven Ndukwu is a Seasoned Filmmaker, Internet Personality, and Content Creator with over 50 Million online views about stories from around the world in his well-put-together Travel Documentaries. On this channel, you will also discover the Beauty of Africa and the world in general and get to see African-owned businesses/Innovations that are changing lives and creating impact.
 - [Tomas Pueyo](https://www.youtube.com/@tomas_pueyo) Unravel how the world works today to navigate the world of tomorrow
 - [TayoAinaFilms](https://www.youtube.com/@TayoAinaFilms) Passionate Filmmaker and Storyteller with a vision to tell stories that challenge the status quo and inspire others to do what inspires them so we can change the world together.
@@ -117,8 +110,6 @@ A simple list with rough categorizations.
 ## Electronics
 
 - [Ben Eater](https://www.youtube.com/c/BenEater/) Breadboards, low level hardware.
-
-˚
 
 ## F1 / Motorsport
 
@@ -138,14 +129,11 @@ A simple list with rough categorizations.
 ## Fun
 - [kubotubemakers](https://www.youtube.com/@kubotubemakers9700) https://vt.tiktok.com/ZSJhFefDw/
 
-
 ## Football
 
 - [HITCSevents](https://www.youtube.com/HITCSevens) From the worst owners to the most prolific goal scorers, HITC Sevens takes a look at the seven best, worst, funniest, oldest or weirdest features of football's past and present.
 - [Rabona TV](https://www.youtube.com/@RabonaTV) Football content with substance and depth. Explainers, essays, player profiles, and current events.
 - [Tifo](https://www.youtube.com/@Tifo) In-depth tactical, historical and geopolitical breakdowns of the beautiful game.
-
-
 
 # Game dev
 
@@ -157,12 +145,12 @@ A simple list with rough categorizations.
 - [Challacade](https://www.youtube.com/@Challacade) Game development videos by Kyle Schaub, spreading lots of LÖ
 - [Chubzdoomer](https://www.youtube.com/@Chubzdoomer) PC and video game footage, level editing tutorials, and more!
 - [Dallas Drapeau](https://www.youtube.com/@DallasDrap) I am a Principal Artist in Games and Virtual Production @ Narwhal Studios/Artcic7 with such titles as The Mandalorian Series, Book of Boba Fett, Avatar The Last Airbender and many more under my belt as well as an Educator at Gnomon Univeristy.
+- [Design Diary](https://www.youtube.com/@game_design_diary) Analysis of game design, gaming data and the video game industry.
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
 - [DigitalFoundry](https://www.youtube.com/@DigitalFoundry) Digital Foundry specialises in game technology and hardware reviews, using bespoke capture and analysis tools to provide a unique look at the way games play.
 - [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
 - [DrKuchoGames](https://www.youtube.com/@DrKuchoGames) Dr. Kucho! games' moto is to create video games (platformers) in old retro style.
 - [ExientGames](https://www.youtube.com/@ExientGames) We're Exient, and we're here to bring you great mobile games. We’re on a mission to create our own original titles and publish the best games. We aim to capture and delight our gaming community and actively include them in the experience. We shun crunch culture in favour of creative iteration to develop exciting and memorable experiences.
-- [Design Diary](https://www.youtube.com/@game_design_diary) Analysis of game design, gaming data and the video game industry.
 - [Fat Earth Studios](https://www.youtube.com/@FatEarthStudios) Fat Earth Studios is Godot game development channel where I share what I've learned while building a large 2D action platformer. Currently documenting the development of a retro-inspired action platformer from the NES era. If you are learning Godot, making your first real project, or trying to level up beyond beginner tutorials, this is the channel for you.
 - [Game Endeavor](https://www.youtube.com/@GameEndeavor) Diary and thoughts about a JRPG.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
@@ -197,7 +185,6 @@ A simple list with rough categorizations.
 - [Vercidium](https://www.youtube.com/@Vercidium) I spent 6 years creating a game engine from scratch, and I am keen to share what I learned.
 - [VoxelRifts](https://www.youtube.com/@voxelrifts) Channel dedicated to Programming explainer videos.
 
-
 # Gaming
 
 - [ConversationsWithCurtis](https://www.youtube.com/@ConversationsWithCurtis/) Welcome to "Conversations With Curtis" -- where we unbox the archives of gaming history.
@@ -206,7 +193,6 @@ A simple list with rough categorizations.
 - [New Frame Plus](https://www.youtube.com/c/NewFramePlus) A professional animator analyzing animation within many computer games
 - [Shmups On Switch](https://www.youtube.com/@ShmupsOnSwitch) Reviews of shmups on Nintendo Switch and, very occasionally, other platforms too. Now and then, features some other shmup related content - best of lists, ports I'd like to see etc.
 - [SteB](https://www.youtube.com/@ste_b/search?query=bubble) Everything about Bubble Bobble
-
 
 # Gardening
 - [Andrew Millison](https://www.youtube.com/@amillison) Andrew Millison is a permaculture teacher and practitioner, media maker, and gardener. This is his personal channel for the videos he produces, as well as some produced by Oregon State University, where he is an instructor in the Horticulture department
@@ -220,8 +206,6 @@ A simple list with rough categorizations.
 - [Serpa Design](https://www.youtube.com/c/SerpaDesign) Everything terrariums
 - [The Backyard Nauralist](https://www.youtube.com/@the-Backyard-Naturalist) I'm an Australian naturalist interested in all things flora and fauna in this amazing country.
 - [TheKiwiGrower](https://www.youtube.com/@TheKiwiGrower) As a keen gardener I'll give anything a go and I especially love growing exotic fruiting plants and unusual edible plants. I often experiment with growing, so I'll share with you my successes and failures so hopefully you'll learn from them and have a go yourself!
-
-
 
 ## Geography / Travel
 
@@ -389,14 +373,10 @@ A simple list with rough categorizations.
 - [Scott Prop and Roll](https://www.youtube.com/@ScottPropandRoll) I'm Scott Reeder:  TV/Film Prop Master who tells dad jokes and reveals fun and informative secrets of movie-making.
 - [Wolfcrow](https://www.youtube.com/c/Wolfcrow) Film making theory
 
-
-
 ## Nature
 
 - [AnimaLogic](https://www.youtube.com/c/animalogic) Animalogic, your field guide to the animal kingdom.
 - [Bioark](https://www.youtube.com/@bioark1910) A new project from RealLifeLore. The same kinds of videos, just all about animals, animal facts and biology
-
-
 
 ## Planes
 - [Dark Skies](https://www.youtube.com/channel/UCwx8xyh6ZlDI5ZQpbIWKnUg) More about plane developments, history and tech.
@@ -408,16 +388,12 @@ A simple list with rough categorizations.
 - [Paul Stewart Aviation](https://www.youtube.com/@PaulStewartAviation) Visit up-close many famous planes and space vehicles in many of the worlds museums.
 - [Skyship](https://www.youtube.com/c/SkyshipsEng) Amazing presentations about current and past birds from the west and Russia.
 
-
-
 ## RC
 - [AndyRC](https://www.youtube.com/c/AndyRCchannel) Reviews and learn about flying little machines FPV
 - [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell) Professional reviews, tips and more about racing not camera drones.
 - [Project Air](https://www.youtube.com/c/ProjectAirAviation) Lots of cool building projects that really work.
 - [Ramy RC](https://www.youtube.com/c/RamyRC) Watch this artist build all sorts of wonderful scaled planes that fly.
 - [RC Model Reviews](https://www.youtube.com/user/RCModelReviews) Everybody in RC knows Bruce, lots too see and learn.
-
-
 
 ## Retro
 
@@ -469,8 +445,6 @@ A simple list with rough categorizations.
 - [Xyphoe](https://www.youtube.com/@Xyphoe) I'm a retro gamer and Amstrad fanatic! I love creating longplay & review videos especially for the Amstrad CPC, but I cover other retro systems too with features, documentaries, longplays, reviews and more! Every Friday at 9pm is my weekly live stream called the "AMSTREAM" - which is the home for the Amstrad fans but all gamers are welcome to our vibrant, friendly and welcoming community! You can also find me streaming on Twitch Monday to Thursday evenings!
 - [Xygor](https://www.youtube.com/@Xygor) I'm a retro gaming fanatic! I review retro games, dive deeper into individual games through my storyline summaries, and revive all the nostalgia of my childhood. Basically, I bring the best games of the past to light again!
 
-
-
 ## Science
 
 - [Be Smart](https://www.youtube.com/@besmart) We give you deep answers to simple questions about science and the rest of the universe. And also dad jokes. Be Smart is hosted by Joe Hanson, PhD. He's a molecular biologist and an award-winning science communicator and journalist
@@ -487,8 +461,6 @@ A simple list with rough categorizations.
 - [Up and Atom](https://www.youtube.com/c/UpandAtom) Making hard stuff less hard. Math, physics and computer science.
 - [Veritasium](https://www.youtube.com/c/veritasium) Always something to learn or think about.
 
-
-
 ## Space
 
 - [BPS.shorts](https://www.youtube.com/@bps.shorts) Shorts from BPS.space so I don't clog up the main channel! Main channel: https://www.youtube.com/c/BPSspace)
@@ -499,7 +471,6 @@ A simple list with rough categorizations.
 - [Scott Manley](https://www.youtube.com/c/szyzyg) Learn everything about rockets, space, the missions, the equipment and more.
 - [Simply Space](https://www.youtube.com/@SimplySpace) Learn interesting and important spaceflight concepts through intuitive explanations and original 3D animations. Thanks to companies like SpaceX, Rocket Lab and Blue Origin, the desire to learn more about spaceflight is on the rise faster than a Saturn V to the Moon, so come along for the journey with me, it's Simply Space.
 - [VintageSpace](https://www.youtube.com/@AmyShiraTeitel) Amy has had a lifelong passion for spaceflight; researching for a second-grade project on Venus, she was captivated by a cartoon image of two astronauts on the Moon and had to know everything about the Apollo program. Her interests, however, go well beyond space.
-
 
 ## Technology
 
@@ -513,8 +484,6 @@ A simple list with rough categorizations.
 - [TrevorMakes](https://www.youtube.com/@TrevorMakes) Making electrical and computer engineering projects.
 - [Xiaomify](https://www.youtube.com/c/xiaomify) Reviews about all things Xiaomi, a large company that makes everything.
 - [ZirothTech](https://www.youtube.com/@ZirothTech) This channel focuses on highlighting new science and engineering projects that are helping the world transition to a zero carbon future!
-
-
 
 ## Video
 
