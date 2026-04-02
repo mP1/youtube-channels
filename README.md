@@ -177,6 +177,7 @@ A simple list with rough categorizations.
 - [MrWhatCookie](https://www.youtube.com/@MrWhatcookie) Deep tech investigation into game programming and more
 - [nextProgram](https://www.youtube.com/@nextProgram) Hey, I'm Mickey. I'm developing a 2D action-adventure game called Keeper.
 - [Night Run Studios](https://www.youtube.com/@NightRunStudio) Interesting thoughts about game development
+- [Nonsensical 2D](https://www.youtube.com/@Nonsensical2D) 2D games and stuff...
 - [Normal Neighbor](https://www.youtube.com/c/NormalNeighbor/videos) Pixel art
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
 - [PixelArchitect](https://www.youtube.com/@PixelArchitect) I'm Noah, an architectural designer and new indie game dev. This Channel is dedicated to game design Devlogs and Pixel Art. I apply my architectural design experience to game design, in order to create an open world pixel art game.
