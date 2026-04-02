@@ -195,6 +195,7 @@ A simple list with rough categorizations.
 - [MrSujano](https://www.youtube.com/@MrSujano) I'm a gaming and technology journalist bringing you the latest and greatest news from around the world. I do my best to create daily videos from wherever I am - even when I'm camping off-grid.
 - [Nerdemia](https://www.youtube.com/@Nerdemia) A celebration of video games and movies, focusing on the cool, silly, and bizarre aspects of both industries.
 - [New Frame Plus](https://www.youtube.com/c/NewFramePlus) A professional animator analyzing animation within many computer games
+- [Kurriochi](https://www.youtube.com/@Kurriochi/) Welcome. I upload several types of videos: 1) Videos covering consoles. That includes going over their flaws, history, comparing them, or all of the above. 2) Gameplay videos, often in a Let's play format. 3) Videos covering the late 2000s or early 2010s YouTube, mostly around the specific few niches I am interested in. 4) Hardware and software from the same period (in relation to YouTube). 5) Game reviews, most often as first impressions of rarer titles. 6) Videos covering games, or their mechanics. 7) Some miscellaneous videos.
 - [Shmups On Switch](https://www.youtube.com/@ShmupsOnSwitch) Reviews of shmups on Nintendo Switch and, very occasionally, other platforms too. Now and then, features some other shmup related content - best of lists, ports I'd like to see etc.
 - [SteB](https://www.youtube.com/@ste_b/search?query=bubble) Everything about Bubble Bobble
 
