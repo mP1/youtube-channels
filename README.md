@@ -167,6 +167,7 @@ A simple list with rough categorizations.
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK) GameMaker Toolkit a game engine.
 - [GDC](https://www.youtube.com/c/Gdconf) Game Developers Conference
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
+- [Inbound Shovel](https://www.youtube.com/@InboundShovel) I'm an indie game dev currently developing Isadora's Edge!
 - [jesscodes](https://www.youtube.com/@jesscodes) Hey! My name is Jess and I'm a software developer from Australia. In my spare time I love to make games!
 - [JonasTyroller](https://www.youtube.com/@JonasTyroller) This channel documents my full time indie dev journey, all the way from its beginning in 2018. I make a mixture of educational and entertaining game dev content.
 - [Juniper Dev](https://www.youtube.com/@JuniperDev)I talk about game design and development 🌱
