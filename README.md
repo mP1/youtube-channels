@@ -474,6 +474,7 @@ A simple list with rough categorizations.
 
 - [Be Smart](https://www.youtube.com/@besmart) We give you deep answers to simple questions about science and the rest of the universe. And also dad jokes. Be Smart is hosted by Joe Hanson, PhD. He's a molecular biologist and an award-winning science communicator and journalist
 - [BizarreBeasts](https://www.youtube.com/@BizarreBeasts) Once a month, hosts Hank Green and Sarah Suta introduce you to a strange new animal and explore its fascinating weirdness.
+- [German Science Guy](https://www.youtube.com/@GermanScienceGuy) Videos about science and technologies made in Germany. On the German Science Guy, I take an under-the-hood peek at current scientific topics, drawing insights directly from scientific journals and conversations with experts. Oh, and I am Dr. Jacob Beautemps, studied physics and social sciences at the University Of Cologne where I also did my Doctors about artificial intelligence and learning on youtube. Quite the match, isn't it?
 - [JaredOwen](https://www.youtube.com/@JaredOwen) I use 3D Animation to show and explain how things work.
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt) Animation videos explaining things with optimistic nihilism since 12,013.
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience) Science, physics, how and why
