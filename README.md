@@ -46,7 +46,7 @@ A simple list with rough categorizations.
 - [Java](https://www.youtube.com/@java) The official Java channel covering the Java platform, OpenJDK, and the Java ecosystem.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [KeithBBergman](https://www.youtube.com/@KeithBBergman) He's sliding into middle age writing and vlogging about retro games, collecting 80s computer flotsam, and coding his own little doo-dads on vintage machines.  The sound of programs loading from cassette tape into a TI 99/4A is his ASMR.
-  [KevinLubick](https://www.youtube.com/@KevinLubick) Interesting breakdown of various computing problems and algorithms.
+- [KevinLubick](https://www.youtube.com/@KevinLubick) Interesting breakdown of various computing problems and algorithms.
 - [LinuxConfAu](https://www.youtube.com/@linuxconfau) linux.conf.au is an annual conference in Australia or New Zealand, with a focus on Linux, the community that has built up around it and the values that it represents.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
@@ -237,7 +237,7 @@ A simple list with rough categorizations.
 - [Hyce](https://www.youtube.com/@Hyce777)I'm Hyce! Welcome to my channel, where we celebrate and demystify all things railroading, both virtual and real. We also play music along the way. Come join along!
 - [Insider Business](https://www.youtube.com/@InsiderBusiness) Visit a lot of small traditional artisan craftsmanship.
 - [Insider Food](https://www.youtube.com/@InsiderFood) Visit a lot of traditional food prepartions, means and enjoyment.
-  [James Lambert](https://www.youtube.com/@james.lambert) I like coding games and retro consoles.
+- [James Lambert](https://www.youtube.com/@james.lambert) I like coding games and retro consoles.
 - [Johnny Harris](https://www.youtube.com/c/johnnyharris) Explore the world
 - [Josh Kwan](https://www.youtube.com/@joshkwan) Bicycle rides around Sydney
 - [Kento Bento](https://www.youtube.com/c/KentoBento) Mostly concentrating on the far east, Japan & Korea.
@@ -346,27 +346,20 @@ A simple list with rough categorizations.
 - [Townsends](https://www.youtube.com/@townsends) A channel dedicated to exploring the 18th Century lifestyle.
 - [Ushanka Show](https://www.youtube.com/@UshankaShow) Stories about life in Soviet Union
 - [VoicesofthePast](https://www.youtube.com/@VoicesofthePast) History through the written accounts of the people who lived through i
-  [VuldarYT](https://www.youtube.com/@VuldarYT) Telling Tales: The Documentary Way / One Man Team from Deutschland / Germany
+- [VuldarYT](https://www.youtube.com/@VuldarYT) Telling Tales: The Documentary Way / One Man Team from Deutschland / Germany
 - [WorldofAntiquity](https://www.youtube.com/@WorldofAntiquity) Where on earth were the very first cities built, and when? In this video, Dr. M takes you through the evidence and counts down the five earliest known cities.
-
 
 ## Languages
 
 - [LangFocus](https://www.youtube.com/c/Langfocus) Learn a lot about the world via the languages we and others use.
 
-
-
 ## Magic
 
 - [Mario Lopez Magic](https://www.youtube.com/@Mariolopezmagia) Entertaining magic
 
-
-
 ## Maths
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) Fascinating maths.
-
-
 
 ## Movies
 - [History Buffs](https://www.youtube.com/c/HistoryBuffsLondon) Reviews of so called historical movies about what they got right and wrong.
