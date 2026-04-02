@@ -71,6 +71,7 @@ A simple list with rough categorizations.
 
 ## Cricket
 
+- [Cricket Correspondent](https://www.youtube.com/@CricketCorrespondent) I make videos about Cricket sometimes. But mostly I do not make videos at all.
 - [Cricket Machine](https://www.youtube.com/@CricketMachineZA) Cricket. All day. Every day. Subscribe for cricket info, laws, highlights and more!
 - [Robelinda](https://www.youtube.com/@robelinda) The one place for cricket videos
 
