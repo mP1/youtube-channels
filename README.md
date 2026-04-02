@@ -477,6 +477,7 @@ A simple list with rough categorizations.
 - [JaredOwen](https://www.youtube.com/@JaredOwen) I use 3D Animation to show and explain how things work.
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt) Animation videos explaining things with optimistic nihilism since 12,013.
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience) Science, physics, how and why
+- [New Scientist](https://www.youtube.com/@NewScientist) If someone in the world has a good idea, you'll find it here. We're the world's number one science and technology magazine, and online we are the go-to site for breaking news, exclusive content and breakthroughs that will change your world. New Scientist: exploring the fruits of human endeavour for more than 50 years.
 - [Sci Show](https://www.youtube.com/@SciShow) A show about many topics of science.
 - [Steve Mould](https://www.youtube.com/@SteveMould) Learn science with simply experiments and demonstrations
 - [Thoisol](https://www.youtube.com/user/TheThoisoi2) Chemistry, experiments, chemical compounds, explosions, scientists and more.
