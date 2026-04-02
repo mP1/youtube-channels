@@ -423,6 +423,7 @@ A simple list with rough categorizations.
 - [8bittimes](https://www.youtube.com/@8bittimes)This channel is all about 8-bit computers, mostly new self-built machines, replicas, and of course classic computers.
 - [Ansimuz](https://www.youtube.com/@ansimuz) Get ready to step into a time machine and journey back to the golden age of gaming! As a game developer with a passion for all things retro, I'm on a mission to keep the spirit of classic games alive.
 - [ArcadeAttack](https://www.youtube.com/@ArcadeAttack/videos) Lots of interviews with industry legends lately.
+- [A S](https://www.youtube.com/@AS-tq4co) Apple iigs
 - [BitBeamCannon](https://www.youtube.com/@bitbeamcannon2468) BitBeamCannon is a small independent game studio dedicated to making retro arcade and console style games highly inspired by the 8 and 16 bit era of video games. BitBeamCannon was founded by two veteran pixel artists, Michael Parent and Corey Annis.
 - [Bloggos Pow](https://www.youtube.com/@BloggosPow) Playing and talking at you about retrogames. Occasionally sentimental, often unrehearsed.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
