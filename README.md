@@ -64,6 +64,7 @@ A simple list with rough categorizations.
 - [SimonDev](https://www.youtube.com/@simondev758) about game related effects and more.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
 - [StrangeLoop Conferences](https://www.youtube.com/c/StrangeLoopConf) Talks and presentations about many software technologies and platforms.
+- [The Coding Train](https://www.youtube.com/@TheCodingTrain) All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. Choo choo!
 - [TuringAwardeeClips](https://www.youtube.com/@TuringAwardeeClips/) The ACM A.M. Turing Award, often referred to as the “Nobel Prize of Computing,” carries a $1 million prize, with financial support provided by Google, Inc. It is named for Alan M. Turing, the British mathematician who articulated the mathematical foundation and limits of computing. Since its inception in 1966, the Turing Award has honored the computer scientists and engineers who created the systems and underlying theoretical foundations that have propelled the information technology industry.
 - [VCF Southwest](https://www.youtube.com/@VCFSW) Home of the Vintage Computer Festival Southwest. Featuring content from our show and friends.
 - [Victor Chan](https://www.youtube.com/@launchexcel) Say goodbye to repetitive Excel work with VBA automation.
