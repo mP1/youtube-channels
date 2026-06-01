@@ -183,6 +183,7 @@ A simple list with rough categorizations.
 - [Pixel Pete](https://www.youtube.com/c/PeterMilko) I'm an Indie game dev here to help!
 - [PixelOverlord](https://www.youtube.com/@PixelOverloadChannel) Hello! I make pixel based artworks for games and for fun. Enjoy!
 - [Raeleus](https://www.youtube.com/@raeleus)Lots of tutorials and resources about LibGFX.
+- [Retronator](https://www.youtube.com/@Retronator) Home of Pixel Art Academy, an adventure game for learning how to draw.
 - [Soda Byte](https://www.youtube.com/@sodabyte) C++, Graphics Programming, and Game Engine Development.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
