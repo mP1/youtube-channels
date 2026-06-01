@@ -435,6 +435,7 @@ A simple list with rough categorizations.
 - [LunaMorley](https://www.youtube.com/@lunamorley) Here you'll find video essays about video games, film, and whatever else I feel like talking about. I like to speak from a place of experience as an independent game designer and creator myself. I have a passion for all things creative and you might even see some of my personal projects here too.
 - [Martin Piper](https://www.youtube.com/@MartinPiper6502) Includes long Technical reviews of C64 games
 - [Matt Greer](https://www.youtube.com/@MattGreer) Thoughs about Neo Geo development
+- [MOTAKUKI](https://www.youtube.com/@MOTAKUKISTUDIO) I am a solo creator dedicated to the Retro Gaming vault. My mission is to preserve the history of classic video games and the vintage consoles that defined our childhoods. Every NES cartridge, 8-bit secret, and forgotten treasure tells a story worth remembering. This isn’t just nostalgia—it’s a deep dive into the art, design, and pure adrenaline of the golden age of gaming. From the legendary challenge of Contra to the tech behind iconic hardware, I explore it all from a solo perspective.
 - [NathanBaggs](https://www.youtube.com/@nathanbaggs) Curios about old games
 - [NeoGeoNow](https://www.youtube.com/@NeoGeoNow) NeogeoNow is your one stop for all things Fighting games related! Fan of KOF? Street Fighter? Samurai Shodown? Mortal Kombat? We cover it all. You will never miss an important news about your favorite fighting games
 - [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
