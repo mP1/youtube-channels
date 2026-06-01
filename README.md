@@ -189,6 +189,7 @@ A simple list with rough categorizations.
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Skuxxed](https://www.youtube.com/@Skuxxed) Exploring character design and gameplay systems in fighting and action games!
+- [SouthPawRacer](https://www.youtube.com/@SouthPawRacer) I'm SouthPawRacer. I'm a sim racer. I make videos about that and other stuff. The home of Super Serious Track Guides.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [ThomasBrush](https://www.youtube.com/@thomasbrush) Indie game dev
 - [ThreatInteractive](https://www.youtube.com/@ThreatInteractive) Official YouTube Channel of The New Indie Game Studio: Threat Interactive
