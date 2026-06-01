@@ -188,6 +188,7 @@ A simple list with rough categorizations.
 - [Typhoon](https://www.youtube.com/@typhoonbh/) q u a l i t y  c o n t e n t
 - [Vercidium](https://www.youtube.com/@Vercidium) I spent 6 years creating a game engine from scratch, and I am keen to share what I learned.
 - [VoxelRifts](https://www.youtube.com/@voxelrifts) Channel dedicated to Programming explainer videos.
+- [zsKnight](https://www.youtube.com/@zsknight_dev)I'm zsKnight, one of the original developers of ZSNES and now I'm working on SUPER ZSNES! Also check out a game I've been working on as well called Retro Endurance 8bit featuring 52 mini 8bit style games!
 
 # Gaming
 
