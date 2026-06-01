@@ -54,6 +54,7 @@ A simple list with rough categorizations.
 - [MicroarchClub](https://www.youtube.com/@MicroarchClub) The art, science, and history of processor design.
 - [Microsoft Developer](https://www.youtube.com/@MicrosoftDeveloper) Official Microsoft Developer YouTube channel! Featuring live events, tips and tutorials, product news and more to help you explore, discover, and build solutions - using your favorite languages, technologies, and open-source frameworks.
 - [MIT OpenCourseWare](https://www.youtube.com/@mitocw) A free and open online publication of educational material from thousands of MIT courses, covering the entire MIT curriculum, ranging from introductory to the most advanced graduate courses. On the OCW website, each course includes a syllabus, instructional material like notes and reading lists, and learning activities like assignments and solutions. Some courses also have videos, online textbooks, and faculty insights on teaching.
+- [MotherDuck](https://www.youtube.com/@motherduckdb) The data warehouse built for getting answers from your data. Works with AI agents and SQL.
 - [MollyRocket](https://www.youtube.com/@MollyRocket) This is the official YouTube channel of https://mollyrocket.com, home of Star Code Galaxy, Handmade Hero, Meow the Infinite, and 1935.
 - [Srcerer](https://www.youtube.com/@srcerer) Low level coding sorcery.
 - [The National Museum of Computing](https://www.youtube.com/@tnmoc) The National Museum of Computing (TNMOC) is home to the world's largest collection of working historic computers.
