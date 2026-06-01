@@ -446,6 +446,7 @@ A simple list with rough categorizations.
 - [Reassembler](https://www.youtube.com/@reassembler68k)Touching The Metal ..... Emulation, Decompilation, Hacking, Old Skool Gaming
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 - [RetroRic](https://www.youtube.com/RetroRic79) Big Street Fighter II fan who is most fond of the 16-Bit era of arcade, console and home computer video gaming.
+- [Roflwaffle](https://www.youtube.com/@Roflwaffle16) Racing game and motorsport retrospectives, video essays and deep dives. Original content only.
 - [Saberman RetroNews](https://www.youtube.com/@Saberman) 💾 Saberman RetroNews every day 🕹👋 I invite you to watch our movies (uncommented) from games, animations and reviews. On our channel you are going to find videos of "slightly older" games, software and demos for computer 8/16bit, such as: Atari, Amstrad, Commodore, Sinclair, MSX. Old computers are our passion, we enjoy the older games. In this way, we are trying to save them from oblivion. My beloved computers are: Atari 800XL, Commodore 64, ZX Spectrum, Amstrad CPC 464, Amiga!, Atari ST and MSX.
 - [ShannonBirt](https://www.youtube.com/@shannonbirt9267) Shannon is developing a SEGA MEGADRIVE shooter.
 - [Sega Lord X](https://www.youtube.com/c/SegaLordX) Retro sega consoles and arcade games.
