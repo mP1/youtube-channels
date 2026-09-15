@@ -130,6 +130,7 @@ A simple list with rough categorizations.
 - [Goodwood Road & Racing](https://www.youtube.com/GoodwoodRRC) Mostly racing but a lot of good content.
 - [JonnyF1](https://www.youtube.com/@jonnyf1) Seems to be a F1 channel with a good start and potential
 - [Matt Amys](https://www.youtube.com/@mattamys) How Formula 1 Is Created 🏁
+- [The Grid Gab](https://www.youtube.com/@thegridgab) Are you an F1 fan who likes to stay up-to-date but also gets nostalgic? If so, then this is the place for you. I'm Paul, a Formula 1 fan since the 90's. I'm facinated with the history, stories and commercial side of Formula One. Also a Williams Racing fan with a Jordan Grand Prix obsession.
 - [WTF1](https://www.youtube.com/c/WTF1official) Trivia about F1
 
 ## Fun
