@@ -72,6 +72,7 @@ A simple list with rough categorizations.
 - [Vintage Computer Federation](https://www.youtube.com/c/VintageComputerFederation501c3) Topics like Ultimate 1541 Talk, Recovering Lost Floppy Discs with an Oscilloscope
 - [Vision basic](https://www.youtube.com/@visionbasic) Building a Basic compiler package for C64.
 - [WalkingCatVideos](https://www.youtube.com/@WalkingCatVideos) The Cat Walking in the Night, lots of DOTNET videos
+= [Zoran Horvat](https://www.youtube.com/@zoran-horvat) Hello everyone! My name is Zoran Horvat. I am a consultant, developer, and software architect, author at Pluralsight, Udemy, and YouTube. In this channel, you will find advice on development and architecture in .NET and C#.
 
 ## Cricket
 
