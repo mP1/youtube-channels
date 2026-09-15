@@ -416,6 +416,7 @@ A simple list with rough categorizations.
 - [ArcadeAttack](https://www.youtube.com/@ArcadeAttack/videos) Lots of interviews with industry legends lately.
 - [A S](https://www.youtube.com/@AS-tq4co) Apple iigs
 - [BitBeamCannon](https://www.youtube.com/@bitbeamcannon2468) BitBeamCannon is a small independent game studio dedicated to making retro arcade and console style games highly inspired by the 8 and 16 bit era of video games. BitBeamCannon was founded by two veteran pixel artists, Michael Parent and Corey Annis.
+- [Bill Harbison](https://www.youtube.com/@MrHarbonaut) Welcome to the channel! I’m Bill Harbison, a veteran game artist with a career stretching from the pixels of the 8-bit era to today’s modern 3D pipelines. Best known for my time at the legendary Ocean Software, where I brought classic titles to life on the ZX Spectrum, Amiga, and C64.
 - [BitmapBooks](https://www.youtube.com/@BitmapBooks) Founded by graphic designer Sam Dyer, Bitmap Books is an award-winning independent publisher of retro gaming books. The company aims to celebrate the software, hardware, developers, and code shops that laid down the foundations for the billion-dollar industry we know and love today.
 - [Bloggos Pow](https://www.youtube.com/@BloggosPow) Playing and talking at you about retrogames. Occasionally sentimental, often unrehearsed.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
