@@ -212,6 +212,7 @@ A simple list with rough categorizations.
 - [Second Wind](https://www.youtube.com/@SecondWindGroup) Second Wind is the home of informative, interesting, and entertaining content from creators like Yahtzee Croshaw, Jack Packard, James Read, Nick Calandra, Darren Mooney, and more. We publish premium videos, podcasts, livestreams, and written columns on a near-daily basis, including beloved shows like Fully Ramblomatic, Design Delve, and Adventure is Nigh!.
 - [Shmups On Switch](https://www.youtube.com/@ShmupsOnSwitch) Reviews of shmups on Nintendo Switch and, very occasionally, other platforms too. Now and then, features some other shmup related content - best of lists, ports I'd like to see etc.
 - [SteB](https://www.youtube.com/@ste_b/search?query=bubble) Everything about Bubble Bobble
+- [Vinu Croissant](https://www.youtube.com/@VinuCroissant) I do videos about Shoot 'Em Ups and arcade-style games.
 
 # Gardening
 - [Andrew Millison](https://www.youtube.com/@amillison) Andrew Millison is a permaculture teacher and practitioner, media maker, and gardener. This is his personal channel for the videos he produces, as well as some produced by Oregon State University, where he is an instructor in the Horticulture department
