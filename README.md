@@ -234,6 +234,7 @@ A simple list with rough categorizations.
 - [Atlas Pro](https://www.youtube.com/c/AtlasPro1) Explore the macro and micro of the continents and the environment.
 - [BrightTripTavel](https://www.youtube.com/@BrightTripTravel) Informed details about the worlds cities.
 - [Curiosity Mine](https://www.youtube.com/@CuriosityMine) Mostly about little rocks from mines
+- [Dan Cycles the World](https://www.youtube.com/@DanCyclesTheWorld) Hi, my name's Dan and I want to ride my bike around the world. I'm currently attempting to cycle from Prudhoe Bay, Alaska to Ushuaia, Argentina so please follow along if you're interested in my journey!
 - [DavidMGreen](https://www.youtube.com/@davidthegreen/)Hi, I’m David M. Green. Comedian, writer, etc. based in Melbourne, Australia. In addition to being the "VHS Revue" guy, I was also the host of "31 Questions", writer for "Shaun Micallef's Mad As Hell" on ABC TV, various characters in "Good Afternoon Adelaide", plus some other things.
 - [DownieLive](https://www.youtube.com/@DownieLive) Your friendly Canadian YouTuber, with a passion for adventure through curiosity. I don't know where I'm going next, but I know I want you there with me, every Saturday for new adventure and behind-the-scenes videos.
 - [Ed Pratt](https://www.youtube.com/@EdPratt) Watch Ed unicycle around the world.
