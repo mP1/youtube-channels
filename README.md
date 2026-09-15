@@ -60,6 +60,7 @@ A simple list with rough categorizations.
 - [The National Museum of Computing](https://www.youtube.com/@tnmoc) The National Museum of Computing (TNMOC) is home to the world's largest collection of working historic computers.
 - [NDC Conference](https://www.youtube.com/c/NDCConferences) General computing but mostly Microsoft dotnet conference
 - [NorthSecio](https://www.youtube.com/@NorthSecIo) https://nsec.io NorthSec is the biggest applied security event in Canada, aimed at raising the knowledge and technical expertise of professionals and students alike
+- [rats159](https://www.youtube.com/@awesome.rats159) Opinionated and educational videos on programming.
 - [Rust Nederland](https://www.youtube.com/@rustnederlandrustnl) Rust NL organizes meetups (talks and workshops) about Rust, the programming language that empowers everyone to build reliable and efficient software. We host meetups in different cities in The Netherlands, and on all kinds of topics and domains.
 - [SimonDev](https://www.youtube.com/@simondev758) about game related effects and more.
 - [Stacksmashing](https://www.youtube.com/c/stacksmashing) A friend of live overflow, very interesting investigation of everything and anything computing/machines.
