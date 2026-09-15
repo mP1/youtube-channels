@@ -437,6 +437,7 @@ A simple list with rough categorizations.
 - [Jimmy Breck-McKye](https://www.youtube.com/@jbreckmckye) PSOne fanatic
 - [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
 - [LunaMorley](https://www.youtube.com/@lunamorley) Here you'll find video essays about video games, film, and whatever else I feel like talking about. I like to speak from a place of experience as an independent game designer and creator myself. I have a passion for all things creative and you might even see some of my personal projects here too.
+- [Luxocrates](https://www.youtube.com/@luxocrates) Exploring technology’s lost arts through classic arcade gaming.
 - [Martin Piper](https://www.youtube.com/@MartinPiper6502) Includes long Technical reviews of C64 games
 - [Matt Greer](https://www.youtube.com/@MattGreer) Thoughs about Neo Geo development
 - [MOTAKUKI](https://www.youtube.com/@MOTAKUKISTUDIO) I am a solo creator dedicated to the Retro Gaming vault. My mission is to preserve the history of classic video games and the vintage consoles that defined our childhoods. Every NES cartridge, 8-bit secret, and forgotten treasure tells a story worth remembering. This isn’t just nostalgia—it’s a deep dive into the art, design, and pure adrenaline of the golden age of gaming. From the legendary challenge of Contra to the tech behind iconic hardware, I explore it all from a solo perspective.
