@@ -158,6 +158,7 @@ A simple list with rough categorizations.
 - [Brandon James Greer](https://www.youtube.com/c/BJGpixel) Pixel art, design, principles, drawing, analysis and more
 - [Challacade](https://www.youtube.com/@Challacade) Game development videos by Kyle Schaub, spreading lots of LÖ
 - [Chubzdoomer](https://www.youtube.com/@Chubzdoomer) PC and video game footage, level editing tutorials, and more!
+- [Cogito Design](https://www.youtube.com/@cogitodesign) We design indie board games with big strategy - from steampunk Venice in Machiavellian to the sci-fi legacy of Solar 175. Every game is crafted with love! Cogito Design is brought to you by Cotswold Games.
 - [Dallas Drapeau](https://www.youtube.com/@DallasDrap) I am a Principal Artist in Games and Virtual Production @ Narwhal Studios/Artcic7 with such titles as The Mandalorian Series, Book of Boba Fett, Avatar The Last Airbender and many more under my belt as well as an Educator at Gnomon Univeristy.
 - [Design Diary](https://www.youtube.com/@game_design_diary) Analysis of game design, gaming data and the video game industry.
 - [DesignDoc](https://www.youtube.com/@DesignDoc) Discussion about game design, play, art and more.
