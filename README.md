@@ -50,6 +50,7 @@ A simple list with rough categorizations.
 - [KevinLubick](https://www.youtube.com/@KevinLubick) Interesting breakdown of various computing problems and algorithms.
 - [LinuxConfAu](https://www.youtube.com/@linuxconfau) linux.conf.au is an annual conference in Australia or New Zealand, with a focus on Linux, the community that has built up around it and the values that it represents.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
+- [LearnThatStack](https://www.youtube.com/@LearnThatStack) We break down core concepts and real interview questions from Javascript, React, Angular, Node.js, Java, Python, system design, software architecture and many other topics into short, practical videos. And deep dives on different software  engineering topics ranging from language specific features/concepts to system design and architecture.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
 - [MeetingCPP](https://www.youtube.com/@MeetingCPP) Meeting C++ is an independent platform for C++, supporting the C++ community by sharing news, blogs and events for C++. Details on the yearly Meeting C++ Conference can be found on the website https://meetingcpp.com
 - [MicroarchClub](https://www.youtube.com/@MicroarchClub) The art, science, and history of processor design.
