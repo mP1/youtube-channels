@@ -179,6 +179,7 @@ A simple list with rough categorizations.
 - [kartopod](https://www.youtube.com/@kartopod) Hi, I'm Karthik! I'm an aspiring creative from India! I love games and games and games
 - [LeonMassey](https://www.youtube.com/@LeonMassey) Lets talk about them there video games
 - [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
+- [Midnight Folk](https://www.youtube.com/@MidnightFolkGames) Midnight Folk is a small indie games developer based in Madrid.
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
 - [MrWhatCookie](https://www.youtube.com/@MrWhatcookie) Deep tech investigation into game programming and more
 - [nextProgram](https://www.youtube.com/@nextProgram) Hey, I'm Mickey. I'm developing a 2D action-adventure game called Keeper.
