@@ -165,6 +165,7 @@ A simple list with rough categorizations.
 - [DigitalFoundry](https://www.youtube.com/@DigitalFoundry) Digital Foundry specialises in game technology and hardware reviews, using bespoke capture and analysis tools to provide a unique look at the way games play.
 - [Douglas Dwyer](https://www.youtube.com/@DouglasDwyer) Voxel engine development
 - [DrKuchoGames](https://www.youtube.com/@DrKuchoGames) Dr. Kucho! games' moto is to create video games (platformers) in old retro style.
+- [Edym Pixels](https://www.youtube.com/@edympixels2181) Solo-dev with a passion for pixel art.
 - [ExientGames](https://www.youtube.com/@ExientGames) We're Exient, and we're here to bring you great mobile games. We’re on a mission to create our own original titles and publish the best games. We aim to capture and delight our gaming community and actively include them in the experience. We shun crunch culture in favour of creative iteration to develop exciting and memorable experiences.
 - [Fat Earth Studios](https://www.youtube.com/@FatEarthStudios) Fat Earth Studios is Godot game development channel where I share what I've learned while building a large 2D action platformer. Currently documenting the development of a retro-inspired action platformer from the NES era. If you are learning Godot, making your first real project, or trying to level up beyond beginner tutorials, this is the channel for you.
 - [Game World Art](https://www.youtube.com/@Game-World-Art) Hi! I'm a 3D Environment Artist. I've worked on GTA 5, RDR 2 & GTA 6 during a 12 year period at Rockstar Games. I've also worked at Traveller's Tales and Bizarre Creations. On this channel I'll be exploring the landscapes of games that have what I consider great environment art. Expect lots of game dev process chat, art analysis, scrutinisation of materials, lighting effects, world features and viewpoints. Whenever possible I avoid UI elements popping up, combat and story. It's all about the environment art! I make these videos because this is how I like to play games; not for combat or puzzle solving or whatever, but to experience alternate worlds and to appreciate and analyse how other environment artists have worked their magic.
@@ -179,7 +180,7 @@ A simple list with rough categorizations.
 - [Juniper Dev](https://www.youtube.com/@JuniperDev)I talk about game design and development 🌱
 - [Keifer](https://www.youtube.com/@keiferjh) Exploring how things work, whether that means benchmarking programming concepts or having fun "breaking" games
 - [kartopod](https://www.youtube.com/@kartopod) Hi, I'm Karthik! I'm an aspiring creative from India! I love games and games and games
-- [LeonMassey](https://www.youtube.com/@LeonMassey) Lets talk about them there video games
+- [LeonMassey](https://www.youtube.com/@LeonMassey) Lets talk about them there video gamesE
 - [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
 - [Midnight Folk](https://www.youtube.com/@MidnightFolkGames) Midnight Folk is a small indie games developer based in Madrid.
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
