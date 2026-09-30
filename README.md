@@ -179,6 +179,7 @@ A simple list with rough categorizations.
 - [Game World Art](https://www.youtube.com/@Game-World-Art) Hi! I'm a 3D Environment Artist. I've worked on GTA 5, RDR 2 & GTA 6 during a 12 year period at Rockstar Games. I've also worked at Traveller's Tales and Bizarre Creations. On this channel I'll be exploring the landscapes of games that have what I consider great environment art. Expect lots of game dev process chat, art analysis, scrutinisation of materials, lighting effects, world features and viewpoints. Whenever possible I avoid UI elements popping up, combat and story. It's all about the environment art! I make these videos because this is how I like to play games; not for combat or puzzle solving or whatever, but to experience alternate worlds and to appreciate and analyse how other environment artists have worked their magic.
 - [GDC](https://www.youtube.com/c/Gdconf) Game Developers Conference
 - [Hopoo Games](https://www.youtube.com/@spacegame2012) Diary and thoughts during the development of a game
+- [Howdy ツ](https://www.youtube.com/@howdy_official) Me writes code. Me do videos. You subscribe ツ
 - [Inbound Shovel](https://www.youtube.com/@InboundShovel) I'm an indie game dev currently developing Isadora's Edge!
 - [Inkbox](https://www.youtube.com/@InkboxSoftware) Assembly required.
 - [jesscodes](https://www.youtube.com/@jesscodes) Hey! My name is Jess and I'm a software developer from Australia. In my spare time I love to make games!
