@@ -188,6 +188,7 @@ A simple list with rough categorizations.
 - [LeonMassey](https://www.youtube.com/@LeonMassey) Lets talk about them there video gamesE
 - [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
 - [Midnight Folk](https://www.youtube.com/@MidnightFolkGames) Midnight Folk is a small indie games developer based in Madrid.
+- [Mikey D Games](https://www.youtube.com/@MikeyDGames101) Im Mike a self-taught solo dev whos been making games for over 8 years now with a few games released on steam. I focus on Unity and C# for game development and on my channel I try to give an inside look at how i approach and create my games. Im a very laid back guy who just loves to have fun making things, please feel free to share any feedback, advice, or questions on the discord!
 - [MishMash](https://www.youtube.com/@MishMash95) Just a hobbyist GameDev interested in Computer Graphics :)
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
 - [MrWhatCookie](https://www.youtube.com/@MrWhatcookie) Deep tech investigation into game programming and more
