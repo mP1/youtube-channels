@@ -448,8 +448,8 @@ A simple list with rough categorizations.
 - [Ansimuz](https://www.youtube.com/@ansimuz) Get ready to step into a time machine and journey back to the golden age of gaming! As a game developer with a passion for all things retro, I'm on a mission to keep the spirit of classic games alive.
 - [ArcadeAttack](https://www.youtube.com/@ArcadeAttack/videos) Lots of interviews with industry legends lately.
 - [A S](https://www.youtube.com/@AS-tq4co) Apple iigs
-- [BitBeamCannon](https://www.youtube.com/@bitbeamcannon2468) BitBeamCannon is a small independent game studio dedicated to making retro arcade and console style games highly inspired by the 8 and 16 bit era of video games. BitBeamCannon was founded by two veteran pixel artists, Michael Parent and Corey Annis.
 - [Bill Harbison](https://www.youtube.com/@MrHarbonaut) Welcome to the channel! I’m Bill Harbison, a veteran game artist with a career stretching from the pixels of the 8-bit era to today’s modern 3D pipelines. Best known for my time at the legendary Ocean Software, where I brought classic titles to life on the ZX Spectrum, Amiga, and C64.
+- [BitBeamCannon](https://www.youtube.com/@bitbeamcannon2468) BitBeamCannon is a small independent game studio dedicated to making retro arcade and console style games highly inspired by the 8 and 16 bit era of video games. BitBeamCannon was founded by two veteran pixel artists, Michael Parent and Corey Annis.
 - [BitmapBooks](https://www.youtube.com/@BitmapBooks) Founded by graphic designer Sam Dyer, Bitmap Books is an award-winning independent publisher of retro gaming books. The company aims to celebrate the software, hardware, developers, and code shops that laid down the foundations for the billion-dollar industry we know and love today.
 - [Bloggos Pow](https://www.youtube.com/@BloggosPow) Playing and talking at you about retrogames. Occasionally sentimental, often unrehearsed.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
@@ -476,9 +476,9 @@ A simple list with rough categorizations.
 - [itsaPIXELthing](https://www.youtube.com/itsaPIXELthing) itsaPIXELthing is a YouTube channel related to Computing & Gaming History. Expect to find video game related documentaries featuring historical content not only about games, but also developers, publishers and computer and console manufacturers. Also, and because I'm addicted to racing - especially off roading - related content will always be present ;)
 - [James Lambert](https://www.youtube.com/@james.lambert) I like coding games and retro consoles.
 - [Jeremy Parish](https://www.youtube.com/c/JeremyParish) In depth analysis of old retro games.
+- [Jimmy Breck-McKye](https://www.youtube.com/@jbreckmckye) PSOne fanatic
 - [Johnny Grafx](https://www.youtube.com/@Johnnygrafx) A nerdy millennial exploring weird and underrated obscurities from the late 80s, 90s, and early 2000s... and is pretty okay at it.
 - [Jordan HJ](https://www.youtube.com/@JordanHJ) History of many of the past great games and more
-- [Jimmy Breck-McKye](https://www.youtube.com/@jbreckmckye) PSOne fanatic
 - [LowSpecGamer](https://www.youtube.com/c/LowSpecGamer) Mostly a technical overview of old consoles.
 - [LunaMorley](https://www.youtube.com/@lunamorley) Here you'll find video essays about video games, film, and whatever else I feel like talking about. I like to speak from a place of experience as an independent game designer and creator myself. I have a passion for all things creative and you might even see some of my personal projects here too.
 - [Luxocrates](https://www.youtube.com/@luxocrates) Exploring technology’s lost arts through classic arcade gaming.
@@ -487,8 +487,8 @@ A simple list with rough categorizations.
 - [MOTAKUKI](https://www.youtube.com/@MOTAKUKISTUDIO) I am a solo creator dedicated to the Retro Gaming vault. My mission is to preserve the history of classic video games and the vintage consoles that defined our childhoods. Every NES cartridge, 8-bit secret, and forgotten treasure tells a story worth remembering. This isn’t just nostalgia—it’s a deep dive into the art, design, and pure adrenaline of the golden age of gaming. From the legendary challenge of Contra to the tech behind iconic hardware, I explore it all from a solo perspective.
 - [NathanBaggs](https://www.youtube.com/@nathanbaggs) Curios about old games
 - [NeoGeoNow](https://www.youtube.com/@NeoGeoNow) NeogeoNow is your one stop for all things Fighting games related! Fan of KOF? Street Fighter? Samurai Shodown? Mortal Kombat? We cover it all. You will never miss an important news about your favorite fighting games
-- [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
 - [One Million Power](https://www.youtube.com/@OneMillionPower) One Million Power explores the overlooked history of Japanese video games through research, translation, and documentary storytelling. We focus on the creators, musicians, speedrunners, communities, and cultural movements that shaped Japan’s gaming legacy — especially the stories rarely told outside of Japan. Many episodes draw from original Japanese-language sources, developer interviews, magazines, and archival materials to present deeper historical context for classic games and series.
+- [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
 - [OtaKing Animation](https://www.youtube.com/@OtaKing77077) Anime of retro games such as R-Type and more.
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
 - [PixelPilots](https://www.youtube.com/@PIXELPILOTS-STG) Shmups, STGs, Shooters and action games. But also beat'em'ups, platformers, ninjas, zombies, and pirates! Retro and modern platformers.
