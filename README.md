@@ -274,6 +274,7 @@ A simple list with rough categorizations.
 - [Hyce](https://www.youtube.com/@Hyce777)I'm Hyce! Welcome to my channel, where we celebrate and demystify all things railroading, both virtual and real. We also play music along the way. Come join along!
 - [Insider Business](https://www.youtube.com/@InsiderBusiness) Visit a lot of small traditional artisan craftsmanship.
 - [Insider Food](https://www.youtube.com/@InsiderFood) Visit a lot of traditional food prepartions, means and enjoyment.
+- [Jago Hazzard](https://www.youtube.com/@JagoHazzard) A channel very loosely focused on trains, London, history and whatever else might take my fancy. Sometimes there are jokes. How are you?
 - [James Lambert](https://www.youtube.com/@james.lambert) I like coding games and retro consoles.
 - [Johnny Harris](https://www.youtube.com/c/johnnyharris) Explore the world
 - [Josh Kwan](https://www.youtube.com/@joshkwan) Bicycle rides around Sydney
