@@ -2,6 +2,7 @@ A simple list with rough categorizations.
 
 ## Architecture
 
+- [DamiLee](https://www.youtube.com/@DamiLeeArch) Architecture and design with Dami
 - [StewartHicks](https://www.youtube.com/@stewarthicks) Takes on Buildings and Cities.
 
 ## Art
