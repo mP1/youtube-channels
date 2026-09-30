@@ -185,6 +185,7 @@ A simple list with rough categorizations.
 - [LeonMassey](https://www.youtube.com/@LeonMassey) Lets talk about them there video gamesE
 - [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
 - [Midnight Folk](https://www.youtube.com/@MidnightFolkGames) Midnight Folk is a small indie games developer based in Madrid.
+- [MishMash](https://www.youtube.com/@MishMash95) Just a hobbyist GameDev interested in Computer Graphics :)
 - [MortMort](https://www.youtube.com/c/MortMort) Creative videos and streams.
 - [MrWhatCookie](https://www.youtube.com/@MrWhatcookie) Deep tech investigation into game programming and more
 - [nextProgram](https://www.youtube.com/@nextProgram) Hey, I'm Mickey. I'm developing a 2D action-adventure game called Keeper.
