@@ -184,8 +184,8 @@ A simple list with rough categorizations.
 - [jesscodes](https://www.youtube.com/@jesscodes) Hey! My name is Jess and I'm a software developer from Australia. In my spare time I love to make games!
 - [JonasTyroller](https://www.youtube.com/@JonasTyroller) This channel documents my full time indie dev journey, all the way from its beginning in 2018. I make a mixture of educational and entertaining game dev content.
 - [Juniper Dev](https://www.youtube.com/@JuniperDev)I talk about game design and development 🌱
-- [Keifer](https://www.youtube.com/@keiferjh) Exploring how things work, whether that means benchmarking programming concepts or having fun "breaking" games
 - [kartopod](https://www.youtube.com/@kartopod) Hi, I'm Karthik! I'm an aspiring creative from India! I love games and games and games
+- [Keifer](https://www.youtube.com/@keiferjh) Exploring how things work, whether that means benchmarking programming concepts or having fun "breaking" games
 - [LeonMassey](https://www.youtube.com/@LeonMassey) Lets talk about them there video gamesE
 - [lukemuscat](https://www.youtube.com/@lukemuscat) Yes, I really did design Jetpack Joyride. MY SOLO INDIE GAME IS OUT NOW!
 - [Midnight Folk](https://www.youtube.com/@MidnightFolkGames) Midnight Folk is a small indie games developer based in Madrid.
@@ -204,11 +204,11 @@ A simple list with rough categorizations.
 - [Pixel Pete](https://www.youtube.com/c/PeterMilko) I'm an Indie game dev here to help!
 - [Raeleus](https://www.youtube.com/@raeleus)Lots of tutorials and resources about LibGFX.
 - [Retronator](https://www.youtube.com/@Retronator) Home of Pixel Art Academy, an adventure game for learning how to draw.
-- [Soda Byte](https://www.youtube.com/@sodabyte) C++, Graphics Programming, and Game Engine Development.
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) Explore maths, code in 3D
 - [ShawcatDev](https://www.youtube.com/@ShawcatDev] Godot) game development diary
 - [Shesez](https://www.youtube.com/c/Shesez) In depth fun look at game development.
 - [Skuxxed](https://www.youtube.com/@Skuxxed) Exploring character design and gameplay systems in fighting and action games!
+- [Soda Byte](https://www.youtube.com/@sodabyte) C++, Graphics Programming, and Game Engine Development.
 - [SouthPawRacer](https://www.youtube.com/@SouthPawRacer) I'm SouthPawRacer. I'm a sim racer. I make videos about that and other stuff. The home of Super Serious Track Guides.
 - [Thin Matrix](https://www.youtube.com/user/ThinMatrix) Story telling game development by an indy developer.
 - [ThomasBrush](https://www.youtube.com/@thomasbrush) Indie game dev
