@@ -260,7 +260,6 @@ A simple list with rough categorizations.
 - [fourth_place](https://www.youtube.com/@fourth_place) Videos about American geography
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
 - [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
-- [Redouane GUELAILIA](https://www.youtube.com/@GeograFun) Learn about the history of flags, how they have evolved over time, and what they represent in different countries. This channel highlights interesting facts about the flags, such as their design, colors, and symbols.
 - [Geography Geek](https://www.youtube.com/c/GeographyGeek) Interesting Geography videos mostly about old maps
 - [GeographyTour](https://www.youtube.com/@GeographyTour) Geography tour is a channel that produces interesting facts and videos about the geography of countries and also talks about important political and economic issues of the countries of the world.
 - [Geo Perspective](https://www.youtube.com/@GeoPerspective) Stories and travel mostly around northern Europe.
@@ -285,8 +284,8 @@ A simple list with rough categorizations.
 - [Name Explain](https://www.youtube.com/c/NameExplain) Names of everything around the world.
 - [Nic Laporte](https://www.youtube.com/@nicthedoor) Micromobility and Urbanism.
 - [OurWorld](https://www.youtube.com/@OurWorld/) Visit the worlds biggest cave and more.
-- [OzGeology](https://www.youtube.com/@OzGeologyOfficial) OzGeology is all about geology, mineralogy, volcanoes, and the many natural disasters that have shaped and continue to shape our world.
 - [OzGeographics](https://www.youtube.com/@OzGeographics) Mostly about Australia geography and other bits
+- [OzGeology](https://www.youtube.com/@OzGeologyOfficial) OzGeology is all about geology, mineralogy, volcanoes, and the many natural disasters that have shaped and continue to shape our world.
 - [Pakspan](https://www.youtube.com/@thepakspan) After 17 years in London we packed up and moved to Spain´s Costa del Sol 🏄‍♂️. From our home in Marbella, we are going on adventures across this beautiful region and beyond!
 - [Paolo from Tokyo](https://www.youtube.com/@PaolofromTOKYO) Learn about life in Japan
 - [PBS Terra](https://www.youtube.com/@pbsterra/) PBS Terra is the home of science and nature shows from PBS Digital Studios.
@@ -294,6 +293,7 @@ A simple list with rough categorizations.
 - [Public Transport and Card Hacks](https://www.youtube.com/@TrainsBusesAndCardHacks) Master Public Transport in Australia! Trains, Buses and Card Hacks helps you save money on your daily commute or Aussie adventures. Discover clever hacks for using public transport cards, credit cards, and loyalty programs to get the most out of trains, buses and ferries.
 - [Railways Explained](https://www.youtube.com/@RailwaysExplained) Here on Railways Explained we strive to cover a variety of topics related to railway transport with the aim to deepen public interest in railways, ultimately creating a global online community where regardless of whether you are a railway enthusiast, student, worker, or expert, you can definitely find something insightful and interesting.
 - [Railways of the World](https://www.youtube.com/c/RailwaysoftheWorld1) Ride Public Transport around the worlds great cities and towns.
+- [Redouane GUELAILIA](https://www.youtube.com/@GeograFun) Learn about the history of flags, how they have evolved over time, and what they represent in different countries. This channel highlights interesting facts about the flags, such as their design, colors, and symbols.
 - [Rew Boss](https://www.youtube.com/@rewboss) A Brit's eyeview of Germany
 - [Simon Anderson](https://www.youtube.com/@Simon-Andersen) I take trains and transit across the world come along for the journey!
 - [SpainRevealed](https://www.youtube.com/@spainrevealed) Want to experience Spain like a local? You've come to the right place! We're James and Yoly (a Kiwi and a Spaniard) and our mission is to help you experience this wonderful country deeply. Travel guides, tapas, wine, tips and insights.
