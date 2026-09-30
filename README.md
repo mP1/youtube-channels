@@ -462,6 +462,7 @@ A simple list with rough categorizations.
   Over the last couple of years, I have also built up an excellent selection of classic arcade boards and cabinets, and I love restoring them to their original state as much as possible.
   My current collection of over 4,000 systems and titles can be found at: http://www.electricadventures.net/collection
 - [ETA Prime](https://www.youtube.com/c/ETAPRIME) Mostly retro gaming emulation on raspberry pi and similar SBCs.
+- [f4mi](https://www.youtube.com/@f4micom) [insert cool and original channel description here]
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Greg Sewart](https://www.youtube.com/@sewart/videos) My goal is to chronologically play and review every game released on Sega's greatest system, as well as outline some of the history surrounding the development of the games, the hardware, and the general goings-on of the video game industry back in the nineties.
 - [GenXGrownUp](https://www.youtube.com/@GenXGrownUp) "You have to grow older, but you don't have to grow up." Generation X. If you grew up in the 1970s, 1980s, and early 1990s, you know just how cool it was to be a kid back then. We had the greatest music, movies, games, technology, and pop culture of any generation, and though we've grown older, we have refused to outgrow our love of everything GenX. GenXGrownUp looks at yesterday and today through the eyes of Generation X'ers who have refused to grow up!
