@@ -304,6 +304,7 @@ A simple list with rough categorizations.
 - [TimeTravels](https://www.youtube.com/@HistoryTimeTravels) Journey through time to uncover amazing, dramatic and bizarre stories from the past - but also ask the questions, what does it look like now? And what if things had happened differently? From ancient Rome and colonial Australia, to Victorian era London, early-settler New Zealand and beyond - come with us as we uncover the the pivotal turning points in history that changed the destiny of empires and transformed our world.
 - [The Casual Earth](https://www.youtube.com/@casualearth9076) Videos about geography, weather and more
 - [Tom Scott](https://www.youtube.com/user/enyay) Tom visits mostly European locations turning the mundane into something special.
+- [Tomz](https://www.youtube.com/@Tomz) I film my travels and put it out on this platform
 - [Townsends](https://www.youtube.com/@townsends) A channel dedicated to exploring the 18th Century lifestyle.
 - [Tracks Travel Docs](https://www.youtube.com/@TRACKSTravelDocs) Beautiful sweeping scenery, never-before-seen holiday destinations and insider sneak-peeks into countries you’ll be dying to visit
 - [TravelObscurer](https://www.youtube.com/@TravelObscurer/videos) Travel all over the world.
