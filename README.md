@@ -144,7 +144,7 @@ A simple list with rough categorizations.
 ## Fun
 - [kubotubemakers](https://www.youtube.com/@kubotubemakers9700) https://vt.tiktok.com/ZSJhFefDw/
 
-## Football
+## FootballR
 
 - [Alfie Potts Harmer](https://www.youtube.com/@alfiepottsharmer1899) Football writer, storyteller, and former host of HITC Sevens.
 - [HITCSevents](https://www.youtube.com/HITCSevens) From the worst owners to the most prolific goal scorers, HITC Sevens takes a look at the seven best, worst, funniest, oldest or weirdest features of football's past and present.
@@ -300,6 +300,8 @@ A simple list with rough categorizations.
 - [Railways of the World](https://www.youtube.com/c/RailwaysoftheWorld1) Ride Public Transport around the worlds great cities and towns.
 - [Redouane GUELAILIA](https://www.youtube.com/@GeograFun) Learn about the history of flags, how they have evolved over time, and what they represent in different countries. This channel highlights interesting facts about the flags, such as their design, colors, and symbols.
 - [Rew Boss](https://www.youtube.com/@rewboss) A Brit's eyeview of Germany
+- [RMTransit](https://www.youtube.com/@RMTransit) Ever wondered why your city's transit just doesn't seem quite up to snuff? RMTransit is here to answer that, and help you open your eyes to all of the different public transportation systems around the world!
+  Reece (the RM in RMTransit) is an urbanist and public transport critic residing in Toronto, Canada, with the goal of helping the world become more connected through metros, trams, buses, high-speed trains, and all other transport modes.
 - [Simon Anderson](https://www.youtube.com/@Simon-Andersen) I take trains and transit across the world come along for the journey!
 - [SpainRevealed](https://www.youtube.com/@spainrevealed) Want to experience Spain like a local? You've come to the right place! We're James and Yoly (a Kiwi and a Spaniard) and our mission is to help you experience this wonderful country deeply. Travel guides, tapas, wine, tips and insights.
 - [Steve Marsh](https://www.youtube.com/@steve-marsh) We film what we enjoy doing and post it on the internet. NEVER A LIE, NEVER AI.
