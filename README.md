@@ -405,6 +405,7 @@ A simple list with rough categorizations.
 
 - [AnimaLogic](https://www.youtube.com/c/animalogic) Animalogic, your field guide to the animal kingdom.
 - [Bioark](https://www.youtube.com/@bioark1910) A new project from RealLifeLore. The same kinds of videos, just all about animals, animal facts and biology
+- [Forrest Galante](https://www.youtube.com/@ForrestGalante) Forrest Galante is a world-renowned wildlife biologist and TV Host. His mission is to inspire and educate people about animals and adventure through the media, including hosting programs on Discovery Channel, on-camera expert interviews, and production of his own wildlife and natural history shows.
 
 ## Planes
 - [Dark Skies](https://www.youtube.com/channel/UCwx8xyh6ZlDI5ZQpbIWKnUg) More about plane developments, history and tech.
