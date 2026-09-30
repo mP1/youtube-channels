@@ -440,6 +440,11 @@ A simple list with rough categorizations.
 - [Deskcombo](https://www.youtube.com/@deskcombo) This channel features videos examining and explaining fighting game system mechanics, tutorials, advanced combo videos, glitches and skill showcases
 - [Displaced Games](https://www.youtube.com/c/DisplacedGamers) Tech talk about all sorts of past consoles and games.
 - [DrMattRegan](https://www.youtube.com/@DrMattRegan) Welcome to the channel.  Here I present a number of tutorial-style videos for people who want to learn how computers work using a hand's-on approach. While we mainly focus on the legendary 6502 microprocessor at the moment, the plan is for more Z80, 68000, 8086 and computer graphics content.
+- [electricadventures](https://www.youtube.com/@electricadventures) Retro computer and console gaming and collecting. Homebrew developer for the Colecovision, MSX, NES, SNES and Spectravideo.
+  A self-confessed MSX fanatic (or any machine based on the TI graphics chipset - Coleco, Sega etc).
+  With a preference for Shoot-em-ups and arcade ports, especially Japanese-based versions.
+  Over the last couple of years, I have also built up an excellent selection of classic arcade boards and cabinets, and I love restoring them to their original state as much as possible.
+  My current collection of over 4,000 systems and titles can be found at: http://www.electricadventures.net/collection
 - [ETA Prime](https://www.youtube.com/c/ETAPRIME) Mostly retro gaming emulation on raspberry pi and similar SBCs.
 - [GameHut](https://www.youtube.com/channel/UCfVFSjHQ57zyxajhhRc7i0g) Stories on how and why about mostly old sega console programming.
 - [Greg Sewart](https://www.youtube.com/@sewart/videos) My goal is to chronologically play and review every game released on Sega's greatest system, as well as outline some of the history surrounding the development of the games, the hardware, and the general goings-on of the video game industry back in the nineties.
