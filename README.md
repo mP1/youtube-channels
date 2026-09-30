@@ -94,8 +94,8 @@ A simple list with rough categorizations.
 
 ## Current Affairs
 
-- [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [ABCNewsIndepth](https://www.youtube.com/@ABCNewsIndepth) Welcome to ABC News In-depth, where you'll find our long-form journalism and explainers to help you understand what's going on in the world around you.
+- [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [BBCAfrica](https://www.youtube.com/@BBCAfrica/) BBC Africa draws on its extensive network of journalists to deliver the biggest stories from across the continent and its diaspora. From culture and entertainment, to politics, business and sport, these are African stories brought to you by the world's most trusted news source.
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [CaspianReport](https://www.youtube.com/@CaspianReport) We try to make sense of an increasingly complicated world by cutting through the noise and analysing geopolitical trends.
@@ -115,10 +115,10 @@ A simple list with rough categorizations.
 - [Statrys](https://www.youtube.com/@Statrys) I'm Bertrand, founder of Statrys. Twenty years of building a fintech in Asia gives me a view most commentators don't have.
 - [Steve Rosenberg](https://www.youtube.com/@BBCSteveR) Russia Editor for BBC News
 - [StevenNdukwu](https://www.youtube.com/@StevenNdukwu) Steven Ndukwu is a Seasoned Filmmaker, Internet Personality, and Content Creator with over 50 Million online views about stories from around the world in his well-put-together Travel Documentaries. On this channel, you will also discover the Beauty of Africa and the world in general and get to see African-owned businesses/Innovations that are changing lives and creating impact.
-- [Tomas Pueyo](https://www.youtube.com/@tomas_pueyo) Unravel how the world works today to navigate the world of tomorrow
 - [TayoAinaFilms](https://www.youtube.com/@TayoAinaFilms) Passionate Filmmaker and Storyteller with a vision to tell stories that challenge the status quo and inspire others to do what inspires them so we can change the world together.
-- [WELT](https://www.youtube.com/@WELTDocumentary/) Documentaries about various contemporary news items from Germany
+- [Tomas Pueyo](https://www.youtube.com/@tomas_pueyo) Unravel how the world works today to navigate the world of tomorrow
 - [WanderingTurnip](https://www.youtube.com/@wanderingturnip) Letting my mind and feet wander, and filming the process. Big fan of mill chimneys, cheap houses and dry stone walls. Not very good at a 9-5 career
+- [WELT](https://www.youtube.com/@WELTDocumentary/) Documentaries about various contemporary news items from Germany
 
 ## Electronics
 
