@@ -454,6 +454,10 @@ A simple list with rough categorizations.
 - [Bloggos Pow](https://www.youtube.com/@BloggosPow) Playing and talking at you about retrogames. Occasionally sentimental, often unrehearsed.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
 - [Daniel Ibberson](https://www.youtube.com/c/djslopesroom) Anthology of games and arcade machines.
+- [DEMOSCENE](https://www.youtube.com/@DEMOSCENE) Demoscene. 8bit. Subculture.
+  Retro computers. Computer art. Geek scene.
+  All you need is DEMOSCENE!
+  And ZX SPECTRUM...
 - [Deskcombo](https://www.youtube.com/@deskcombo) This channel features videos examining and explaining fighting game system mechanics, tutorials, advanced combo videos, glitches and skill showcases
 - [Displaced Games](https://www.youtube.com/c/DisplacedGamers) Tech talk about all sorts of past consoles and games.
 - [DrMattRegan](https://www.youtube.com/@DrMattRegan) Welcome to the channel.  Here I present a number of tutorial-style videos for people who want to learn how computers work using a hand's-on approach. While we mainly focus on the legendary 6502 microprocessor at the moment, the plan is for more Z80, 68000, 8086 and computer graphics content.
