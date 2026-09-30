@@ -259,6 +259,10 @@ A simple list with rough categorizations.
 - [Flags in Focus](https://www.youtube.com/@FlagsinFocus)If you have a mild interest in flags or you’re a full on vexillologist, then this channel is for you. It’s informative, entertaining and has flags!
 - [fourth_place](https://www.youtube.com/@fourth_place) Videos about American geography
 - [FreeHighQualityDocumentaries](https://www.youtube.com/@FreeHighQualityDocumentaries) Typically hour long documentaries about of the worlds creatures
+- [Geoff Marshall](https://www.youtube.com/@geofftech2) I'm a documentary filmmaker creating stories about transport and travel - railways, buses, stations, engineering, and design.
+  I visited all 2,563 stations in Great Britain in 2017, followed by visiting every station in Ireland and the Isle of Man in 2019, and I continue to visit every new station that has opened since.
+  In 2024, I rode a part of all 544 bus routes in London, followed by in 2026 riding a part of all 64 'N' London night buses too.
+  I've also twice been a Guinness World Record, for travelling to all London Underground stations in the fastest time possible.
 - [Geo Girl](https://www.youtube.com/@GEOGIRL) Geoscience, aka tectonics, dinosaurs etc.
 - [Geography Geek](https://www.youtube.com/c/GeographyGeek) Interesting Geography videos mostly about old maps
 - [GeographyTour](https://www.youtube.com/@GeographyTour) Geography tour is a channel that produces interesting facts and videos about the geography of countries and also talks about important political and economic issues of the countries of the world.
