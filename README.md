@@ -82,6 +82,8 @@ A simple list with rough categorizations.
 
 - [Cricket Correspondent](https://www.youtube.com/@CricketCorrespondent) I make videos about Cricket sometimes. But mostly I do not make videos at all.
 - [Cricket Machine](https://www.youtube.com/@CricketMachineZA) Cricket. All day. Every day. Subscribe for cricket info, laws, highlights and more!
+- [Cricket Uncovered](https://www.youtube.com/@Cricketuncoverd) For exciting Cricket Videos subscribe us.
+  We bring match Recaps, Player Stories and more..
 - [Robelinda](https://www.youtube.com/@robelinda) The one place for cricket videos
 - [That's Cricket](https://www.youtube.com/@thatscricketjm) Jomboy Media’s home for all things cricket! Analysis, stories, and live reactions from the sport’s biggest moments — led by Adam Bannon
 - [The Knight Watchman](https://www.youtube.com/@theknightwatchman) Australian cricket history and memorabilia, military history and true crime.
