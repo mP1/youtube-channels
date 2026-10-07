@@ -323,6 +323,7 @@ A simple list with rough categorizations.
 - [Vaga Vagabond](https://www.youtube.com/@ivantrainsLIVE) I'm Vaga Bond, a traveler from Russia. This channel was created to upload videos in English about my adventures all over the world. I travel by hitchhiking, freight hopping, foots but sometimes as a regular passenger. I believe the things I do is a part of my way to success because I genuinely like them.
 - [Weird Explorer](https://www.youtube.com/c/WeirdExplorer) Cashew apple fruit...
 - [WesWherever](https://www.youtube.com/@WesWherever) Adventures in unexpected places...
+- [Wild Man Life](https://www.youtube.com/@wildmanlifeworld) Wild Man Life is a travel platform and media team dedicated to uncovering the world’s most remote destinations, with a strong focus on desert regions and off-the-beaten-path exploration. Through immersive storytelling, striking photography, and carefully curated expeditions, we document places rarely seen and stories rarely told. Our work aims to preserve cultural memory by highlighting ancient civilizations, historic routes, and landscapes shaped by time.
 - [Wolftrekker - Geoguessr](https://www.youtube.com/channel/UC9ZOITSmt6a7itXEyy3dwbA) Geoguessr travel the world google maps game
 - [World Nomac](https://www.youtube.com/@worldnomac) Changing perceptions of the world 🌍
 
