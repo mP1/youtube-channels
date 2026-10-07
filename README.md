@@ -517,6 +517,7 @@ A simple list with rough categorizations.
 - [System of Levers](https://www.youtube.com/@systemoflevers) Hello I'm Jesse and I'm solving problems no one else seems to be having. GameBoys, programming, electronics, whatever I can think of!
 - [The1SunshineFeeler](https://www.youtube.com/@The1SunshineFeeler) Bringing mysteries to light… about retro games
 - [Tobi](https://www.youtube.com/@GameofTobi) Gameboy and SNES Mario 3D and more
+- [Vitor Vilela](https://www.youtube.com/@HackerVilela) Welcome to my channel. I upload random videos, usually related to SNES ROM hacking.
 - [WhitePointerGaming](https://www.youtube.com/@WhitePointerGaming) Some retro hardware analysis and other game play design.
 - [Xyphoe](https://www.youtube.com/@Xyphoe) I'm a retro gamer and Amstrad fanatic! I love creating longplay & review videos especially for the Amstrad CPC, but I cover other retro systems too with features, documentaries, longplays, reviews and more! Every Friday at 9pm is my weekly live stream called the "AMSTREAM" - which is the home for the Amstrad fans but all gamers are welcome to our vibrant, friendly and welcoming community! You can also find me streaming on Twitch Monday to Thursday evenings!
 - [Xygor](https://www.youtube.com/@Xygor) I'm a retro gaming fanatic! I review retro games, dive deeper into individual games through my storyline summaries, and revive all the nostalgia of my childhood. Basically, I bring the best games of the past to light again!
