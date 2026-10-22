@@ -498,6 +498,16 @@ A simple list with rough categorizations.
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
 - [PixelPilots](https://www.youtube.com/@PIXELPILOTS-STG) Shmups, STGs, Shooters and action games. But also beat'em'ups, platformers, ninjas, zombies, and pirates! Retro and modern platformers.
 - [Reassembler](https://www.youtube.com/@reassembler68k)Touching The Metal ..... Emulation, Decompilation, Hacking, Old Skool Gaming
+- [Retro Gamer Boy](https://www.youtube.com/@RetroGamerBoy) Welcome to the Retro Gamer Boy Show, The Ultimate SEGA Retro Gaming Channel!
+  Are you a SEGA retro gaming fan? You're in the right place!
+  Hi, I’m Mike, your host and a lifelong retro gaming enthusiast. I’m also a veteran game developer with experience at top studios like PlayStation, Xbox, 2K, and Ubisoft, creating things like the PSN Trophy system and working on blockbuster titles, some of which are now retro classics!
+  On this channel, you’ll discover:
+  🕹️ Rare & exclusive SEGA game collectables from my collection
+  🔁 Restoration projects for SEGA consoles & games
+  🎨 New indie SEGA games & community highlights
+  📦 SEGA Kickstarter coverage & physical game releases
+  💾 Behind-the-scenes stories from the gaming industry
+  Whether you’re into the SEGA Genesis / Mega Drive, Saturn, Dreamcast, Game Gear, or Master System, there’s something here for every Sega fan. Subscribe and join a passionate community celebrating everything SEGA retro, from classics to the latest homebrew and indie dev games!
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 - [RetroRic](https://www.youtube.com/RetroRic79) Big Street Fighter II fan who is most fond of the 16-Bit era of arcade, console and home computer video gaming.
 - [RobSmithDev](https://www.youtube.com/@RobSmithDev) Welcome to RobSmithDev!
