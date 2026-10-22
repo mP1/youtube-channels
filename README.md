@@ -456,6 +456,7 @@ A simple list with rough categorizations.
 - [BitmapBooks](https://www.youtube.com/@BitmapBooks) Founded by graphic designer Sam Dyer, Bitmap Books is an award-winning independent publisher of retro gaming books. The company aims to celebrate the software, hardware, developers, and code shops that laid down the foundations for the billion-dollar industry we know and love today.
 - [Bloggos Pow](https://www.youtube.com/@BloggosPow) Playing and talking at you about retrogames. Occasionally sentimental, often unrehearsed.
 - [Coding secrets](https://www.youtube.com/c/CodingSecrets) More videos from GameHut.
+- [Colin Hoad](https://www.youtube.com/@ColinHoad) Hello! I'm Colin and I make videos about my love of all things Acorn - the BBC Micro, BBC Master, Acorn Electron and all the games and software these mighty machines are capable of running. I got my first Acorn Electron at the age of 4 and have been playing and programming with Acorn machines ever since.
 - [Daniel Ibberson](https://www.youtube.com/c/djslopesroom) Anthology of games and arcade machines.
 - [DEMOSCENE](https://www.youtube.com/@DEMOSCENE) Demoscene. 8bit. Subculture.
   Retro computers. Computer art. Geek scene.
