@@ -152,6 +152,7 @@ A simple list with rough categorizations.
 - [Alfie Potts Harmer](https://www.youtube.com/@alfiepottsharmer1899) Football writer, storyteller, and former host of HITC Sevens.
 - [HITCSevents](https://www.youtube.com/HITCSevens) From the worst owners to the most prolific goal scorers, HITC Sevens takes a look at the seven best, worst, funniest, oldest or weirdest features of football's past and present.
 - [Rabona TV](https://www.youtube.com/@RabonaTV) Football content with substance and depth. Explainers, essays, player profiles, and current events.
+- [The Kit Room](https://www.youtube.com/@TheKitRoomTV) Football's strangest stories, explained. Clubs playing in the wrong country, cups won by outsiders and the history behind the game's oddest corners, one illustrated list at a time.
 - [Tifo](https://www.youtube.com/@Tifo) In-depth tactical, historical and geopolitical breakdowns of the beautiful game.
 
 # Game dev
