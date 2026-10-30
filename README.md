@@ -296,6 +296,8 @@ A simple list with rough categorizations.
 - [KowabanaJapan](https://www.youtube.com/@KowabanaJapan/) Weird stories from Japan
 - [Life Where im From](https://www.youtube.com/c/LifeWhereImFrom) Life in Japan
 - [LittleChineseEverywhere](https://www.youtube.com/@littlechineseeverywhere) I am Yan, and I am a human geographer! After my first season "The Longest Way Back Home (Switzerland to China)", I am now in the midst of season 2 which is about China! The plan is to visit every province in Chinese mainland and share its uniqueness!
+- [Mapped Out with Shawn](https://www.youtube.com/@MappedOutwithShawn) Welcome to Mapped Out!
+  I had great history and geography teachers growing up who sparked my curiosity about the world. Now I’m sharing that same curiosity with you, mapping out the stories of the world we live in today.
 - [Max Nomad](https://www.youtube.com/channel/UC7KNnrC4a3Egv09CLSO0ccA) Travel around Europe
 - [Max Roving](https://www.youtube.com/@MaxRoving) Travelling to places most people wouldn't go. Currently cycling around the world.
 - [Name Explain](https://www.youtube.com/c/NameExplain) Names of everything around the world.
