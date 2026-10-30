@@ -23,6 +23,10 @@ A simple list with rough categorizations.
 ## Cars
 - [Top Gear Minis](https://www.youtube.com/@WheelyGoodChannel-ly5ki) On this channel, I will post bus videos or emergency vehicle videos.
 
+## Chess
+
+- [wintrcat](https://www.youtube.com/@wintrcat) WintrChess
+
 ## Computing
 
 - [8-Bit Basic](https://www.youtube.com/@8-BitBasic) BASIC programming on real vintage computers. This channel is all about the Commodore 64 and the golden age of 8-bit computing. I type in real BASIC programs from scratch — games, demos, and experiments — and explain every line as I go. Yes, I will mess it up. That's part of the experience. Whether you're learning retro computing from scratch, reliving the 1980s home computer era, or just curious how those old machines actually worked, you'll fit right in. New videos every week. Welcome to 8-Bit Basic.
