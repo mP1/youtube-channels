@@ -106,6 +106,7 @@ A simple list with rough categorizations.
 - [BBCAfrica](https://www.youtube.com/@BBCAfrica/) BBC Africa draws on its extensive network of journalists to deliver the biggest stories from across the continent and its diaspora. From culture and entertainment, to politics, business and sport, these are African stories brought to you by the world's most trusted news source.
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [CaspianReport](https://www.youtube.com/@CaspianReport) We try to make sense of an increasingly complicated world by cutting through the noise and analysing geopolitical trends.
+- [Daily Mail World](https://www.youtube.com/@dailymail) Welcome to Daily Mail World - the place for unrivaled geopolitical access, shows and insights.
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
 - [DiscoveryFuture](https://www.youtube.com/@DiscoveryFuture) Discovery Future covers recent scientific and archaeological discoveries. Join us as we explore in detail these fascinating topics.
 - [DW Euromaxx](https://www.youtube.com/@dweuromaxx) Europe Explained: Everything you've ever wanted to know about Europe - from traditions and habits to culture shocks and record breakers.
