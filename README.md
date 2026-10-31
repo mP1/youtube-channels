@@ -377,6 +377,7 @@ A simple list with rough categorizations.
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions) High quality analysis and history of past wars, often with unseen footage.
 - [Manuel Bravo](https://www.youtube.com/@ManuelBravo/videos) Visit many ancient archeological sites in 3D and more
 - [Megaprojects](https://www.youtube.com/@megaprojects9649) Megaprojects is a program all about humanity's greatest achievements.
+- [Mystery Ledger](https://www.youtube.com/@Mystery_ledger007) Mystery Ledger investigates real mysteries by following the evidence: what we know, what we don't, and why it is still unsolved. Historical puzzles, ancient finds, science and engineering enigmas, and documented crime and cold cases. No hype and no false closure: every video lists its sources, and "unknown" is an acceptable ending.
 - [NFSA Films](https://www.youtube.com/user/FILMAUSTRALIA) Interesting look back at old Australia, before interwebs, b&w tv ...
 - [Night Scarab](https://www.youtube.com/@nightscarab5802/videos) Ideas about how the Egyptian pyramids were built
 - [Odyssey](https://www.youtube.com/c/odyssey) Odyssey - Ancient History Documentaries
