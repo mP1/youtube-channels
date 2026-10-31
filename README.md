@@ -57,6 +57,7 @@ A simple list with rough categorizations.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [LearnThatStack](https://www.youtube.com/@LearnThatStack) We break down core concepts and real interview questions from Javascript, React, Angular, Node.js, Java, Python, system design, software architecture and many other topics into short, practical videos. And deep dives on different software  engineering topics ranging from language specific features/concepts to system design and architecture.
 - [LeilaGharani](https://www.youtube.com/c/LeilaGharani) Deep dive & tutorials about Microsoft Office products
+- [Low Level](https://www.youtube.com/@LowLevelTV) Vuln Researcher w/ 10+ Years in Cybersecurity
 - [MeetingCPP](https://www.youtube.com/@MeetingCPP) Meeting C++ is an independent platform for C++, supporting the C++ community by sharing news, blogs and events for C++. Details on the yearly Meeting C++ Conference can be found on the website https://meetingcpp.com
 - [MicroarchClub](https://www.youtube.com/@MicroarchClub) The art, science, and history of processor design.
 - [Microsoft Developer](https://www.youtube.com/@MicrosoftDeveloper) Official Microsoft Developer YouTube channel! Featuring live events, tips and tutorials, product news and more to help you explore, discover, and build solutions - using your favorite languages, technologies, and open-source frameworks.
