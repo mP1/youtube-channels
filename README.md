@@ -25,6 +25,7 @@ A simple list with rough categorizations.
 
 ## Chess
 
+- [GothamChess](https://www.youtube.com/@GothamChess) The Internet's Chess Teacher
 - [wintrcat](https://www.youtube.com/@wintrcat) WintrChess
 
 ## Computing
