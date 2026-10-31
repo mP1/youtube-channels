@@ -110,6 +110,7 @@ A simple list with rough categorizations.
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [CaspianReport](https://www.youtube.com/@CaspianReport) We try to make sense of an increasingly complicated world by cutting through the noise and analysing geopolitical trends.
 - [Daily Mail World](https://www.youtube.com/@dailymail) Welcome to Daily Mail World - the place for unrivaled geopolitical access, shows and insights.
+- [Denys Davydov](https://www.youtube.com/@DenysDavydov)
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
 - [DiscoveryFuture](https://www.youtube.com/@DiscoveryFuture) Discovery Future covers recent scientific and archaeological discoveries. Join us as we explore in detail these fascinating topics.
 - [DW Euromaxx](https://www.youtube.com/@dweuromaxx) Europe Explained: Everything you've ever wanted to know about Europe - from traditions and habits to culture shocks and record breakers.
