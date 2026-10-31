@@ -509,6 +509,7 @@ A simple list with rough categorizations.
 - [One Million Power](https://www.youtube.com/@OneMillionPower) One Million Power explores the overlooked history of Japanese video games through research, translation, and documentary storytelling. We focus on the creators, musicians, speedrunners, communities, and cultural movements that shaped Japan’s gaming legacy — especially the stories rarely told outside of Japan. Many episodes draw from original Japanese-language sources, developer interviews, magazines, and archival materials to present deeper historical context for classic games and series.
 - [Onaretrotip](https://youtube.com/c/onaretrotip) Old school stories games, software houses etc.
 - [OtaKing Animation](https://www.youtube.com/@OtaKing77077) Anime of retro games such as R-Type and more.
+- [piotoor_dev](https://www.youtube.com/@piotoor_dev) This channel is dedicated to C64 projects I'm working on
 - [POJR](https://www.youtube.com/@Pojr) A different look at Atari, NES and a few other old consoles and their games.
 - [PixelPilots](https://www.youtube.com/@PIXELPILOTS-STG) Shmups, STGs, Shooters and action games. But also beat'em'ups, platformers, ninjas, zombies, and pirates! Retro and modern platformers.
 - [Reassembler](https://www.youtube.com/@reassembler68k)Touching The Metal ..... Emulation, Decompilation, Hacking, Old Skool Gaming
