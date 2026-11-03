@@ -54,6 +54,8 @@ A simple list with rough categorizations.
 - [JetbrainsTV](https://www.youtube.com/user/JetBrainsTV) Mostly about languages and features supported by Jetbrains tooling and open source.
 - [KeithBBergman](https://www.youtube.com/@KeithBBergman) He's sliding into middle age writing and vlogging about retro games, collecting 80s computer flotsam, and coding his own little doo-dads on vintage machines.  The sound of programs loading from cassette tape into a TI 99/4A is his ASMR.
 - [KevinLubick](https://www.youtube.com/@KevinLubick) Interesting breakdown of various computing problems and algorithms.
+- [Kenji Explains](https://www.youtube.com/@KenjiExplains) 🧑‍💻 Explaining the data, AI, and finance concepts I wish I had known earlier!
+  📚 Check out my courses if you want to learn more: careerprinciples.com
 - [LinuxConfAu](https://www.youtube.com/@linuxconfau) linux.conf.au is an annual conference in Australia or New Zealand, with a focus on Linux, the community that has built up around it and the values that it represents.
 - [Liveoverflow](https://www.youtube.com/c/LiveOverflow) About the hacking scene, the tools, approach and more.
 - [LearnThatStack](https://www.youtube.com/@LearnThatStack) We break down core concepts and real interview questions from Javascript, React, Angular, Node.js, Java, Python, system design, software architecture and many other topics into short, practical videos. And deep dives on different software  engineering topics ranging from language specific features/concepts to system design and architecture.
