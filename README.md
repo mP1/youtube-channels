@@ -117,8 +117,9 @@ A simple list with rough categorizations.
 - [Denys Davydov](https://www.youtube.com/@DenysDavydov)
 - [Deutsch World Documentary](https://www.youtube.com/c/DWDocumentary) Current Affairs
 - [DiscoveryFuture](https://www.youtube.com/@DiscoveryFuture) Discovery Future covers recent scientific and archaeological discoveries. Join us as we explore in detail these fascinating topics.
+- [DW Documentary](https://www.youtube.com/@DWDocumentary)
 - [DW Euromaxx](https://www.youtube.com/@dweuromaxx) Europe Explained: Everything you've ever wanted to know about Europe - from traditions and habits to culture shocks and record breakers.
-- [DW News](https://www.youtube.com/@dwnews)
+- [DW News](https://www.youtube.com/@dwnews) DW Documentary gives you information beyond the headlines. Watch top documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary from Deutsche Welle (DW), Germany's international broadcaster.
 - [DW Planet A](https://www.youtube.com/@DWPlanetA) We're destroying our environment at an alarming rate. But it doesn't need to be this way. Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means. We look at the big and the small: What we can do and how the system needs to change. Every Friday we'll take a truly global look at how to get us out of this mess.
 - [France24EN](https://www.youtube.com/@France24_en) Official FRANCE 24's YouTube channel, international news 24/7. Watch international video news from around the world !
 - [Geo politics](https://www.youtube.com/@ednerd4275) In this video, we'll dive into the effects of Brexit on Europe and the UK four years after the historic decision. We'll explore the economic, social, and political changes that have unfolded since the UK left the EU.
