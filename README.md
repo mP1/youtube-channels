@@ -107,6 +107,9 @@ A simple list with rough categorizations.
 ## Current Affairs
 
 - [ABCNewsIndepth](https://www.youtube.com/@ABCNewsIndepth) Welcome to ABC News In-depth, where you'll find our long-form journalism and explainers to help you understand what's going on in the world around you.
+- [Al Jazeera English](https://www.youtube.com/@aljazeeraenglish) #AlJazeeraEnglish, we focus on people and events that affect people's lives. We bring topics to light that often go under-reported, listening to all sides of the story and giving a 'voice to the voiceless.'
+  Our impartial, fact-based reporting wins worldwide praise and respect. It is our unique brand of #journalism that the world has come to rely on.
+  We are reshaping global media and constantly working to strengthen our reputation as one of the world's most respected #news and #CurrentAffairs channels.
 - [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [BBCAfrica](https://www.youtube.com/@BBCAfrica/) BBC Africa draws on its extensive network of journalists to deliver the biggest stories from across the continent and its diaspora. From culture and entertainment, to politics, business and sport, these are African stories brought to you by the world's most trusted news source.
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
