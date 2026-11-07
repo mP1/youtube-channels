@@ -362,6 +362,9 @@ A simple list with rough categorizations.
 - [Adrian Goldsworthy](https://www.youtube.com/@AdrianGoldsworthytheAuthor) This is the youtube channel of Adrian Goldsworthy, author of numerous non fiction histories of the Ancient World, and also of novels including the Flavius Ferox adventures and the Napoleonic Series about the exploits of Williams, Hanley, Pringle and the rest of the 106th Foot in Portugal and Spain.
 - [Archeology Now](https://www.youtube.com/@ArchaeologyNow) Focus on especially ancient empires and what has been found.
 - [Backtrack Channel](https://www.youtube.com/@backtracks.channel) If you want to know more about Australasia's transport history - specifically trams and light rail (but may be in future trains, buses, ferries and roads.) - this is the channel for you.
+- [Bloody Interesting Stories](https://www.youtube.com/@bloodyinterestingstories) Bloody Interesting Stories tells the strange, dark, forgotten and frankly ridiculous moments from history — from shipwrecks and scandals to ghosts, rebellions, disasters, doomed explorers and stories too bizarre to leave buried.
+  Cinematic history for the curious, the sceptical and anyone who likes their past with a bit of blood, grit and mischief.
+  New stories coming soon.
 - [Brew](https://www.youtube.com/@Brew) Solving mysteries, one cup at a time ☕️
 - [British Museums](https://www.youtube.com/c/BritishMuseumEvents) Museums and the Construction of Memory
 - [Canadiana](https://www.youtube.com/@Canadiana) On the hunt for the most incredible stories in Canadian history
