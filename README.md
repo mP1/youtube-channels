@@ -182,6 +182,7 @@ A simple list with rough categorizations.
   Transfers, wages, debt, owners and the deals behind the headlines, explained with the real numbers.
   New videos every week.
 - [Rabona TV](https://www.youtube.com/@RabonaTV) Football content with substance and depth. Explainers, essays, player profiles, and current events.
+- [Serie A](https://www.youtube.com/@seriea) Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights, Magazine & Compilations (such as Best Saves, Numbers, Top 11, etc), Exclusive Interviews, Press Conferences and much more. If you are a football fan and you want to be part of our community don't forget to subscribe to Serie A channel.
 - [The Kit Room](https://www.youtube.com/@TheKitRoomTV) Football's strangest stories, explained. Clubs playing in the wrong country, cups won by outsiders and the history behind the game's oddest corners, one illustrated list at a time.
 - [Tifo](https://www.youtube.com/@Tifo) In-depth tactical, historical and geopolitical breakdowns of the beautiful game.
 - [UEFA](https://www.youtube.com/@UEFA) Welcome to the official UEFA YouTube channel, home of the BEST moments from across European football!
