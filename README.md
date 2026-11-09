@@ -349,6 +349,8 @@ A simple list with rough categorizations.
 - [Simon Anderson](https://www.youtube.com/@Simon-Andersen) I take trains and transit across the world come along for the journey!
 - [SpainRevealed](https://www.youtube.com/@spainrevealed) Want to experience Spain like a local? You've come to the right place! We're James and Yoly (a Kiwi and a Spaniard) and our mission is to help you experience this wonderful country deeply. Travel guides, tapas, wine, tips and insights.
 - [Steve Marsh](https://www.youtube.com/@steve-marsh) We film what we enjoy doing and post it on the internet. NEVER A LIE, NEVER AI.
+- [Tanner](https://www.youtube.com/@tanners.videos) Hi I’m Tanner from Hawaii, living in Tokyo.
+  I make videos about Japan's public transit.
 - [TarikBelasri](https://www.youtube.com/@TarikBelasri/) 👋 I'm Tarik Belasri — Licensed Tour Guide in Morocco & founder of Morocco Holiday Services, a licensed Travel Agency & DMC in Marrakech & Casablanca. +11 years of experience, approved by the Ministry of Tourism of Morocco. Authentic stories & insider tips from Morocco: Marrakech, Fes, Casablanca, Tangier, Chefchaouen, the Sahara (Merzouga & Erg Chebbi), Atlas Mountains & Essaouira.
 - [Terramatter](https://www.youtube.com/@terramater) Nature is wild and wonderful! Take a look at the best what our planet has to offer - from weird to breathtaking.
 - [Tim the traveller](https://www.youtube.com/c/TheTimTraveller) Visit Europe with Tim, short and fun.
