@@ -557,6 +557,7 @@ A simple list with rough categorizations.
   Whether you’re into the SEGA Genesis / Mega Drive, Saturn, Dreamcast, Game Gear, or Master System, there’s something here for every Sega fan. Subscribe and join a passionate community celebrating everything SEGA retro, from classics to the latest homebrew and indie dev games!
 - [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained) eg: Pokémon Sprite Decompression Explained, Memory Mapping - Super Nintendo Entertainment System Features Pt. 09
 - [RetroRic](https://www.youtube.com/RetroRic79) Big Street Fighter II fan who is most fond of the 16-Bit era of arcade, console and home computer video gaming.
+- [RetroRGB](https://www.youtube.com/@RetroRGB) A channel focusing on retro-gaming with demo's, reviews, developer interviews and a weekly podcast keeping everyone in the loop of what's going on in the retro-gaming scene.  All topics correspond with the website retrorgb.com.  More links:  http://retrorgb.link/bob
 - [RobSmithDev](https://www.youtube.com/@RobSmithDev) Welcome to RobSmithDev!
   I'm a software engineer, electronics tinkerer, retro fan, and YouTuber who enjoys building fun things that spark nostalgia
   I'm known for......
