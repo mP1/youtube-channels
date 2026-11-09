@@ -116,6 +116,7 @@ A simple list with rough categorizations.
   We are reshaping global media and constantly working to strengthen our reputation as one of the world's most respected #news and #CurrentAffairs channels.
 - [B1M](https://www.youtube.com/c/Theb1mGoogle) Mostly current affairs about constructions around the world, trains, bridges, skyscrapers
 - [BBCAfrica](https://www.youtube.com/@BBCAfrica/) BBC Africa draws on its extensive network of journalists to deliver the biggest stories from across the continent and its diaspora. From culture and entertainment, to politics, business and sport, these are African stories brought to you by the world's most trusted news source.
+- [BBC News](https://www.youtube.com/@BBCNews) Breaking news, live updates and in-depth analysis from BBC News journalists around the world.
 - [BBC Reel](https://www.youtube.com/c/BBCReel) A different view of the world, past, present & future.
 - [CaspianReport](https://www.youtube.com/@CaspianReport) We try to make sense of an increasingly complicated world by cutting through the noise and analysing geopolitical trends.
 - [CBC News](https://www.youtube.com/@CBCNews) As Canada's national public news and information service, the CBC is committed to a set of values that include accuracy, fairness, balance, impartiality and integrity.
