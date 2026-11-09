@@ -182,6 +182,8 @@ A simple list with rough categorizations.
 - [Rabona TV](https://www.youtube.com/@RabonaTV) Football content with substance and depth. Explainers, essays, player profiles, and current events.
 - [The Kit Room](https://www.youtube.com/@TheKitRoomTV) Football's strangest stories, explained. Clubs playing in the wrong country, cups won by outsiders and the history behind the game's oddest corners, one illustrated list at a time.
 - [Tifo](https://www.youtube.com/@Tifo) In-depth tactical, historical and geopolitical breakdowns of the beautiful game.
+- [UEFA](https://www.youtube.com/@UEFA) Welcome to the official UEFA YouTube channel, home of the BEST moments from across European football!
+  Keep up to date with insane highlights, behind-the-scene content, classic matches and more ✅
 
 # Game dev
 
