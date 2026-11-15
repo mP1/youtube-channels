@@ -24,6 +24,7 @@ A simple list with rough categorizations.
 
 - [Ben Collins Drives](https://www.youtube.com/@BenCollinsDrives) Ben Collins | formerly The Stig | Stunt Driver in the Movies | Racing Champion
 - [DRIVETRIBE](https://www.youtube.com/@Drivetribe) Founded by Jeremy Clarkson, Richard Hammond and James May. Now the home of epic motoring and pulse-racing adventure.
+- [Hagerty](https://www.youtube.com/@Hagerty) We’re Hagerty, and we help enthusiast drivers insure, buy/sell and enjoy their rides
 - [Top Gear Minis](https://www.youtube.com/@WheelyGoodChannel-ly5ki) On this channel, I will post bus videos or emergency vehicle videos.
 
 ## Chess
