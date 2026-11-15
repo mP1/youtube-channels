@@ -539,6 +539,7 @@ A simple list with rough categorizations.
 - [Luxocrates](https://www.youtube.com/@luxocrates) Exploring technology’s lost arts through classic arcade gaming.
 - [Martin Piper](https://www.youtube.com/@MartinPiper6502) Includes long Technical reviews of C64 games
 - [Matt Greer](https://www.youtube.com/@MattGreer) Thoughs about Neo Geo development
+- [MeatBall](https://www.youtube.com/@ted-meat-ball) Retro football (soccer) games. Want to see pain, suffering, frustration? Come here.
 - [Mike Dailly](https://www.youtube.com/@MikeDailly)
 - [MOTAKUKI](https://www.youtube.com/@MOTAKUKISTUDIO) I am a solo creator dedicated to the Retro Gaming vault. My mission is to preserve the history of classic video games and the vintage consoles that defined our childhoods. Every NES cartridge, 8-bit secret, and forgotten treasure tells a story worth remembering. This isn’t just nostalgia—it’s a deep dive into the art, design, and pure adrenaline of the golden age of gaming. From the legendary challenge of Contra to the tech behind iconic hardware, I explore it all from a solo perspective.
 - [NathanBaggs](https://www.youtube.com/@nathanbaggs) Curios about old games
