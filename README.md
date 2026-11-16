@@ -14,6 +14,10 @@ A simple list with rough categorizations.
 - [Stayf Draws](https://www.youtube.com/@StayfDraws) I make video tutorials about drawing and painting on the iPad Pro in Procreate and other drawing apps. I am Stefan (Stayf) de Groot, a Dutch artist. I have been doing that professionally for over twenty years. I want to share my experience and the things I have learned with you. With the drawing tutorials you can learn to draw or improve your drawing skills. I also make product reviews of books, ebooks and products for digital drawing. Drawing is fun and practice makes perfect, doodles!
 - [Stephen Travers Art](https://www.youtube.com/@stephentraversart)Videos and time lapses of my journey into the world of urban sketching.  It all started in Paris in 2018.....
 
+## Bicycles, Scooters
+
+- [Berm Peak](https://www.youtube.com/@SethsBikeHacks) I'm Seth, and bicycles are my passion. Join me as we ride, fix, learn, and give, all from my workshop at the summit of Berm Peak.
+
 ## Boats, Shipping, Navigation
 
 - [Casual Navigation](https://www.youtube.com/c/CasualNavigation) Lots of info about ships and the oceans.
