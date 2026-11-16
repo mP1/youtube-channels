@@ -237,6 +237,7 @@ A simple list with rough categorizations.
 - [Nonsensical 2D](https://www.youtube.com/@Nonsensical2D) 2D games and stuff...
 - [Normal Neighbor](https://www.youtube.com/c/NormalNeighbor/videos) Pixel art
 - [Orangepixel](https://www.youtube.com/c/orangepixelmobile) OrangePixel indie mobile developer vlog
+- [PCRetroTech](https://www.youtube.com/@PCRetroTech) PCRetroTech is all about retro PC hardware of the 1980's and 1990's and programming it, pushing it to the limit and doing deep dives in the history and technology that defined our childhoods. It's about the retro nostalgia of that old technology that we all know and love!
 - [PieMastah](https://www.youtube.com/@Pie_Mastah) 👇 Check out 'No Name Village' on steam 👇 ⚔️ Developing a pixel art story-focused RPG.
 - [PixelArchitect](https://www.youtube.com/@PixelArchitect) I'm Noah, an architectural designer and new indie game dev. This Channel is dedicated to game design Devlogs and Pixel Art. I apply my architectural design experience to game design, in order to create an open world pixel art game.
 - [PixelOverlord](https://www.youtube.com/@PixelOverloadChannel) Hello! I make pixel based artworks for games and for fun. Enjoy!
