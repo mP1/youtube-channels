@@ -17,6 +17,8 @@ A simple list with rough categorizations.
 ## Bicycles, Scooters
 
 - [Berm Peak](https://www.youtube.com/@SethsBikeHacks) I'm Seth, and bicycles are my passion. Join me as we ride, fix, learn, and give, all from my workshop at the summit of Berm Peak.
+- [Electroheads](https://www.youtube.com/@Electroheads) We are Electroheads - and we are on a mission to accelerate the adoption of electric vehicles by making it easy for you to find the right electric bike, car or scooter for your needs.
+  Our videos are here to entertain you and guide you through this exciting new world.
 - [Global Cycling Network](https://www.youtube.com/@gcn) The Global Cycling Network puts you in the centre of the action: from the iconic climbs of Alpe D’Huez and Mont Ventoux to the cobbles of Flanders, everywhere there is road or pavé, world-class racing and pro riders, we will be there bringing you action, analysis and unparalleled access every week, every month, and every year. We show you how to be a better cyclist with our bike maintenance videos, tips for improving your cycling, cycling top tens, and not forgetting the weekly GCN Show. Join us on YouTube’s biggest and best cycling channel to get closer to the action and improve your riding!
 
 ## Boats, Shipping, Navigation
