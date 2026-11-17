@@ -478,7 +478,8 @@ A simple list with rough categorizations.
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) Fascinating maths.
 
-## Movies
+## Movies & Television
+
 - [History Buffs](https://www.youtube.com/c/HistoryBuffsLondon) Reviews of so called historical movies about what they got right and wrong.
 - [InDepthCine](https://www.youtube.com/@InDepthCine) I make videos that balance creative thought with technical filmmaking concepts - the kind of content which I wished I'd watched before stepping onto a film set for the first time.
 - [Nerdstalgic](https://www.youtube.com/@Nerdstalgic) Welcome to Nerdstalgic! Deep dives, breakdowns and in-depth video essays of all your favorite movies and TV shows from today AND yesterday!
